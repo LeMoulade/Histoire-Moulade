@@ -61,7 +61,7 @@
 - [[Dr Jekyll & Mr Hyde]]
 - [[James Moriarty]]
 - [[Monstre de Frankenstein]]
-- [[Angleterre/_Littérature/Obéron]]
+- [[Obéron]]
 - [[Sherlock Holmes]]
 
 ### *Evènements :* 
