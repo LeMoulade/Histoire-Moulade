@@ -21,28 +21,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Show files (debug)
-        run: |
-          pwd
-          ls -la
-          test -f package.json && cat package.json || true
-          test -d content && ls -la content || true
-
-      - name: Setup Node
+      - name: Setup Node 22 (required by Quartz 4.5.x)
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'   # <-- important
           cache: 'npm'
+
+      - name: Ensure npm ≥ 10.9.2
+        run: |
+          npm i -g npm@latest
+          npm -v
+          node -v
 
       - name: Install deps
         run: npm ci || npm install
 
-      # Essaie successivement plusieurs commandes de build selon les versions
       - name: Build Quartz
-        run: |
-          npx --yes @jackyzha0/quartz@latest build \
-          || npx quartz build \
-          || npm run build
+        run: npx quartz build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
