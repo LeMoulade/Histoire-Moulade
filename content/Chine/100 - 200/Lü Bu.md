@@ -16,7 +16,7 @@
     
 - Jeune, il est réputé pour sa force, sa maîtrise du tir à l’arc et de l’équitation.
     
-- Sert d’abord comme officier sous Ding Yuan, gouverneur de Bingzhou.
+- Sert d’abord comme officier sous Ding Yuan, gouverneur de Bingzhou. 
     
 
 ---
