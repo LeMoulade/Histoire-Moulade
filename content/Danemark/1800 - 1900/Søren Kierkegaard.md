@@ -73,7 +73,7 @@ Danemark
     
 - **Philosophe chrétien** : insiste sur le rapport intime et subjectif à Dieu.
     
-- **Archétype** : le penseur tourmenté, solitaire, qui explore les abîmes de la condition humaine.
+- **Archétype** : le penseur tourmenté, solitaire, qui explore les abîmes de la condition humaine. Test
     
 
 ---
