@@ -6,6 +6,7 @@
 - [[Chine#-Ve - Printemps et Automnes et l’essor des Cent écoles de pensée|-Ve - Printemps et Automnes et l’essor des Cent écoles de pensée]]
 - [[Chine#-IIIe - Les Royaumes combattants et l’unification par Qin Shi Huang|-IIIe - Les Royaumes combattants et l’unification par Qin Shi Huang]]
 - [[Chine#IIe - Les Han et l’âge d’or impérial|IIe - Les Han et l’âge d’or impérial]]
+- [[Chine#XXe - Révolutions et naissance de la République populaire|XXe - Révolutions et naissance de la République populaire]]
 
 # Lieux :
 
@@ -39,10 +40,7 @@
 
 ### *Personnages :*
 
-- [[Huyan Zhuo]]
-- [[Nezha]]
-- [[Red Hare]]
-- [[Yan Qing]]
+
 
 ### *Evènements :* 
 
@@ -59,7 +57,7 @@
 
 ### *Personnages :*
 
-- [[Confucius]]
+
 
 ### *Evènements :* 
 
@@ -75,10 +73,7 @@
 
 ### *Personnages :*
 
-- [[Huyan Zhuo]]
-- [[Nezha]]
-- [[Red Hare]]
-- [[Yan Qing]]
+
 
 ### *Evènements :* 
 
@@ -94,8 +89,7 @@
 ![[ChineIIe.png|50%]]
 ### *Personnages :*
 
-- [[Chen Gong]]
-- [[Lü Bu]]
+
 
 ### *Evènements :* 
 
@@ -111,8 +105,7 @@
 ![[ChineIIIE.png|50%]]
 ### *Personnages :*
 
-- [[Sima Yi]]
-- [[Zhuge Liang]]
+
 
 ### *Evènements :* 
 
@@ -129,8 +122,6 @@
 
 ### *Personnages :*
 
-- [[Sima Yi]]
-- [[Zhuge Liang]]
 
 ### *Evènements :* 
 
@@ -139,3 +130,18 @@
 ### *Autres :*
 
 
+
+---
+# XXe - Révolutions et naissance de la République populaire
+
+![[Chine 20.png|50%]]
+
+### *Personnages :*
+
+
+
+### *Evènements :* 
+
+
+
+### *Autres :*

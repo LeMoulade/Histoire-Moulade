@@ -1,7 +1,7 @@
-
+![[Irlande.png|50%]]
 # Siècles :
 
-- [Mythologie](#Mythologie)
+- [[Irlande#Mythologie - Tuatha Dé Danann, héros d’Ulster et sagas celtiques|Mythologie - Tuatha Dé Danann, héros d’Ulster et sagas celtiques]]
 
 # Lieux :
 
@@ -12,13 +12,13 @@
 - Test
 
 ---
-# **Mythologie**
+# Mythologie - Tuatha Dé Danann, héros d’Ulster et sagas celtiques
 
-![[IrlandeMythologie.png|50%]]
+![[Irlande Mythologie.png|50%]]
 
 ### *Personnages :*
 
-- [[Jack-o’-Lantern]]
+- [[Manannán mac Lir]]
 
 ### *Evènements :* 
 
