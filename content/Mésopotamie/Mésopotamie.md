@@ -5,7 +5,7 @@
 
 # Lieux :
 
-
+- [[Akkad]]
 
 # Autres :
 
@@ -18,7 +18,7 @@
 
 ### *Personnages :*
 
-
+- [[Sargon d'Akkad]]
 
 ### *Evènements :* 
 
