@@ -17,7 +17,7 @@ Etats-Unis / Croatie
     
 - Étudie l’ingénierie électrique en Autriche et en Bohême, sans obtenir de diplôme formel.
     
-- Travaille comme ingénieur en Europe, puis émigre aux États-Unis en 1884.
+- Travaille comme ingénieur en Europe, puis émigre aux États-Unis en 1884. 
     
 
 ---
