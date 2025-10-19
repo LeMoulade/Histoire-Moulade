@@ -1,227 +1,43 @@
-
-
-/***************************************
-  ====== VARIABLES & RESETS UTILES ======
-***************************************/
-/* (Quartz pose déjà ses variables. On réutilise l’accent du thème) */
-:root { /* rien d’obligatoire ici */ }
-
-/* Masquer le titre auto (nom de fichier) ajouté par Quartz */
-.page-title { display: none !important; }
-
-/***************************************
-  ====== TITRES GLOBAUX ======
-***************************************/
-h1 {
-  font-size: clamp(2.3rem, 2rem + 1.5vw, 3.3rem);
-  font-weight: 800;
-  letter-spacing: -0.02em;
-  line-height: 1.15;
-  text-align: center;
-  margin: .2em 0 .15em;
-}
-h2 {
-  font-size: clamp(1.3rem, 1.1rem + .6vw, 1.9rem);
-  font-weight: 700;
-  margin-top: 1.6em;
-  margin-bottom: .6em;
-}
-html { scroll-behavior: smooth; }
-
-/***************************************
-  ====== SOUS-TITRE SOUS H1 (commun) ======
-***************************************/
-.subtitle {
-  display: block;
-  text-align: center;
-  font-size: clamp(1.05rem, .95rem + .4vw, 1.35rem);
-  color: var(--accent);
-  font-style: italic;
-  opacity: .9;
-  margin-top: -.2em;
-  margin-bottom: 1em;
-}
-.subtitle::after {
-  content: "";
-  display: block; width: 70px; height: 2px;
-  background: var(--accent); opacity: .6;
-  margin: .5em auto 0; border-radius: 2px;
-}
-
-/***************************************
-  ====== IMAGES & LÉGENDES (commun) ======
-***************************************/
-.markdown-renderer img,
-article img {
-  display: block; margin: .6rem auto .25rem;
-  max-width: min(800px, 95%); height: auto;
-  border-radius: 10px; box-shadow: 0 4px 24px rgba(0,0,0,.06);
-}
-.markdown-renderer img + em,
-article img + em {
-  display: block; text-align: center; font-size: .95rem;
-  opacity: .8; margin-bottom: .8rem;
-}
-
-/***************************************
-  ====== TEXTE & SÉPARATEURS (commun) ======
-***************************************/
-article p { line-height: 1.75; font-size: 1.04rem; }
-article ul, article ol { padding-left: 1.2rem; line-height: 1.7; }
-.markdown-renderer hr,
-article hr {
-  border: none; border-top: 1px solid var(--gray-300);
-  margin: 1.2rem auto; width: min(780px, 86%); opacity: .7;
-}
-
-/* ================================
-   ====== FICHES PERSONNAGE ======
-   ================================ */
-
-/* Meta pills sous le sous-titre */
-.meta {
-  display: flex; flex-wrap: wrap; gap: 8px;
-  justify-content: center; margin: .3rem 0 1.2rem;
-}
-.pill {
-  border: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
-  background: color-mix(in srgb, var(--accent) 12%, transparent);
-  border-radius: 999px; padding: 5px 12px; font-size: .95rem;
-  backdrop-filter: saturate(120%);
-}
-
-/* Bloc "hero" optionnel autour d'une image ou meta */
-.hero {
-  padding: clamp(10px, 1.2vw, 16px);
-  border: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
-  background: color-mix(in srgb, var(--accent) 7%, transparent);
-  border-radius: 18px; margin: 0 auto 1.2rem; max-width: 980px;
-}
-.hero img { border-radius: 12px; }
-
-/* Timeline (événements personnages) */
-.timeline {
-  border-left: 2px solid var(--accent);
-  margin: .6rem 0 1.2rem .4rem; padding-left: 1rem;
-}
-.timeline .t-item {
-  position: relative; margin: .5rem 0; line-height: 1.6;
-}
-.timeline .t-item::before {
-  content: ""; position: absolute; left: -1.2rem; top: .35rem;
-  width: 10px; height: 10px; border-radius: 50%;
-  background: var(--accent);
-  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 30%, transparent);
-}
-
-/* Callouts plus sobres */
-.callout {
-  border-left: 4px solid var(--accent);
-  background: color-mix(in srgb, var(--accent) 8%, transparent);
-  border-radius: 12px; padding: 10px 12px;
-}
-.callout-title { font-weight: 700; }
-
-/* =============================
-   ====== FICHES PAYS ======
-   ============================= */
-
-/* Sommaire vertical par siècles (liens internes Markdown) */
-.centuries-nav {
-  display: flex; flex-direction: column; gap: 10px; align-items: flex-start;
-  margin: .8rem 0 1.6rem;
-  border-left: 3px solid color-mix(in srgb, var(--accent) 40%, transparent);
-  padding-left: 1rem;
-}
-.centuries-nav li { list-style: none; }
-.centuries-nav a,
-.centuries-nav li > a {
-  display: inline-block; width: 100%; text-decoration: none;
-  font-weight: 600; font-size: 1rem; color: var(--accent);
-  background: color-mix(in srgb, var(--accent) 6%, transparent);
-  border: 1px solid color-mix(in srgb, var(--accent) 30%, transparent);
-  border-radius: 6px; padding: 8px 10px; transition: all .2s ease;
-}
-.centuries-nav a:hover,
-.centuries-nav li > a:hover {
-  background: color-mix(in srgb, var(--accent) 15%, transparent);
-  transform: translateX(5px);
-  box-shadow: 0 2px 8px rgba(0,0,0,.08);
-}
-
-/* Étiquette de siècle (ligne visuelle au-dessus du titre) */
-.century-label {
-  text-align: center; font-size: 1.3rem; font-weight: 700;
-  text-transform: uppercase; letter-spacing: .05em; color: var(--accent);
-  margin: 2.2em 0 .1em; position: relative;
-}
-.century-label::before,
-.century-label::after {
-  content: ""; position: absolute; top: 50%; width: 32%; height: 1px;
-  background: color-mix(in srgb, var(--accent) 40%, transparent);
-}
-.century-label::before { left: 0; }
-.century-label::after  { right: 0; }
-
-/* Le commentaire de siècle (ton vrai ## cliquable) */
-article h2 {
-  text-align: center;
-  color: var(--text);
-  background: color-mix(in srgb, var(--accent) 8%, transparent);
-  border-left: 4px solid var(--accent);
-  border-radius: 6px;
-  padding: 8px 14px;
-  width: fit-content;
-  margin: .3em auto 1em;
-  box-shadow: 0 2px 8px rgba(0,0,0,.05);
-}
-/* Quand on arrive via ancre */
-article h2:target {
-  background: color-mix(in srgb, var(--accent) 15%, transparent);
-  box-shadow: 0 0 0 2px color-mix(in srgb, var(--accent) 35%, transparent) inset;
-  border-radius: 8px; padding: 8px 14px;
-}
-/* Ancre confortable si header fixe / toolbar */
-.century-title,
-article h2 { scroll-margin-top: 84px; }
-
-/***************************************
-  ====== MODE SOMBRE (ajustements) ======
-***************************************/
-@media (prefers-color-scheme: dark) {
-  .centuries-nav { border-left-color: color-mix(in srgb, var(--accent) 25%, transparent); }
-  article h2 { box-shadow: 0 2px 8px rgba(0,0,0,.25); }
-}
-
-
-/* === 1) Cacher le H1 auto de Quartz (double titre) === */
+/* ——— Supprimer le H1 auto Quartz (double titre) ——— */
 .page-title,
 main > h1.page-title,
-article > h1.page-title,
-article > header h1.page-title {
-  display: none !important;
-}
+article > h1.page-title { display: none !important; }
 
-/* Alternative de secours si la classe change :
-   cache le tout premier H1 rendu AVANT le contenu réel */
-main > h1:first-of-type {
-  display: none !important;
-}
+/* ——— Neutraliser les wrappers de titres Quartz ——— */
+.heading { all: unset !important; }
 
-/* === 2) Harmoniser les titres comme Obsidian === */
+/* ——— Enlever les petites ancres bleues ——— */
+a.header-anchor,
+.heading a.header-anchor,
+article h1 a.header-anchor,
+article h2 a.header-anchor { display: none !important; }
+
+/* ——— H1 exactement comme Obsidian ——— */
 article h1 {
   font-size: clamp(2.3rem, 2rem + 1.5vw, 3.3rem) !important;
   font-weight: 800 !important;
   letter-spacing: -0.02em;
   line-height: 1.15;
   text-align: center;
-  margin: 0.2em 0 0.15em;
+  margin: .2em 0 .15em !important;
 }
 
-/* h2 = nos “commentaires de siècle” */
+/* ——— Sous-titre sous H1 ——— */
+.subtitle {
+  display:block; text-align:center;
+  font-size: clamp(1.05rem, .95rem + .4vw, 1.35rem);
+  color: var(--accent); font-style: italic; opacity: .9;
+  margin-top:-.2em; margin-bottom:1em;
+}
+.subtitle::after {
+  content:""; display:block; width:70px; height:2px;
+  background:var(--accent); opacity:.6; margin:.5em auto 0; border-radius:2px;
+}
+
+/* ——— H2 = “commentaire du siècle” (look Obsidian) ——— */
 article h2 {
-  font-size: clamp(1.3rem, 1.1rem + 0.6vw, 1.9rem) !important;
-  font-weight: 700;
+  font-size: clamp(1.3rem, 1.1rem + .6vw, 1.9rem) !important;
+  font-weight: 700 !important;
   text-align: center;
   color: var(--text);
   background: color-mix(in srgb, var(--accent) 8%, transparent);
@@ -229,88 +45,92 @@ article h2 {
   border-radius: 6px;
   padding: 8px 14px;
   width: fit-content;
-  margin: 0.3em auto 1em;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-  scroll-margin-top: 84px; /* ancre confortable */
+  margin: .3em auto 1em !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,.05);
+  scroll-margin-top: 84px;
 }
 article h2:target {
   background: color-mix(in srgb, var(--accent) 15%, transparent);
   box-shadow: 0 0 0 2px color-mix(in srgb, var(--accent) 35%, transparent) inset;
-  border-radius: 8px;
-  padding: 8px 14px;
+  border-radius: 8px; padding: 8px 14px;
 }
 
-/* === 3) Enlever l’icône/lien d’ancre bleu sur les titres === */
-article h1 a.header-anchor,
-article h2 a.header-anchor,
-.heading a.header-anchor,
-a.header-anchor {
-  display: none !important;
-}
-
-/* === 4) Sous-titre sous H1 (comme Obsidian) === */
-.subtitle {
-  display: block;
-  text-align: center;
-  font-size: clamp(1.05rem, 0.95rem + 0.4vw, 1.35rem);
-  color: var(--accent);
-  font-style: italic;
-  opacity: 0.9;
-  margin-top: -0.2em;
-  margin-bottom: 1em;
-}
-.subtitle::after {
-  content: "";
-  display: block;
-  width: 70px; height: 2px;
-  background: var(--accent);
-  opacity: 0.6;
-  margin: 0.5em auto 0;
-  border-radius: 2px;
-}
-
-/* === 5) Étiquette de siècle au-dessus du h2 === */
+/* ——— Étiquette visuelle de siècle au-dessus du H2 ——— */
 .century-label {
-  text-align: center;
-  font-size: 1.3rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: var(--accent);
-  margin: 2.2em 0 0.1em;
-  position: relative;
+  text-align:center; font-size:1.3rem; font-weight:700;
+  text-transform:uppercase; letter-spacing:.05em; color:var(--accent);
+  margin:2.2em 0 .1em; position:relative;
 }
-.century-label::before,
-.century-label::after {
-  content: "";
-  position: absolute;
-  top: 50%;
-  width: 32%;
-  height: 1px;
+.century-label::before, .century-label::after {
+  content:""; position:absolute; top:50%; width:32%; height:1px;
   background: color-mix(in srgb, var(--accent) 40%, transparent);
 }
-.century-label::before { left: 0; }
-.century-label::after  { right: 0; }
+.century-label::before { left:0; } .century-label::after { right:0; }
 
-/* === 6) Sommaire vertical (un siècle par ligne) === */
+/* ——— Sommaire vertical par siècles (1 ligne = 1 lien) ——— */
 .centuries-nav {
-  display: flex; flex-direction: column; gap: 10px; align-items: flex-start;
-  margin: 0.8rem 0 1.6rem;
-  border-left: 3px solid color-mix(in srgb, var(--accent) 40%, transparent);
-  padding-left: 1rem;
+  display:flex; flex-direction:column; gap:10px; align-items:flex-start;
+  margin:.8rem 0 1.6rem;
+  border-left:3px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  padding-left:1rem;
 }
-.centuries-nav li { list-style: none; }
+.centuries-nav li { list-style:none; }
 .centuries-nav a {
-  display: inline-block; width: 100%;
-  text-decoration: none; font-weight: 600; font-size: 1rem;
-  color: var(--accent);
+  display:inline-block; width:100%;
+  text-decoration:none; font-weight:600; font-size:1rem;
+  color:var(--accent);
   background: color-mix(in srgb, var(--accent) 6%, transparent);
-  border: 1px solid color-mix(in srgb, var(--accent) 30%, transparent);
-  border-radius: 6px; padding: 8px 10px; transition: all .2s ease;
+  border:1px solid color-mix(in srgb, var(--accent) 30%, transparent);
+  border-radius:6px; padding:8px 10px; transition: all .2s ease;
 }
 .centuries-nav a:hover {
   background: color-mix(in srgb, var(--accent) 15%, transparent);
   transform: translateX(5px);
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  box-shadow: 0 2px 8px rgba(0,0,0,.08);
+}
+
+/* ——— Meta pills / hero / timeline (perso) ——— */
+.meta { display:flex; flex-wrap:wrap; gap:8px; justify-content:center; margin:.3rem 0 1.2rem; }
+.pill {
+  border:1px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  border-radius:999px; padding:5px 12px; font-size:.95rem; backdrop-filter:saturate(120%);
+}
+.hero {
+  padding:clamp(10px,1.2vw,16px);
+  border:1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+  background: color-mix(in srgb, var(--accent) 7%, transparent);
+  border-radius:18px; margin:0 auto 1.2rem; max-width:980px;
+}
+.hero img { border-radius:12px; }
+.timeline { border-left:2px solid var(--accent); margin:.6rem 0 1.2rem .4rem; padding-left:1rem; }
+.timeline .t-item { position:relative; margin:.5rem 0; line-height:1.6; }
+.timeline .t-item::before {
+  content:""; position:absolute; left:-1.2rem; top:.35rem; width:10px; height:10px; border-radius:50%;
+  background:var(--accent); box-shadow:0 0 0 3px color-mix(in srgb, var(--accent) 30%, transparent);
+}
+
+/* ——— Images + légendes (identique Obsidian) ——— */
+.markdown-renderer img, article img {
+  display:block; margin:.6rem auto .25rem;
+  max-width:min(800px,95%); height:auto;
+  border-radius:10px; box-shadow:0 4px 24px rgba(0,0,0,.06);
+}
+.markdown-renderer img + em, article img + em {
+  display:block; text-align:center; font-size:.95rem; opacity:.8; margin-bottom:.8rem;
+}
+
+/* ——— Texte & séparateurs ——— */
+article p { line-height:1.75; font-size:1.04rem; }
+article ul, article ol { padding-left:1.2rem; line-height:1.7; }
+.markdown-renderer hr, article hr {
+  border:none; border-top:1px solid var(--gray-300);
+  margin:1.2rem auto; width:min(780px,86%); opacity:.7;
+}
+
+/* ——— Mode sombre : micro-ajustements ——— */
+@media (prefers-color-scheme: dark) {
+  .centuries-nav { border-left-color: color-mix(in srgb, var(--accent) 25%, transparent); }
+  article h2 { box-shadow: 0 2px 8px rgba(0,0,0,.25); }
 }
 
