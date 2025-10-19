@@ -1,3 +1,93 @@
-@use "./base.scss";
+/* ===== Supprimer le titre automatique Quartz ===== */
+.page-title {
+  display: none !important;
+}
+/* ========= Titres et sous-titre ========= */
+h1 {
+  font-size: clamp(2.3rem, 2rem + 1.5vw, 3.3rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  text-align: center;
+  margin: 0.2em 0 0.15em;
+}
+h2 {
+  font-size: clamp(1.3rem, 1.1rem + 0.6vw, 1.9rem);
+  font-weight: 700;
+  margin-top: 1.6em;
+  margin-bottom: 0.6em;
+}
+.subtitle {
+  display: block;
+  text-align: center;
+  font-size: clamp(1.05rem, 0.95rem + 0.4vw, 1.35rem);
+  color: var(--accent);
+  font-style: italic;
+  opacity: 0.9;
+  margin-top: -0.2em;
+  margin-bottom: 1em;
+}
+.subtitle::after {
+  content: "";
+  display: block;
+  width: 70px;
+  height: 2px;
+  background: var(--accent);
+  opacity: 0.6;
+  margin: 0.5em auto 0;
+  border-radius: 2px;
+}
 
-// put your custom CSS here!
+/* ========= Meta pills ========= */
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin: 0.3rem 0 1.2rem;
+}
+.pill {
+  border: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  border-radius: 999px;
+  padding: 5px 12px;
+  font-size: 0.95rem;
+}
+
+/* ========= Images et légendes ========= */
+.markdown-renderer img,
+article img {
+  display: block;
+  margin: 0.6rem auto 0.25rem;
+  max-width: min(800px, 95%);
+  border-radius: 10px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+}
+.markdown-renderer img + em,
+article img + em {
+  display: block;
+  text-align: center;
+  font-size: 0.95rem;
+  opacity: 0.8;
+  margin-bottom: 0.8rem;
+}
+
+/* ========= Séparateurs ========= */
+.markdown-renderer hr,
+article hr {
+  border: none;
+  border-top: 1px solid var(--gray-300);
+  margin: 1.2rem auto;
+  width: min(780px, 86%);
+  opacity: 0.7;
+}
+
+/* ========= Corps de texte ========= */
+article p {
+  line-height: 1.75;
+  font-size: 1.04rem;
+}
+ul, ol {
+  padding-left: 1.2rem;
+  line-height: 1.7;
+}
