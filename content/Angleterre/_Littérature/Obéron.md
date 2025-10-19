@@ -19,7 +19,7 @@ C’est dans ce contexte que naît **Obéron**, souverain du monde des fées, fi
 
 ---
 
-## ⚔️ Rôle dans le roman “Huon de Bordeaux”
+## ⚔️ Rôle dans le roman “Huon de Bordeaux” 
 
 La première apparition d’Obéron se trouve dans le **roman “Huon de Bordeaux”**, rédigé entre 1210 et 1225.  
 Huon, jeune chevalier de Charlemagne, est banni après avoir tué le fils de l’empereur lors d’un duel injuste.  
