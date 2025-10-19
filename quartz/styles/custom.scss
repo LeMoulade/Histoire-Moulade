@@ -54,6 +54,33 @@ h2 {
   font-size: 0.95rem;
 }
 
+/* ===== Siècles ===== */
+.century-title {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 1.4em 0 1em;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  position: relative;
+}
+.century-title::before,
+.century-title::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 32%;
+  height: 1px;
+  background: color-mix(in srgb, var(--accent) 40%, transparent);
+}
+.century-title::before {
+  left: 0;
+}
+.century-title::after {
+  right: 0;
+}
+
 /* ========= Images et légendes ========= */
 .markdown-renderer img,
 article img {
