@@ -1,5 +1,4 @@
-/* TEST visible : gros H1 en rouge pendant 1 minute */
-h1 { outline: 3px solid red !important; }
+
 
 /***************************************
   ====== VARIABLES & RESETS UTILES ======
@@ -193,3 +192,125 @@ article h2 { scroll-margin-top: 84px; }
   .centuries-nav { border-left-color: color-mix(in srgb, var(--accent) 25%, transparent); }
   article h2 { box-shadow: 0 2px 8px rgba(0,0,0,.25); }
 }
+
+
+/* === 1) Cacher le H1 auto de Quartz (double titre) === */
+.page-title,
+main > h1.page-title,
+article > h1.page-title,
+article > header h1.page-title {
+  display: none !important;
+}
+
+/* Alternative de secours si la classe change :
+   cache le tout premier H1 rendu AVANT le contenu réel */
+main > h1:first-of-type {
+  display: none !important;
+}
+
+/* === 2) Harmoniser les titres comme Obsidian === */
+article h1 {
+  font-size: clamp(2.3rem, 2rem + 1.5vw, 3.3rem) !important;
+  font-weight: 800 !important;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  text-align: center;
+  margin: 0.2em 0 0.15em;
+}
+
+/* h2 = nos “commentaires de siècle” */
+article h2 {
+  font-size: clamp(1.3rem, 1.1rem + 0.6vw, 1.9rem) !important;
+  font-weight: 700;
+  text-align: center;
+  color: var(--text);
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+  border-left: 4px solid var(--accent);
+  border-radius: 6px;
+  padding: 8px 14px;
+  width: fit-content;
+  margin: 0.3em auto 1em;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  scroll-margin-top: 84px; /* ancre confortable */
+}
+article h2:target {
+  background: color-mix(in srgb, var(--accent) 15%, transparent);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--accent) 35%, transparent) inset;
+  border-radius: 8px;
+  padding: 8px 14px;
+}
+
+/* === 3) Enlever l’icône/lien d’ancre bleu sur les titres === */
+article h1 a.header-anchor,
+article h2 a.header-anchor,
+.heading a.header-anchor,
+a.header-anchor {
+  display: none !important;
+}
+
+/* === 4) Sous-titre sous H1 (comme Obsidian) === */
+.subtitle {
+  display: block;
+  text-align: center;
+  font-size: clamp(1.05rem, 0.95rem + 0.4vw, 1.35rem);
+  color: var(--accent);
+  font-style: italic;
+  opacity: 0.9;
+  margin-top: -0.2em;
+  margin-bottom: 1em;
+}
+.subtitle::after {
+  content: "";
+  display: block;
+  width: 70px; height: 2px;
+  background: var(--accent);
+  opacity: 0.6;
+  margin: 0.5em auto 0;
+  border-radius: 2px;
+}
+
+/* === 5) Étiquette de siècle au-dessus du h2 === */
+.century-label {
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent);
+  margin: 2.2em 0 0.1em;
+  position: relative;
+}
+.century-label::before,
+.century-label::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 32%;
+  height: 1px;
+  background: color-mix(in srgb, var(--accent) 40%, transparent);
+}
+.century-label::before { left: 0; }
+.century-label::after  { right: 0; }
+
+/* === 6) Sommaire vertical (un siècle par ligne) === */
+.centuries-nav {
+  display: flex; flex-direction: column; gap: 10px; align-items: flex-start;
+  margin: 0.8rem 0 1.6rem;
+  border-left: 3px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  padding-left: 1rem;
+}
+.centuries-nav li { list-style: none; }
+.centuries-nav a {
+  display: inline-block; width: 100%;
+  text-decoration: none; font-weight: 600; font-size: 1rem;
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 6%, transparent);
+  border: 1px solid color-mix(in srgb, var(--accent) 30%, transparent);
+  border-radius: 6px; padding: 8px 10px; transition: all .2s ease;
+}
+.centuries-nav a:hover {
+  background: color-mix(in srgb, var(--accent) 15%, transparent);
+  transform: translateX(5px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
