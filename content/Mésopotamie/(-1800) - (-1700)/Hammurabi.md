@@ -1,16 +1,16 @@
-	Roi législateur de Babylone
 
-![[Hammurabi.png|50%]]
+# Hammurabi
+<span class="subtitle">Roi législateur de Babylone</span>
+![[Hammurabi.png|60%]]
+
+
+<div class="meta">
+  <span class="pill">📍 Mésopotamie / Babylone</span>
+  <span class="pill">📅 −1792 ~ −1750</span>
+</div>
 
 ---
 
-## 📍 Lieu
-[[Mésopotamie]] / Babylone
-
-## 📅 Dates
-(-1792) - (-1750)
-
----
 ## 🏛️ Contexte et accession au trône
 
 À la mort de son père **Sîn-muballit**, Hammurabi monte sur le trône d’un petit royaume amorrite centré sur **Babylone**, encore modeste face aux puissances voisines : **Larsa**, **Ešnunna**, **Mari**, et **Assur**.  
@@ -19,8 +19,9 @@ La Mésopotamie du début du XVIIIᵉ siècle av. J.-C. est une mosaïque de roy
 Dès les premières années de son règne, Hammurabi entreprend de **consolider le pouvoir royal**, fortifie les villes, restaure les temples et réorganise les canaux.  
 Cette première phase est marquée par la diplomatie et la stabilité interne, qui lui permettent de préparer ses campagnes d’unification.
 
-![[Hammurabi 1.png|50%]]
+![[Hammurabi 1.png|60%]]
 *Hammurabi reçoit le pouvoir des mains de son père Sîn-muballit*
+
 
 ---
 
@@ -38,8 +39,9 @@ Entre 1780 et 1760 av. J.-C., Hammurabi mène une série de **campagnes militair
 À la fin de son règne, Babylone domine le Croissant fertile central : un **empire territorial unifié** depuis la Mésopotamie du Sud jusqu’au nord syrien.  
 C’est la première fois depuis l’époque d’[[Akkad]] ([[Sargon d'Akkad|Sargon]], 600 ans plus tôt) qu’un pouvoir parvient à regrouper ainsi la région sous une seule couronne.
 
-![[Hammurabi 2.png|50%]]
+![[Hammurabi 2.png|60%]]
 *Hammurabi à l'assaut des remparts d'Ešnunna*
+
 
 ---
 
@@ -69,8 +71,9 @@ Les lois couvrent un large éventail de domaines :
 Le code repose sur le principe de **réciprocité et de proportion** (_lex talionis_ : “œil pour œil, dent pour dent”), mais tient aussi compte du **rang social** de la victime et du coupable.  
 Il établit la **primauté du droit écrit** sur l’arbitraire, affirmant que la justice vient du roi en tant que représentant des dieux.
 
-![[Hammurabi 3.png|50%]]
+![[Hammurabi 3.png|60%]]
 *Stèle représentant le Code d'Hammurabi*
+
 
 ---
 
@@ -83,8 +86,9 @@ Il ordonna l’entretien régulier des **canaux d’irrigation**, essentiels à 
 Sous son règne, Marduk s’imposa comme **divinité suprême du panthéon babylonien**, remplaçant progressivement Enlil de Nippur.  
 Cette réforme religieuse contribua à légitimer l’unité politique de l’empire autour de Babylone.
 
-![[Hammurabi 4.png|50%]]
+![[Hammurabi 4.png|60%]]
 *Travaux d'irrigation menés sous le règne d'Hammurabi*
+
 
 ---
 
@@ -96,8 +100,9 @@ En moins d’un siècle, les conquêtes d’Hammurabi furent perdues, affaiblies
 
 Malgré cela, son œuvre législative et administrative resta un **modèle pour les civilisations postérieures** : les Assyriens, les Hébreux et les Perses s’en inspirèrent pour leurs propres codes juridiques.
 
-![[Hammurabi 5.png|50%]]
+![[Hammurabi 5.png|60%]]
 *Obsèques titanesques organisées à la mort d'Hammurabi*
+
 
 ---
 
@@ -116,4 +121,4 @@ Son code symbolise :
 Dans la mémoire mésopotamienne, il fut vénéré comme **“le berger juste”**, celui qui protégea les faibles contre les puissants.  
 Son nom devint synonyme de **souverain éclairé**, un modèle de gouvernement pour tout le Proche-Orient antique.
 
-![[Hammurabi 6.png|50%]]
+![[Hammurabi 6.png|60%]]

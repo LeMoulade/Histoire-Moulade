@@ -1,31 +1,25 @@
-
-# Siècles :
-
-- [Test](#Test)
-
-# Lieux :
+# {{Nom du pays ou civilisation}}
 
 
-
-# Autres :
-
+image
 
 
 ---
-# **Test**
+
+### 🕰 Chronologie par siècles
 
 
+- [[Pays#L’époque d’Akkad et de Sargon|XXIVᵉ siècle av. J.-C. ~ L’époque d’Akkad et de Sargon]]
 
-### *Personnages :*
+<div class="century-label">XXIVᵉ siècle av. J.-C.</div>
 
+## L’époque d’Akkad et de Sargon
 
-
-### *Evènements :* 
-
-
-
-### *Autres :*
+image
+### Personnages
 
 
+### Événements
 
----
+
+### Autres

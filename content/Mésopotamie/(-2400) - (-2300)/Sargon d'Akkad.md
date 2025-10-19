@@ -1,16 +1,15 @@
-	Fondateur du premier empire de l’Histoire
+# Sargon d'Akkad
+<span class="subtitle">Fondateur du premier empire de l’Histoire</span>
+![[Sargon d'Akkad.png|60%]]
 
-![[Sargon d'Akkad.png|50%]]
 
----
-
-## 📍 Lieu
-[[Mésopotamie]] / Empire d'Akkad
-
-## 📅 Dates
-(-2334) - (-2279)
+<div class="meta">
+  <span class="pill">📍 Mésopotamie / Akkad</span>
+  <span class="pill">📅 -2334 ~ -2279</span>
+</div>
 
 ---
+
 ## 🏛️ Contexte et époque
 
 Avant Sargon, la Mésopotamie (actuel Irak du Sud) était divisée en **cités-États sumériennes** indépendantes : Ur, Uruk, Lagash, Kish, Umma…  
@@ -38,8 +37,9 @@ Selon la _Chronique de Sargon_ (rédigée plusieurs siècles après sa mort), il
 
 Cette histoire, d’inspiration mythique, rappelle plus tard le récit biblique de Moïse et symbolise la **légitimité divine d’un souverain issu du peuple**.
 
-![[Sargon d'Akkad 2.png|50%]]
+![[Sargon d'Akkad 2.png|60%]]
 *Légende de la naissance de Sargon*
+
 
 ---
 
@@ -54,8 +54,9 @@ De là, il gouverne un territoire immense :
 
 > “de la mer inférieure à la mer supérieure”, selon les textes, c’est-à-dire du Golfe Persique à la Méditerranée.
 
-![[Sargon d'Akkad 3.png|50%]]
+![[Sargon d'Akkad 3.png|60%]]
 *Sargon, conquérant menant son armée*
+
 
 Ses armées utilisaient des **armes en bronze**, une logistique organisée et des garnisons permanentes, annonçant les principes des futurs empires mésopotamiens.  
 Sargon mit également en place un **réseau administratif centralisé** et imposa l’usage de l’**akkadien**, langue sémitique, comme langue officielle aux côtés du sumérien.
@@ -77,8 +78,9 @@ Le règne de Sargon marque un tournant politique et culturel :
 
 Sous son règne, la Mésopotamie devient **le premier État multinational** connu de l’histoire humaine.
 
-![[Sargon d'Akkad 4.png|50%]]
+![[Sargon d'Akkad 4.png|60%]]
 *Organisation du commerce et de l'administration sous Sargon, système révolutionnaire*
+
 
 ---
 
@@ -87,8 +89,9 @@ Sous son règne, la Mésopotamie devient **le premier État multinational** conn
 Vers la fin de sa vie, Sargon dut faire face à plusieurs **révoltes internes**, notamment à Ur et Kish, mais il parvint à maintenir l’unité de l’empire.  
 À sa mort (vers 2279 av. J.-C.), il laissa le trône à ses fils **Rimush** puis **Manishtushu**, suivis de son petit-fils **Naram-Sîn**, qui porta l’empire à son apogée.
 
-![[Sargon d'Akkad 5.png|50%]]
+![[Sargon d'Akkad 5.png|60%]]
 *Naram-Sîn menant l'Empire d'Akkad à la gloire*
+
 
 L’Empire d’Akkad s’effondra environ un siècle plus tard, affaibli par des révoltes et des invasions venues du nord (peuple des Gutis).  
 Cependant, son modèle impérial — administration, armée, communication — servit de base à tous les empires mésopotamiens ultérieurs.
@@ -103,4 +106,4 @@ Les rois babyloniens et assyriens se réclameront de lui pendant près de deux m
 
 Il incarne la **transition entre la cité-royaume et l’État territorial**, une innovation politique majeure qui influencera durablement l’organisation du pouvoir dans le monde antique.
 
-![[Sargon d'Akkad 6.png|50%]]
+![[Sargon d'Akkad 6.png|60%]]

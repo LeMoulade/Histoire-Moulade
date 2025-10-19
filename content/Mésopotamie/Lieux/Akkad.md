@@ -1,16 +1,15 @@
-	Premier empire de l’Histoire
+# Akkad
+<span class="subtitle">Premier empire de l’Histoire</span>
+![[Akkad.png|60%]]
 
-![[Akkad.png|50%]]
 
----
-
-## 📍 Lieu
-[[Mésopotamie]]
-
-## 📅 Dates
-(-2334) - (-2154)
+<div class="meta">
+  <span class="pill">📍 Mésopotamie</span>
+  <span class="pill">📅 -2334 ~ -2154</span>
+</div>
 
 ---
+
 ## 🏛️ Contexte et fondation
 
 Avant l’apparition d’Akkad, la région mésopotamienne était composée d’une mosaïque de **cités-États sumériennes** indépendantes : Ur, Uruk, Lagash, Kish, Umma…  
@@ -20,8 +19,9 @@ Leur histoire fut marquée par des conflits constants pour le contrôle des terr
 C’est dans ce contexte que surgit vers **2334 av. J.-C.**, un chef d’origine sémitique, **[[Sargon d'Akkad|Sargon d’Akkad]]**, qui unifia ces cités sous une seule autorité : l’**Empire d’Akkad**.  
 Il fonda sa capitale, **Akkad (ou Agadé)**, dont la localisation exacte demeure inconnue, probablement au nord de Sumer, entre Kish et Sippar.
 
-![[Akkad 2.png|50%]]
+![[Akkad 2.png|60%]]
 *Construction d'Akkad sous Sargon*
+
 
 ---
 
@@ -44,8 +44,9 @@ Sargon installa des **gouverneurs** (_ensi_) dans chaque région conquise, relev
 Une armée permanente, première du genre, fut créée pour maintenir l’ordre et protéger les routes commerciales.  
 Cette structure fit d’Akkad **le premier État multinational et administratif connu**.
 
-![[Akkad 3.png|50%]]
+![[Akkad 3.png|60%]]
 *Armée organisée et permanente de l'Empire d'Akkad*
+
 
 ---
 
@@ -70,8 +71,9 @@ Akkad prospéra grâce à un système d’échanges étendu et à une administra
 - La religion fut également unifiée : le dieu **Enlil** de Nippur et la déesse **Ishtar (Inanna)** furent honorés dans tout l’empire.
     
 
-![[Akkad 4.png|50%]]
+![[Akkad 4.png|60%]]
 *Registres, commerce, administration : les nombreuses révolutions sociales de l'Empire d'Akkad*
+
 
 ---
 
@@ -83,8 +85,9 @@ Sous son autorité, Akkad domina militairement et culturellement toute la régio
 
 Le célèbre **“relief de la victoire de Naram-Sîn”** (conservé au Louvre) le montre gravissant une montagne en piétinant ses ennemis — symbole de la puissance impériale.
 
-![[Akkad 5.png|50%]]
+![[Akkad 5.png|60%]]
 *Naram-Sîn, dirigeant quasi divin de l'Empire d'Akkad*
+
 
 ---
 
@@ -103,8 +106,9 @@ Les causes furent multiples :
 Ces événements provoquèrent l’abandon de plusieurs cités et une régression économique durable.  
 Les cités sumériennes reprirent ensuite leur autonomie avant d’être intégrées plus tard à l’empire néo-sumérien d’**Ur III**.
 
-![[Akkad 6.png|50%]]
+![[Akkad 6.png|60%]]
 *Akkad, ravagée par les révoltes et les invasions*
+
 
 ---
 
@@ -123,5 +127,5 @@ Malgré sa disparition, Akkad marqua **un tournant irréversible dans l’histoi
 
 La mémoire de Sargon et d’Akkad persista dans les chroniques mésopotamiennes comme celle d’un **âge d’or fondateur**, référence absolue du pouvoir royal dans tout le Proche-Orient antique.
 
-![[Akkad 7.png|50%]]
+![[Akkad 7.png|60%]]
 

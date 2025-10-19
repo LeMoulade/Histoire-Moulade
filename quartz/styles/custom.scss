@@ -1,120 +1,192 @@
-/* ===== Supprimer le titre automatique Quartz ===== */
-.page-title {
-  display: none !important;
-}
-/* ========= Titres et sous-titre ========= */
+/***************************************
+  ====== VARIABLES & RESETS UTILES ======
+***************************************/
+/* (Quartz pose déjà ses variables. On réutilise l’accent du thème) */
+:root { /* rien d’obligatoire ici */ }
+
+/* Masquer le titre auto (nom de fichier) ajouté par Quartz */
+.page-title { display: none !important; }
+
+/***************************************
+  ====== TITRES GLOBAUX ======
+***************************************/
 h1 {
   font-size: clamp(2.3rem, 2rem + 1.5vw, 3.3rem);
   font-weight: 800;
   letter-spacing: -0.02em;
   line-height: 1.15;
   text-align: center;
-  margin: 0.2em 0 0.15em;
+  margin: .2em 0 .15em;
 }
 h2 {
-  font-size: clamp(1.3rem, 1.1rem + 0.6vw, 1.9rem);
+  font-size: clamp(1.3rem, 1.1rem + .6vw, 1.9rem);
   font-weight: 700;
   margin-top: 1.6em;
-  margin-bottom: 0.6em;
+  margin-bottom: .6em;
 }
+html { scroll-behavior: smooth; }
+
+/***************************************
+  ====== SOUS-TITRE SOUS H1 (commun) ======
+***************************************/
 .subtitle {
   display: block;
   text-align: center;
-  font-size: clamp(1.05rem, 0.95rem + 0.4vw, 1.35rem);
+  font-size: clamp(1.05rem, .95rem + .4vw, 1.35rem);
   color: var(--accent);
   font-style: italic;
-  opacity: 0.9;
-  margin-top: -0.2em;
+  opacity: .9;
+  margin-top: -.2em;
   margin-bottom: 1em;
 }
 .subtitle::after {
   content: "";
-  display: block;
-  width: 70px;
-  height: 2px;
-  background: var(--accent);
-  opacity: 0.6;
-  margin: 0.5em auto 0;
-  border-radius: 2px;
+  display: block; width: 70px; height: 2px;
+  background: var(--accent); opacity: .6;
+  margin: .5em auto 0; border-radius: 2px;
 }
 
-/* ========= Meta pills ========= */
+/***************************************
+  ====== IMAGES & LÉGENDES (commun) ======
+***************************************/
+.markdown-renderer img,
+article img {
+  display: block; margin: .6rem auto .25rem;
+  max-width: min(800px, 95%); height: auto;
+  border-radius: 10px; box-shadow: 0 4px 24px rgba(0,0,0,.06);
+}
+.markdown-renderer img + em,
+article img + em {
+  display: block; text-align: center; font-size: .95rem;
+  opacity: .8; margin-bottom: .8rem;
+}
+
+/***************************************
+  ====== TEXTE & SÉPARATEURS (commun) ======
+***************************************/
+article p { line-height: 1.75; font-size: 1.04rem; }
+article ul, article ol { padding-left: 1.2rem; line-height: 1.7; }
+.markdown-renderer hr,
+article hr {
+  border: none; border-top: 1px solid var(--gray-300);
+  margin: 1.2rem auto; width: min(780px, 86%); opacity: .7;
+}
+
+/* ================================
+   ====== FICHES PERSONNAGE ======
+   ================================ */
+
+/* Meta pills sous le sous-titre */
 .meta {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 8px;
-  margin: 0.3rem 0 1.2rem;
+  display: flex; flex-wrap: wrap; gap: 8px;
+  justify-content: center; margin: .3rem 0 1.2rem;
 }
 .pill {
   border: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
   background: color-mix(in srgb, var(--accent) 12%, transparent);
-  border-radius: 999px;
-  padding: 5px 12px;
-  font-size: 0.95rem;
+  border-radius: 999px; padding: 5px 12px; font-size: .95rem;
+  backdrop-filter: saturate(120%);
 }
 
-/* ===== Siècles ===== */
-.century-title {
-  text-align: center;
-  font-size: 1.4rem;
-  font-weight: 700;
-  margin: 1.4em 0 1em;
-  color: var(--accent);
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  position: relative;
+/* Bloc "hero" optionnel autour d'une image ou meta */
+.hero {
+  padding: clamp(10px, 1.2vw, 16px);
+  border: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+  background: color-mix(in srgb, var(--accent) 7%, transparent);
+  border-radius: 18px; margin: 0 auto 1.2rem; max-width: 980px;
 }
-.century-title::before,
-.century-title::after {
-  content: "";
-  position: absolute;
-  top: 50%;
-  width: 32%;
-  height: 1px;
+.hero img { border-radius: 12px; }
+
+/* Timeline (événements personnages) */
+.timeline {
+  border-left: 2px solid var(--accent);
+  margin: .6rem 0 1.2rem .4rem; padding-left: 1rem;
+}
+.timeline .t-item {
+  position: relative; margin: .5rem 0; line-height: 1.6;
+}
+.timeline .t-item::before {
+  content: ""; position: absolute; left: -1.2rem; top: .35rem;
+  width: 10px; height: 10px; border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 30%, transparent);
+}
+
+/* Callouts plus sobres */
+.callout {
+  border-left: 4px solid var(--accent);
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+  border-radius: 12px; padding: 10px 12px;
+}
+.callout-title { font-weight: 700; }
+
+/* =============================
+   ====== FICHES PAYS ======
+   ============================= */
+
+/* Sommaire vertical par siècles (liens internes Markdown) */
+.centuries-nav {
+  display: flex; flex-direction: column; gap: 10px; align-items: flex-start;
+  margin: .8rem 0 1.6rem;
+  border-left: 3px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  padding-left: 1rem;
+}
+.centuries-nav li { list-style: none; }
+.centuries-nav a,
+.centuries-nav li > a {
+  display: inline-block; width: 100%; text-decoration: none;
+  font-weight: 600; font-size: 1rem; color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 6%, transparent);
+  border: 1px solid color-mix(in srgb, var(--accent) 30%, transparent);
+  border-radius: 6px; padding: 8px 10px; transition: all .2s ease;
+}
+.centuries-nav a:hover,
+.centuries-nav li > a:hover {
+  background: color-mix(in srgb, var(--accent) 15%, transparent);
+  transform: translateX(5px);
+  box-shadow: 0 2px 8px rgba(0,0,0,.08);
+}
+
+/* Étiquette de siècle (ligne visuelle au-dessus du titre) */
+.century-label {
+  text-align: center; font-size: 1.3rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: .05em; color: var(--accent);
+  margin: 2.2em 0 .1em; position: relative;
+}
+.century-label::before,
+.century-label::after {
+  content: ""; position: absolute; top: 50%; width: 32%; height: 1px;
   background: color-mix(in srgb, var(--accent) 40%, transparent);
 }
-.century-title::before {
-  left: 0;
-}
-.century-title::after {
-  right: 0;
-}
+.century-label::before { left: 0; }
+.century-label::after  { right: 0; }
 
-/* ========= Images et légendes ========= */
-.markdown-renderer img,
-article img {
-  display: block;
-  margin: 0.6rem auto 0.25rem;
-  max-width: min(800px, 95%);
-  border-radius: 10px;
-  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
-}
-.markdown-renderer img + em,
-article img + em {
-  display: block;
+/* Le commentaire de siècle (ton vrai ## cliquable) */
+article h2 {
   text-align: center;
-  font-size: 0.95rem;
-  opacity: 0.8;
-  margin-bottom: 0.8rem;
+  color: var(--text);
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+  border-left: 4px solid var(--accent);
+  border-radius: 6px;
+  padding: 8px 14px;
+  width: fit-content;
+  margin: .3em auto 1em;
+  box-shadow: 0 2px 8px rgba(0,0,0,.05);
 }
+/* Quand on arrive via ancre */
+article h2:target {
+  background: color-mix(in srgb, var(--accent) 15%, transparent);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--accent) 35%, transparent) inset;
+  border-radius: 8px; padding: 8px 14px;
+}
+/* Ancre confortable si header fixe / toolbar */
+.century-title,
+article h2 { scroll-margin-top: 84px; }
 
-/* ========= Séparateurs ========= */
-.markdown-renderer hr,
-article hr {
-  border: none;
-  border-top: 1px solid var(--gray-300);
-  margin: 1.2rem auto;
-  width: min(780px, 86%);
-  opacity: 0.7;
-}
-
-/* ========= Corps de texte ========= */
-article p {
-  line-height: 1.75;
-  font-size: 1.04rem;
-}
-ul, ol {
-  padding-left: 1.2rem;
-  line-height: 1.7;
+/***************************************
+  ====== MODE SOMBRE (ajustements) ======
+***************************************/
+@media (prefers-color-scheme: dark) {
+  .centuries-nav { border-left-color: color-mix(in srgb, var(--accent) 25%, transparent); }
+  article h2 { box-shadow: 0 2px 8px rgba(0,0,0,.25); }
 }

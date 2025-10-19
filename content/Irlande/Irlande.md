@@ -1,31 +1,31 @@
-![[Irlande.png|50%]]
-# Siècles :
+# Irlande
 
-- [[Irlande#Mythologie - Tuatha Dé Danann, héros d’Ulster et sagas celtiques|Mythologie - Tuatha Dé Danann, héros d’Ulster et sagas celtiques]]
 
-# Lieux :
+![[Irlande.png|60%]]
 
-- Test
-
-# Peuples :
-
-- Test
 
 ---
-# Mythologie - Tuatha Dé Danann, héros d’Ulster et sagas celtiques
 
-![[Irlande Mythologie.png|50%]]
+### 🕰 Chronologie par siècles
 
-### *Personnages :*
+
+- [[Irlande#Tuatha Dé Danann, héros d’Ulster et sagas celtiques|Mythologie ~ Tuatha Dé Danann, héros d’Ulster et sagas celtiques]]
+
+<div class="century-label">Mythologie</div>
+
+## Tuatha Dé Danann, héros d’Ulster et sagas celtiques
+
+![[Irlande Mythologie.png|60%]]
+### Personnages
 
 - [[Manannán mac Lir]]
+### Événements
 
-### *Evènements :* 
 
-- Test
+### Autres
 
-### *Autres :*
 
-- Test
 
----
+
+
+

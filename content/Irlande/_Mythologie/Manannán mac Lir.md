@@ -1,16 +1,16 @@
-	Seigneur des mers et gardien de l’Autre Monde
 
-![[Manannan Mac Lir.png|50%]]
+# Manannán mac Lir
+<span class="subtitle">Seigneur des mers et gardien de l’Autre Monde</span>
+![[Manannan Mac Lir.png|60%]]
+
+
+<div class="meta">
+  <span class="pill">📍 Irlande</span>
+  <span class="pill">📅 Mythologie</span>
+</div>
 
 ---
 
-## 📍 Lieu
-[[Irlande]]
-
-## 📅 Dates
-Mythologie
-
----
 ## 🏛️ Contexte et époque
 
 Dans la tradition irlandaise, la mer n’est pas un obstacle mais un **lieu de passage vers d’autres mondes**.  
@@ -30,8 +30,9 @@ Il règne depuis l’île mythique d’**Emain Ablach**, située au-delà des fl
 Il protège les dieux et les héros qui voguent vers les royaumes éternels.  
 Ses pouvoirs incluent le contrôle des vagues et des brumes, ainsi que la capacité de **rendre son royaume invisible** aux mortels.
 
-![[Manannan Mac Lir 2.png|50%]]
+![[Manannan Mac Lir 2.png|60%]]
 *Manannán mac Lir sur son char, tiré par des chevaux blancs*
+
 
 ### ⚓ Le passeur entre les mondes
 
@@ -48,8 +49,9 @@ Dans plusieurs cycles mythologiques, Manannán prête son aide à des héros irl
 - Dans d’autres récits, il accueille les guerriers morts dans son royaume marin, rôle proche du **passeur d’âmes** dans d’autres traditions.
     
 
-![[Manannan Mac Lir 3.png|50%]]
+![[Manannan Mac Lir 3.png|60%]]
 *Manannán mac Lir offre à Lugh Lamhfhada son casque d'invisibilité et son cheval Aonbharr*
+
 
 ### 🌫️ Le manteau d’invisibilité
 
@@ -69,4 +71,4 @@ Au fil des siècles, il est devenu **symbole de la continuité entre nature et d
 les moines médiévaux, tout en christianisant son image, ont conservé son rôle de **gardien des morts et des voyageurs**.  
 Il représente la mer comme **voie de passage vers l’immortalité**, concept central dans la spiritualité celtique.
 
-![[Manannan Mac Lir 4.png|50%]]
+![[Manannan Mac Lir 4.png|60%]]

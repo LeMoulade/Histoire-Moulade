@@ -1,35 +1,29 @@
-
-![[Angleterre.png|50%]]
-
-# Siècles :
+# Angleterre
 
 
-- [[Angleterre#Littérature - Théâtre élisabéthain, roman victorien et œuvres modernes|Littérature - Théâtre élisabéthain, roman victorien et œuvres modernes]]
-
-# Lieux :
-
-- Test
-
-# Autres :
-
+![[Angleterre.png|60%]]
 
 
 ---
-# Littérature - Théâtre élisabéthain, roman victorien et œuvres modernes
+
+### 🕰 Chronologie par siècles
 
 
-![[Angleterre Littérature.png|50%]]
+- [[Angleterre#Théâtre élisabéthain, roman victorien et œuvres modernes|Littérature ~Théâtre élisabéthain, roman victorien et œuvres modernes]]
+<div class="century-label">Littérature</div>
 
-### *Personnages :*
+## Théâtre élisabéthain, roman victorien et œuvres modernes
 
+![[Angleterre Littérature.png|60%]]
+### Personnages
 
 - [[Obéron]]
 
+### Événements
 
-### *Evènements :* 
 
-- Test
+### Autres
 
-### *Autres :*
 
-- Test
+
+

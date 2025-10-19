@@ -1,16 +1,15 @@
-	Roi des fées du Moyen Âge
+# Obéron
+<span class="subtitle">Roi des fées du Moyen Âge</span>
+![[Obéron.png|60%]]
 
-![[Obéron.png|50%]]
 
----
-
-## 📍 Lieu
-[[Angleterre]] / [[France]] / [[Allemagne]]
-
-## 📅 Dates
-1595 (Le Songe d’une nuit d’été)
+<div class="meta">
+  <span class="pill">📍 Angleterre / France / Allemagne</span>
+  <span class="pill">📅 1595 (Le Songe d’une nuit d’été)</span>
+</div>
 
 ---
+
 ## 🏛️ Contexte et époque
 
 La figure d’Obéron apparaît dans la littérature française du début du XIIIᵉ siècle, à une époque où la **culture chevaleresque** et les **croyances populaires** s’entrecroisent.  
@@ -19,7 +18,7 @@ C’est dans ce contexte que naît **Obéron**, souverain du monde des fées, fi
 
 ---
 
-## ⚔️ Rôle dans le roman “Huon de Bordeaux” 
+## ⚔️ Rôle dans le roman “Huon de Bordeaux”
 
 La première apparition d’Obéron se trouve dans le **roman “Huon de Bordeaux”**, rédigé entre 1210 et 1225.  
 Huon, jeune chevalier de Charlemagne, est banni après avoir tué le fils de l’empereur lors d’un duel injuste.  
@@ -37,8 +36,9 @@ Il lui remet deux objets surnaturels :
 Grâce à ces dons, Huon accomplit sa mission, réconcilie les peuples, et retrouve la faveur de Charlemagne.  
 Obéron y apparaît comme **un esprit juste et impartial**, récompensant les vertueux et punissant les menteurs.
 
-![[Obéron 2.png|50%]]
+![[Obéron 2.png|60%]]
 *Obéron remet la corne magique à Huon*
+
 
 ---
 
@@ -56,8 +56,9 @@ Au XVIᵉ siècle, son nom se diffuse dans toute l’Europe :
     Il devient alors le **roi des fées**, époux de **Titania** avec laquelle il se dispute souvent, et domine un royaume d’esprits liés à la nature.  
     Cette adaptation transforme le juge surnaturel médiéval en **souverain des éléments**, plus proche du folklore populaire que de la théologie.
 
-![[Obéron 3.png|50%]]
+![[Obéron 3.png|60%]]
 *Obéron se dispute avec Titania*
+
 
 ---
 
@@ -76,4 +77,4 @@ Son image se propage à travers :
 Son évolution illustre le passage d’une conception **morale et religieuse du surnaturel** à une vision **poétique et naturaliste** de la magie.  
 De guide spirituel médiéval, il devient **souverain du monde imaginaire**, symbole du merveilleux européen.
 
-![[Obéron 4.png|50%]]
+![[Obéron 4.png|60%]]

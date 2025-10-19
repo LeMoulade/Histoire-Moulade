@@ -1,14 +1,13 @@
-	Dieu de la Lance et du Bajiquan
 
-![[Li Shuwen.png|50%]]
+# Li Shuwen
+<span class="subtitle">Dieu de la Lance et du Bajiquan</span>
+![[Li Shuwen.png|60%]]
 
----
 
-## 📍 Lieu
-[[Chine]]
-
-## 📅 Dates
-1864 - 1934
+<div class="meta">
+  <span class="pill">📍 Chine</span>
+  <span class="pill">📅 1864 ~1934</span>
+</div>
 
 ---
 ## 🏛️ Contexte et époque
@@ -34,8 +33,9 @@ Sa devise était :
 
 > “Un seul coup suffit. Si l’adversaire se relève, c’est que je me suis trompé.”
 
-![[Li Shuwen 2.png|50%]]
+![[Li Shuwen 2.png|60%]]
 *Li Shuwen en démonstration devant ses élèves*
+
 
 ---
 
@@ -50,8 +50,9 @@ Plus tard, Li mit sa maîtrise au service de la formation militaire.
 Il devint **instructeur des gardes du corps** de plusieurs seigneurs de guerre, dont le puissant **prince Pu Yi** (le dernier empereur de Chine) et le maréchal **Zhang Xueliang**.  
 Ses élèves furent ensuite recrutés pour entraîner la **Garde impériale** et, plus tard, les troupes de la République.
 
-![[Li Shuwen 3.png|50%]]
+![[Li Shuwen 3.png|60%]]
 *Formation à la lance des militaires chinois*
+
 
 ---
 
@@ -83,4 +84,4 @@ Son tombeau se trouverait près de **Cangzhou**, dans la province du Hebei.
 Ses disciples, dont **Huo Dian-ge** (gardien personnel de Pu Yi), **Li Chen-ji**, et plus tard **Liu Yun-qiao**, perpétuèrent sa lignée.  
 Aujourd’hui encore, le Bajiquan de Li Shuwen est pratiqué dans les écoles militaires chinoises et taïwanaises.
 
-![[Li Shuwen 4.png|50%]]
+![[Li Shuwen 4.png|60%]]

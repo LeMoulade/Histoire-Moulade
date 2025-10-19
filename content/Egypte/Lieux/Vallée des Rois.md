@@ -1,16 +1,16 @@
-	Nécropole sacrée du Nouvel Empire
 
-![[Vallée des rois.png|50%]]
+# Vallée des Rois
+<span class="subtitle">Nécropole sacrée du Nouvel Empire</span>
+![[Vallée des rois.png|60%]]
+
+
+<div class="meta">
+  <span class="pill">📍 Egypte / Thèbes</span>
+  <span class="pill">📅 -1539 ~ -1075</span>
+</div>
 
 ---
 
-## 📍 Lieu
-[[Egypte]] / Thèbes
-
-## 📅 Dates
-(-1539) - (-1075)
-
----
 ## 🏛️ Contexte et création
 
 Avant le Nouvel Empire, les pharaons étaient enterrés dans des **pyramides** ou dans des nécropoles ouvertes proches de Memphis.  
@@ -19,7 +19,7 @@ Mais à partir du règne de **Thoutmôsis Ier** (vers 1500 av. J.-C.), la monarc
 Le choix se porta sur une vallée isolée de la rive ouest du Nil, **face à Thèbes (Louxor)**, au pied du pic rocheux **el-Qurn**, dont la forme conique rappelait symboliquement une pyramide naturelle.  
 Ce lieu, appelé en égyptien _Ta-sekhet-ma’at_ (“la grande place”), devint le **nouveau domaine funéraire des rois**.
 
-![[Vallée des rois 2.png|50%]]
+![[Vallée des rois 2.png|60%]]
 *Vallée dans laquelle seront placés les tombeaux*
 
 ---
@@ -44,7 +44,7 @@ Ces tombes furent creusées profondément dans la roche, reliées par de longs c
 Chaque tombe suivait un plan différent, évoluant avec le temps :  
 les premières étaient simples (XVIIIᵉ dynastie), les dernières (sous Ramsès) comportaient plusieurs salles et galeries monumentales.
 
-![[Vallée des rois 3.png|50%]]
+![[Vallée des rois 3.png|60%]]
 *Représentation d'un tombeau de la Vallée des Rois*
 
 ---
@@ -73,7 +73,7 @@ les premières étaient simples (XVIIIᵉ dynastie), les dernières (sous Ramsè
 - **Ramsès IX à XI** : dernières inhumations avant l’abandon du site.
     
 
-![[Vallée des rois 4.png|50%]]
+![[Vallée des rois 4.png|60%]]
 *Découverte du tombeau de Séthi Iᵉʳ, très richement orné*
 
 ---
@@ -93,7 +93,7 @@ Les murs des tombes sont couverts de textes religieux tels que :
 Chaque tombe est un **microcosme cosmique**, où le roi s’identifie à **Rê** pour renaître parmi les dieux.  
 La vallée elle-même représentait le **royaume d’Osiris**, le dieu de la résurrection.
 
-![[Vallée des rois 5.png|50%]]
+![[Vallée des rois 5.png|60%]]
 *Gravure représentant le voyage cosmique de l'âme du roi*
 
 ---
@@ -110,7 +110,7 @@ Mais c’est au XIXᵉ siècle que les grandes explorations archéologiques comm
 - **Howard Carter**, en 1922, mit au jour la tombe de **Toutânkhamon (KV62)**, restée quasiment intacte, contenant plus de 5 000 objets funéraires.
     
 
-![[Vallée des rois 6.png|50%]]
+![[Vallée des rois 6.png|60%]]
 *Howard Carter découvre le tombeau de Toutânkhamon*
 
 ---
@@ -130,4 +130,4 @@ Elle incarne :
 Classée au **patrimoine mondial de l’UNESCO**, elle reste l’un des ensembles funéraires les mieux conservés et les plus étudiés au monde.  
 Chaque découverte y éclaire davantage la vision que les anciens Égyptiens avaient de la mort, du pouvoir et de la divinité.
 
-![[Vallée des rois 7.png|50%]]
+![[Vallée des rois 7.png|60%]]

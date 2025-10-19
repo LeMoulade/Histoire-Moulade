@@ -1,16 +1,15 @@
-	La pharaonne bâtisseuse du Nouvel Empire
+# Hatshepsout
+<span class="subtitle">La pharaonne bâtisseuse du Nouvel Empire</span>
+![[Hatshepsout.png|60%]]
 
-![[Hatshepsout.png|50%]]
 
----
-
-## 📍 Lieu
-[[Egypte]]
-
-## 📅 Dates
-(-1507) - (-1458)
+<div class="meta">
+  <span class="pill">📍 Egypte</span>
+  <span class="pill">📅 -1507 ~ -1458</span>
+</div>
 
 ---
+
 ## 🏛️ Contexte et ascension
 
 Au début du XVe siècle av. J.-C., l’Égypte entre dans sa période de plus grande puissance : le **Nouvel Empire**.  
@@ -20,7 +19,7 @@ Hatshepsout, fille du pharaon **Thoutmôsis Iᵉʳ** et de la reine **Ahmès**, 
 À la mort de son époux, le trône revient à leur fils, **Thoutmôsis III**, encore enfant.  
 Hatshepsout devient d’abord **régente**, mais, quelques années plus tard, elle prend pour elle-même le titre complet de **Pharaon d’Égypte**, revêtant tous les symboles du pouvoir masculin.
 
-![[Hatshepsout 2.png|50%]]
+![[Hatshepsout 2.png|60%]]
 *Hatshepsout couronnée Pharaon*
 
 ---
@@ -43,7 +42,7 @@ Pour asseoir son autorité, Hatshepsout mit en place une propagande religieuse h
 Elle affirma être **fille du dieu Amon**, conçu par lui-même dans le ventre de sa mère, et légitimée par la volonté divine.  
 Elle se fit représenter **comme un homme**, portant la barbe postiche et la coiffe némès, tout en gardant ses noms féminins.
 
-![[Hatshepsout 3.png|50%]]
+![[Hatshepsout 3.png|60%]]
 *Représentations d'Hatshepsout, avec des attributs masculins*
 
 ---
@@ -61,7 +60,7 @@ Son règne fut marqué par une renaissance artistique et religieuse :
 - De nombreux sanctuaires furent construits ou restaurés à Thèbes, Éléphantine et Beni Hassan.
     
 
-![[Hatshepsout 4.png|50%]]
+![[Hatshepsout 4.png|60%]]
 *Temple de Deir el-Bahari*
 
 ---
@@ -73,7 +72,7 @@ Elle envoya notamment une **expédition célèbre au pays de Pount** (probableme
 Les reliefs de Deir el-Bahari montrent des navires chargés d’or, d’encens, d’ivoire, de myrrhe, et d’animaux exotiques.  
 Cette mission renforça la richesse et le prestige de l’Égypte.
 
-![[Hatshepsout 5.png|50%]]
+![[Hatshepsout 5.png|60%]]
 *Expédition commerciale et diplomatique au pays de Pount*
 
 Sous son règne, les frontières de l’empire restèrent stables, les routes commerciales sûres et les temples florissants.  
@@ -89,7 +88,7 @@ Son tombeau, **KV20**, se trouve dans la Vallée des Rois, mais sa momie fut ret
 Après sa mort, son successeur **Thoutmôsis III** fit **effacer son nom et ses représentations** sur les monuments.  
 Cette “damnatio memoriae” visait probablement à rétablir la légitimité masculine de la lignée royale, plutôt qu’à punir sa mémoire personnelle.
 
-![[Hatshepsout 6.png|50%]]
+![[Hatshepsout 6.png|60%]]
 *Sous les ordres de Thoutmôsis III, les traces d'Hatshepsout sont effacées*
 
 ---
@@ -111,4 +110,4 @@ Son règne marque l’un des âges d’or du Nouvel Empire :
 
 Aujourd’hui, son temple de Deir el-Bahari reste l’un des sites les plus emblématiques de l’Égypte ancienne, symbole de la grandeur, de la diplomatie et du génie architectural de la première grande reine-pharaon de l’Histoire.
 
-![[Hatshepsout 7.png|50%]]
+![[Hatshepsout 7.png|60%]]
