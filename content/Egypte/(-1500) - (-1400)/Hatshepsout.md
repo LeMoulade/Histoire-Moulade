@@ -21,6 +21,7 @@ Hatshepsout, fille du pharaon **Thoutmôsis Iᵉʳ** et de la reine **Ahmès**, 
 Hatshepsout devient d’abord **régente**, mais, quelques années plus tard, elle prend pour elle-même le titre complet de **Pharaon d’Égypte**, revêtant tous les symboles du pouvoir masculin.
 
 ![[Hatshepsout 2.png|50%]]
+*Hatshepsout couronnée Pharaon*
 
 ---
 
@@ -43,6 +44,7 @@ Elle affirma être **fille du dieu Amon**, conçu par lui-même dans le ventre d
 Elle se fit représenter **comme un homme**, portant la barbe postiche et la coiffe némès, tout en gardant ses noms féminins.
 
 ![[Hatshepsout 3.png|50%]]
+*Représentations d'Hatshepsout, avec des attributs masculins*
 
 ---
 
@@ -60,6 +62,7 @@ Son règne fut marqué par une renaissance artistique et religieuse :
     
 
 ![[Hatshepsout 4.png|50%]]
+*Temple de Deir el-Bahari*
 
 ---
 
@@ -71,6 +74,7 @@ Les reliefs de Deir el-Bahari montrent des navires chargés d’or, d’encens, 
 Cette mission renforça la richesse et le prestige de l’Égypte.
 
 ![[Hatshepsout 5.png|50%]]
+*Expédition commerciale et diplomatique au pays de Pount*
 
 Sous son règne, les frontières de l’empire restèrent stables, les routes commerciales sûres et les temples florissants.  
 Hatshepsout sut ainsi maintenir la prospérité sans recours à la guerre, consolidant la paix intérieure et la puissance économique du royaume.
@@ -86,6 +90,7 @@ Après sa mort, son successeur **Thoutmôsis III** fit **effacer son nom et ses 
 Cette “damnatio memoriae” visait probablement à rétablir la légitimité masculine de la lignée royale, plutôt qu’à punir sa mémoire personnelle.
 
 ![[Hatshepsout 6.png|50%]]
+*Sous les ordres de Thoutmôsis III, les traces d'Hatshepsout sont effacées*
 
 ---
 

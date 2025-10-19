@@ -31,6 +31,7 @@ Il protège les dieux et les héros qui voguent vers les royaumes éternels.
 Ses pouvoirs incluent le contrôle des vagues et des brumes, ainsi que la capacité de **rendre son royaume invisible** aux mortels.
 
 ![[Manannan Mac Lir 2.png|50%]]
+*Manannán mac Lir sur son char, tiré par des chevaux blancs*
 
 ### ⚓ Le passeur entre les mondes
 
@@ -48,6 +49,7 @@ Dans plusieurs cycles mythologiques, Manannán prête son aide à des héros irl
     
 
 ![[Manannan Mac Lir 3.png|50%]]
+*Manannán mac Lir offre à Lugh Lamhfhada son casque d'invisibilité et son cheval Aonbharr*
 
 ### 🌫️ Le manteau d’invisibilité
 

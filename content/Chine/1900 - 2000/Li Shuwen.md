@@ -35,6 +35,7 @@ Sa devise était :
 > “Un seul coup suffit. Si l’adversaire se relève, c’est que je me suis trompé.”
 
 ![[Li Shuwen 2.png|50%]]
+*Li Shuwen en démonstration devant ses élèves*
 
 ---
 
@@ -50,6 +51,7 @@ Il devint **instructeur des gardes du corps** de plusieurs seigneurs de guerre, 
 Ses élèves furent ensuite recrutés pour entraîner la **Garde impériale** et, plus tard, les troupes de la République.
 
 ![[Li Shuwen 3.png|50%]]
+*Formation à la lance des militaires chinois*
 
 ---
 

@@ -22,7 +22,7 @@ C’est dans ce contexte que naît **Obéron**, souverain du monde des fées, fi
 ## ⚔️ Rôle dans le roman “Huon de Bordeaux”
 
 La première apparition d’Obéron se trouve dans le **roman “Huon de Bordeaux”**, rédigé entre 1210 et 1225.  
-Huon, jeune chevalier de [[Charlemagne]], est banni après avoir tué le fils de l’empereur lors d’un duel injuste.  
+Huon, jeune chevalier de Charlemagne, est banni après avoir tué le fils de l’empereur lors d’un duel injuste.  
 Pour regagner sa grâce, il doit accomplir une mission impossible en Orient.  
 Perdu dans une forêt, il rencontre **Obéron**, décrit comme un nain de beauté parfaite, vêtu d’or et portant une couronne lumineuse.
 
@@ -38,6 +38,7 @@ Grâce à ces dons, Huon accomplit sa mission, réconcilie les peuples, et retro
 Obéron y apparaît comme **un esprit juste et impartial**, récompensant les vertueux et punissant les menteurs.
 
 ![[Obéron 2.png|50%]]
+*Obéron remet la corne magique à Huon*
 
 ---
 
@@ -56,6 +57,7 @@ Au XVIᵉ siècle, son nom se diffuse dans toute l’Europe :
     Cette adaptation transforme le juge surnaturel médiéval en **souverain des éléments**, plus proche du folklore populaire que de la théologie.
 
 ![[Obéron 3.png|50%]]
+*Obéron se dispute avec Titania*
 
 ---
 

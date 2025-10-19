@@ -4,7 +4,7 @@
 # Siècles :
 
 
-- [[Angleterre#Littérature - Les chefs-d’œuvre du fantastique victorien|Littérature - Les chefs-d’œuvre du fantastique victorien]]
+- [[Angleterre#Littérature - Théâtre élisabéthain, roman victorien et œuvres modernes|Littérature - Théâtre élisabéthain, roman victorien et œuvres modernes]]
 
 # Lieux :
 
@@ -15,10 +15,10 @@
 
 
 ---
-# Littérature - Les chefs-d’œuvre du fantastique victorien
+# Littérature - Théâtre élisabéthain, roman victorien et œuvres modernes
 
 
-
+![[Angleterre Littérature.png|50%]]
 
 ### *Personnages :*
 

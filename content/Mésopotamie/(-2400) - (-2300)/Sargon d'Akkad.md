@@ -39,6 +39,7 @@ Selon la _Chronique de Sargon_ (rédigée plusieurs siècles après sa mort), il
 Cette histoire, d’inspiration mythique, rappelle plus tard le récit biblique de Moïse et symbolise la **légitimité divine d’un souverain issu du peuple**.
 
 ![[Sargon d'Akkad 2.png|50%]]
+*Légende de la naissance de Sargon*
 
 ---
 
@@ -54,6 +55,7 @@ De là, il gouverne un territoire immense :
 > “de la mer inférieure à la mer supérieure”, selon les textes, c’est-à-dire du Golfe Persique à la Méditerranée.
 
 ![[Sargon d'Akkad 3.png|50%]]
+*Sargon, conquérant menant son armée*
 
 Ses armées utilisaient des **armes en bronze**, une logistique organisée et des garnisons permanentes, annonçant les principes des futurs empires mésopotamiens.  
 Sargon mit également en place un **réseau administratif centralisé** et imposa l’usage de l’**akkadien**, langue sémitique, comme langue officielle aux côtés du sumérien.
@@ -76,6 +78,7 @@ Le règne de Sargon marque un tournant politique et culturel :
 Sous son règne, la Mésopotamie devient **le premier État multinational** connu de l’histoire humaine.
 
 ![[Sargon d'Akkad 4.png|50%]]
+*Organisation du commerce et de l'administration sous Sargon, système révolutionnaire*
 
 ---
 
@@ -85,6 +88,7 @@ Vers la fin de sa vie, Sargon dut faire face à plusieurs **révoltes internes**
 À sa mort (vers 2279 av. J.-C.), il laissa le trône à ses fils **Rimush** puis **Manishtushu**, suivis de son petit-fils **Naram-Sîn**, qui porta l’empire à son apogée.
 
 ![[Sargon d'Akkad 5.png|50%]]
+*Naram-Sîn menant l'Empire d'Akkad à la gloire*
 
 L’Empire d’Akkad s’effondra environ un siècle plus tard, affaibli par des révoltes et des invasions venues du nord (peuple des Gutis).  
 Cependant, son modèle impérial — administration, armée, communication — servit de base à tous les empires mésopotamiens ultérieurs.

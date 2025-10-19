@@ -2,6 +2,7 @@
 # Siècles :
 
 - [[Mésopotamie#-XXIVe - L’Empire d’Akkad et la première unification|-XXIVe - L’Empire d’Akkad et la première unification]]
+- [[Mésopotamie#-XVIIIe - L’empire de Babylone et le règne d’Hammurabi|-XVIIIe - L’empire de Babylone et le règne d’Hammurabi]]
 
 # Lieux :
 
@@ -29,3 +30,18 @@
 
 
 ---
+# -XVIIIe - L’empire de Babylone et le règne d’Hammurabi
+
+![[Mésopotamie -18.png|50%]]
+
+### *Personnages :*
+
+- [[Hammurabi]]
+
+### *Evènements :* 
+
+
+
+### *Autres :*
+
+

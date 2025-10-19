@@ -21,6 +21,7 @@ C’est dans ce contexte que surgit vers **2334 av. J.-C.**, un chef d’origine
 Il fonda sa capitale, **Akkad (ou Agadé)**, dont la localisation exacte demeure inconnue, probablement au nord de Sumer, entre Kish et Sippar.
 
 ![[Akkad 2.png|50%]]
+*Construction d'Akkad sous Sargon*
 
 ---
 
@@ -44,6 +45,7 @@ Une armée permanente, première du genre, fut créée pour maintenir l’ordre 
 Cette structure fit d’Akkad **le premier État multinational et administratif connu**.
 
 ![[Akkad 3.png|50%]]
+*Armée organisée et permanente de l'Empire d'Akkad*
 
 ---
 
@@ -69,6 +71,7 @@ Akkad prospéra grâce à un système d’échanges étendu et à une administra
     
 
 ![[Akkad 4.png|50%]]
+*Registres, commerce, administration : les nombreuses révolutions sociales de l'Empire d'Akkad*
 
 ---
 
@@ -81,6 +84,7 @@ Sous son autorité, Akkad domina militairement et culturellement toute la régio
 Le célèbre **“relief de la victoire de Naram-Sîn”** (conservé au Louvre) le montre gravissant une montagne en piétinant ses ennemis — symbole de la puissance impériale.
 
 ![[Akkad 5.png|50%]]
+*Naram-Sîn, dirigeant quasi divin de l'Empire d'Akkad*
 
 ---
 
@@ -100,6 +104,7 @@ Ces événements provoquèrent l’abandon de plusieurs cités et une régressio
 Les cités sumériennes reprirent ensuite leur autonomie avant d’être intégrées plus tard à l’empire néo-sumérien d’**Ur III**.
 
 ![[Akkad 6.png|50%]]
+*Akkad, ravagée par les révoltes et les invasions*
 
 ---
 
