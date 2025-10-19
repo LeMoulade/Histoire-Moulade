@@ -134,3 +134,74 @@ article ul, article ol { padding-left:1.2rem; line-height:1.7; }
   article h2 { box-shadow: 0 2px 8px rgba(0,0,0,.25); }
 }
 
+/* ====== COLONNE DE LECTURE CENTRÉE (comme Obsidian) ====== */
+/* largeur cible de lecture (ajuste si tu veux) */
+article { --content-w: min(860px, 92vw); }
+
+/* centre les éléments "texte" sur la même colonne */
+article p,
+article ul, article ol,
+article blockquote,
+article .meta,
+article .centuries-nav,
+article .timeline,
+article .callout,
+article .hero,
+article hr {
+  max-width: var(--content-w);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* images et légendes alignées sur la même colonne */
+article img { 
+  display: block;
+  margin-left: auto; 
+  margin-right: auto; 
+  max-width: var(--content-w);
+}
+article img + em {
+  max-width: var(--content-w);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ====== PILLS (Lieu / Dates) PLUS LISIBLES ====== */
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin: .6rem auto 1.4rem;
+  max-width: var(--content-w);
+}
+.pill {
+  font-size: 1.05rem;        /* ↑ taille du texte */
+  padding: 8px 14px;         /* ↑ padding */
+  border-radius: 999px;
+  border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  backdrop-filter: saturate(120%);
+}
+
+/* ====== TITRES "RUBANS" (h2) centrés sur la même colonne ====== */
+article h2 {
+  width: fit-content;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* ====== TIMELINE alignée à la colonne ====== */
+.timeline { 
+  max-width: var(--content-w);
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+/* ====== Sommaire vertical aligné à la colonne ====== */
+.centuries-nav {
+  max-width: var(--content-w);
+  margin-left: auto;
+  margin-right: auto;
+}
+
