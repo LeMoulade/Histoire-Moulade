@@ -11,10 +11,21 @@
 ### 🕰 Chronologie par siècles
 
 
+- [[Mésopotamie#Premières cités et naissance de l’écriture|XXXVᵉ siècle av. J.-C. ~ Premières cités et naissance de l’écriture]]
 - [[Mésopotamie#Empire d’Akkad et première unification|XXIVᵉ siècle av. J.-C. ~ Empire d’Akkad et première unification]]
 - [[Mésopotamie#Empire de Babylone et règne d’Hammurabi|XVIIIᵉ siècle av. J.-C. ~ Empire de Babylone et règne d’Hammurabi]]
 
 
+
+<div class="century-label">XXXVᵉ siècle av. J.-C.</div>
+
+## Premières cités et naissance de l’écriture
+
+![[Mésopotamie -35.png|60%]]
+
+### Lieux
+
+- [[Sumer]]
 <div class="century-label">XXIVᵉ siècle av. J.-C.</div>
 
 ## Empire d’Akkad et première unification
@@ -23,10 +34,8 @@
 ### Personnages
 
 - [[Sargon d'Akkad]]
-### Événements
 
-
-### Autres
+### Lieux
 
 - [[Akkad]]
 
@@ -38,10 +47,8 @@
 ### Personnages
 
 - [[Hammurabi]]
-### Événements
 
 
-### Autres
 
 
 
