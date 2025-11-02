@@ -36,8 +36,7 @@ Il lui remet deux objets surnaturels :
 Grâce à ces dons, Huon accomplit sa mission, réconcilie les peuples, et retrouve la faveur de Charlemagne.  
 Obéron y apparaît comme **un esprit juste et impartial**, récompensant les vertueux et punissant les menteurs.
 
-![[Obéron 2.png|60%]]
-*Obéron remet la corne magique à Huon*
+![[Obéron 1.png|60%]]
 
 
 ---
@@ -56,8 +55,8 @@ Au XVIᵉ siècle, son nom se diffuse dans toute l’Europe :
     Il devient alors le **roi des fées**, époux de **Titania** avec laquelle il se dispute souvent, et domine un royaume d’esprits liés à la nature.  
     Cette adaptation transforme le juge surnaturel médiéval en **souverain des éléments**, plus proche du folklore populaire que de la théologie.
 
-![[Obéron 3.png|60%]]
-*Obéron se dispute avec Titania*
+
+![[Obéron 2 1.png|60%]]
 
 
 ---

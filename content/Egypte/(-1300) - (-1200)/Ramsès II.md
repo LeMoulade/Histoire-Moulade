@@ -97,7 +97,7 @@ Il fut inhumé dans la **tombe KV7** de la Vallée des Rois, mais sa momie fut d
 Découverte au XIXᵉ siècle dans la cachette de **Deir el-Bahari**, elle est aujourd’hui conservée au **Musée égyptien du Caire**.
 
 ![[Ramsès II 7.png|60%]]
-*Transport du corps de Ramsès II vers la Vallée des Rois*
+*Transport du corps de Ramsès II vers la [[Vallée des Rois]]*
 
 ---
 
