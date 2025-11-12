@@ -19,8 +19,15 @@
 ### Personnages
 
 - [[Alexandre le Grand]]
+- [[Aristote]]
+- [[Dinocrates de Rhodes]]
+- [[Olympias]]
+- [[Philippe II]]
+- [[Ptolémée Ier Sôter]]
 
 ### Événements
 
-
+- [[Bataille d'Issos]]
 ### Autres
+
+- [[Ligue de Corinthe]]

@@ -19,7 +19,6 @@
 
 ### Personnages
 
-- [[Hai Bà Trưng]]
 
 ### Événements
 

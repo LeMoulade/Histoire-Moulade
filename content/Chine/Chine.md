@@ -24,7 +24,7 @@
 
 ### Personnages
 
-- [[Confucius]]
+
 
 ### Événements
 
@@ -39,7 +39,7 @@
 ![[Chine 20.png|60%]]
 ### Personnages
 
-- [[Li Shuwen]]
+
 
 ### Événements
 

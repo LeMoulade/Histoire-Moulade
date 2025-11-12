@@ -20,7 +20,6 @@
 ![[Rome 1er.png|60%]]
 ### Personnages
 
-- [[Néron]]
 
 ### Événements
 
@@ -37,7 +36,6 @@
 
 ### Personnages
 
-- [[Saint Georges]]
 
 ### Événements
 

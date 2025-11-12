@@ -1,7 +1,7 @@
 # Autriche
 
 
-![[_Medias/Autriche.png|60%]]
+![[Autriche 1.png|60%]]
 
 
 ---
@@ -19,7 +19,7 @@
 
 ### Personnages
 
-- [[Antonio Salieri]]
+
 
 ### Événements
 

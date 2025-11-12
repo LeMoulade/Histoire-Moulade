@@ -18,7 +18,7 @@
 ![[Scandinavie Mythologie.png|60%]]
 ### Personnages
 
-- [[Brynhild]]
+
 
 ### Événements
 

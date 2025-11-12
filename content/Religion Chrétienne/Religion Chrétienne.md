@@ -8,5 +8,4 @@
 
 ### Personnages, lieux et évènements
 
-- [[Saint Georges]]
 

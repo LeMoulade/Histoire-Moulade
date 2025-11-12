@@ -19,7 +19,7 @@
 
 ### Personnages
 
-- [[Rāma]]
+
 
 ### Événements
 

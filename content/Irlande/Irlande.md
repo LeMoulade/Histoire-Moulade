@@ -18,7 +18,7 @@
 ![[Irlande Mythologie.png|60%]]
 ### Personnages
 
-- [[Manannán mac Lir]]
+
 ### Événements
 
 

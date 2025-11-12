@@ -1,7 +1,7 @@
 # Italie
 
 
-![[_Medias/Italie.png|60%]]
+![[Italie 1.png|60%]]
 
 
 ---
@@ -19,7 +19,6 @@
 
 ### Personnages
 
-- [[Antonio Salieri]]
 
 ### Événements
 

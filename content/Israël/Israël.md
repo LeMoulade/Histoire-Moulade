@@ -20,7 +20,7 @@
 
 ### Personnages
 
-- [[Salomon]]
+
 
 ### Événements
 

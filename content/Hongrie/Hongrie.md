@@ -1,7 +1,7 @@
 # Hongrie
 
 
-![[_Medias/Hongrie.png|60%]]
+![[Hongrie 1.png|60%]]
 
 
 ---
@@ -15,11 +15,11 @@
 
 ## Domination ottomane et influence des Habsbourg
 
-![[_Medias/Hongrie 16.png|60%]]
+![[Hongrie 16 1.png|60%]]
 
 ### Personnages
 
-- [[Élisabeth Báthory]]
+
 
 ### Événements
 
