@@ -1,18 +1,12 @@
 # Amon
 <span class="subtitle">Roi des dieux d’Égypte</span>
-image
+![[Amon.png|60%]]
 
 
 <div class="meta">
   <span class="pill">📍 Egypte</span>
   <span class="pill">📅 Mythologie</span>
 </div>
-
----
-
-### 🖼️ _Illustration d’ouverture_
-
-Le dieu **Amon-Rê**, assis sur un trône d’or, couronné de deux hautes plumes bleues, tient le sceptre et l’ankh, symbole de vie. Derrière lui, le disque solaire de Rê irradie, unifiant le dieu caché de Thèbes et le dieu du soleil d’Héliopolis. Devant lui, un pharaon agenouillé lui offre des fleurs de lotus — l’union de l’humain et du divin dans la lumière.
 
 ---
 
@@ -25,7 +19,7 @@ Son nom évoque **l’invisible**, l’essence cachée du monde, ce qui existe s
 Sous les pharaons de la **XIᵉ dynastie**, il est proclamé **dieu protecteur royal**.  
 Puis, au **Nouvel Empire**, il s’impose comme **le dieu suprême de l’Égypte**, fusionné avec le dieu solaire **Rê** sous la forme de **Amon-Rê**, « roi des dieux ».
 
-_(Illustration 1 : hiéroglyphe du nom d’Amon gravé sur un mur de Karnak, surmonté du disque solaire de Rê.)_
+![[Amon 2.png|60%]]
 
 ---
 
@@ -45,7 +39,7 @@ Dans les hymnes du Nouvel Empire, Amon-Rê est célébré comme :
 
 Son culte dépasse les limites de Thèbes : il devient le **dieu universel de l’ordre cosmique**, soutenant le pharaon et régissant le ciel, la terre et le monde souterrain.
 
-_(Illustration 2 : bas-relief représentant Amon-Rê sous forme humaine, coiffé des plumes, un disque solaire au-dessus, entouré de rayons terminés par des mains.)_
+![[Amon 3.png|60%]]
 
 ---
 
@@ -58,7 +52,7 @@ Les **prêtres d’Amon**, à Thèbes, administrent d’immenses domaines agrico
 Cette théocratie conduit parfois à des tensions : **Akhenaton**, au XIVᵉ siècle av. J.-C., tentera de supprimer le culte d’Amon au profit du **dieu solaire Aton**.  
 Mais après sa mort, Amon est **rétabli triomphalement**, symbole du retour à l’ordre cosmique.
 
-_(Illustration 3 : procession du culte d’Amon à Thèbes — prêtres portant la barque sacrée, pharaon en tête, foule agenouillée sur le passage.)_
+![[Amon 4.png|60%]]
 
 ---
 
@@ -77,7 +71,7 @@ D’autres sanctuaires lui sont consacrés dans tout le pays :
 - et de nombreux temples secondaires en Nubie et en Libye.
     
 
-_(Illustration 4 : la barque dorée d’Amon traversant le Nil entre Karnak et Louqsor, sous les acclamations des fidèles.)_
+![[Amon 5.png|60%]]
 
 ---
 
@@ -89,7 +83,7 @@ L’oracle de **Siwa** devient un lieu de pèlerinage panméditerranéen.
 
 Ainsi, le “dieu caché” d’Égypte devient une divinité **cosmopolite**, intégrée à la culture religieuse du monde antique.
 
-_(Illustration 5 : statue gréco-égyptienne de Zeus-Ammon, barbe et cornes de bélier, mélange d’art grec et symbolisme égyptien.)_
+![[Amon 6.png|60%]]
 
 ---
 
@@ -104,8 +98,4 @@ Son nom, “le caché”, n’exprime pas l’absence, mais **la transcendance**
 
 ---
 
-### 🖼️ _Illustration de conclusion_
-
-Crépuscule sur les colonnes de Karnak : la lumière décline, les ombres s’allongent sur les hiéroglyphes d’Amon-Rê.  
-Dans le silence du temple, une dernière lueur d’or glisse sur la couronne à plumes du dieu.  
-Invisible mais présent, Amon demeure — **le souffle caché du monde.**
+![[Amon 7.png|60%]]

@@ -1,6 +1,6 @@
 # Reine Victoria
 <span class="subtitle">Matriarche de l’Europe</span>
-image
+![[Reine Victoria.png|60%]]
 
 
 <div class="meta">
@@ -8,13 +8,6 @@ image
   <span class="pill">📅 1819 ~ 1901</span>
 </div>
 
----
-
-### 🖼️ _Illustration d’ouverture_
-
-Une femme en robe noire, couronne discrète posée sur sa tête, se tient droite devant un bureau couvert de lettres, de portraits et d’un globe terrestre.  
-Son regard est ferme, empreint de dignité et de fatigue.  
-Cette image résume la figure colossale de la **reine Victoria**, souveraine d’un empire sur lequel “le soleil ne se couchait jamais”, témoin et symbole d’un siècle entier de transformations.
 
 ---
 
@@ -27,7 +20,7 @@ Lorsque son oncle, le roi **Guillaume IV**, meurt sans héritier en **1837**, Vi
 Sa jeunesse, sa fraîcheur et son sérieux contrastent avec les excès des souverains précédents.  
 La reine incarne immédiatement un **nouveau modèle moral et familial**, conforme aux valeurs de la classe moyenne victorienne en plein essor.
 
-_(Illustration 1 : la jeune Victoria lors de son couronnement à Westminster Abbey, drapée de blanc et d’or, les yeux levés vers la couronne posée sur sa tête.)_
+![[Reine Victoria 2.png|60%]]
 
 ---
 
@@ -40,7 +33,7 @@ Sous son influence, la monarchie britannique se modernise : il encourage les **a
 Le couple aura **neuf enfants**, qui se marieront dans les principales cours d’Europe, valant à Victoria le surnom de **“grand-mère de l’Europe”**.  
 Elle place la famille royale au cœur de l’idéal moral britannique : piété, fidélité, sens du devoir.
 
-_(Illustration 2 : Victoria et Albert posant pour un portrait familial avec leurs enfants, entourés de jouets, de chiens et de symboles domestiques — une royauté intime et accessible.)_
+![[Reine Victoria 3.png|60%]]
 
 ---
 
@@ -60,7 +53,7 @@ C’est aussi l’âge d’un **impérialisme triomphant**, mais contesté par l
 
 L’**Exposition universelle de 1851**, organisée au **Crystal Palace** à Londres, symbolise l’apogée du siècle britannique : science, progrès et confiance dans la modernité.
 
-_(Illustration 3 : vue du Crystal Palace pendant l’exposition de 1851, drapeaux du monde, machines et inventions exposées, Victoria et Albert observant depuis une galerie vitrée.)_
+![[Reine Victoria 4.png|60%]]
 
 ---
 
@@ -74,7 +67,7 @@ Pourtant, cette image de **veuve éternelle**, pieuse et mélancolique, finit pa
 Durant cette période, Victoria entretient une amitié controversée avec son **serviteur écossais John Brown**, dont la loyauté et la franchise la réconfortent.  
 Plus tard, sa relation avec l’Indien **Abdul Karim**, son “Munshi” (professeur), témoignera de son intérêt sincère mais paternaliste pour les cultures de l’Empire.
 
-_(Illustration 4 : Victoria assise dans un salon sombre de Balmoral, écrivant à la lueur d’une lampe, le portrait d’Albert posé à côté d’elle.)_
+![[Reine Victoria 5.png|60%]]
 
 ---
 
@@ -87,7 +80,7 @@ L’image de Victoria, reproduite sur les timbres et les pièces de monnaie, dev
 Sous son règne, le Parlement renforce toutefois ses prérogatives, et la monarchie devient **constitutionnelle et morale**, plutôt que politique.  
 Victoria incarne l’unité nationale dans un empire de plus de **400 millions de sujets**.
 
-_(Illustration 5 : Victoria trônant dans une galerie impériale, cartes du monde déployées à ses pieds, des envoyés des colonies alignés en tenue traditionnelle devant elle.)_
+![[Reine Victoria 6.png|60%]]
 
 ---
 
@@ -117,8 +110,4 @@ Victoria personnifie à elle seule cette tension entre grandeur et culpabilité,
 
 ---
 
-### 🖼️ _Illustration de conclusion_
-
-Crépuscule sur Londres : le brouillard se mêle à la fumée des usines, tandis que la silhouette noire de la reine traverse le pont de Westminster.  
-Derrière elle, le Parlement s’illumine dans la nuit, symbole d’un empire à son apogée.  
-Ainsi s’éteint **Victoria**, reine d’un siècle — gardienne du devoir, témoin d’une époque où le monde crut au progrès éternel.
+![[Reine Victoria 7.png|60%]]

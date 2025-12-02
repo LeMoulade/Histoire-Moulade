@@ -1,54 +1,31 @@
 ---
-
 title: Accueil
-
-type: index
-
 ---
 
+# 🏛️ Histoire-Moulade
 
-
-\# 🏛️ Histoire-Moulade
-
-
-
-Encyclopédie historique par Moulade. 
-
-Choisir un pays ou explorer le projet annexe \*Aviation\*.
-
+Encyclopédie historique et culturelle par Moulade.  
 
 
 ---
 
+## 🗺️ Pays
 
-
-\## 🗺️ Pays
-
-
-
-```folder-index
-
-exclude="\_Templates,\_Medias,\_Aviation,.obsidian,MediaUsed"
-
-
-
-
-
----
-
+- [[Angleterre/]]
+- [[Christianisme/]]
+- [[Egypte/]]
+- [[Etats-Unis/]]
+- [[Grèce/]]
+- [[Iran/]]
+- [[Japon/]]
+- [[Liban/]]
+- [[Macédoine/]]
+- [[Palestine/]]
+- [[Russie/]]
 
 
 
 
-\# ✈️ Aviation
+## ✈️ Aviation
 
-
-
-```folder-index
-
-path="Aviation"
-
-
-
-
-
+- [[Aviation/]]

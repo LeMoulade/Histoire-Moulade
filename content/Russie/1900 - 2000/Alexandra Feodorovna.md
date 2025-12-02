@@ -1,6 +1,6 @@
 # Alexandra Feodorovna
 <span class="subtitle">La dernière impératrice de Russie</span>
-image
+![[Alexandra Feodorovna.png|60%]]
 
 
 <div class="meta">
@@ -10,23 +10,16 @@ image
 
 ---
 
-### 🖼️ _Illustration d’ouverture_
-
-Une femme à la beauté grave et mélancolique se tient dans un jardin d’hiver du palais de Tsarskoïe Selo. Drapée de blanc, un chapelet à la main, elle contemple la neige qui tombe au-dehors. Son regard, à la fois fier et fatigué, semble déjà porter le poids du destin.  
-C’est **Alexandra Feodorovna**, impératrice de Russie — épouse de **Nicolas II**, mère de la dernière dynastie Romanov, et figure tragique d’un empire au bord du gouffre.
-
----
-
 ## 🏛️ Origines et mariage impérial
 
-Née **Alix de Hesse-Darmstadt** le **6 juin 1872** à Darmstadt, en Allemagne, Alexandra est la fille du grand-duc **Louis IV de Hesse** et de la princesse **Alice du Royaume-Uni**, fille de **la [[Reine Victoria|reine Victoria**]].  
+Née **Alix de Hesse-Darmstadt** le **6 juin 1872** à Darmstadt, en Allemagne, Alexandra est la fille du grand-duc **Louis IV de Hesse** et de la princesse **Alice du Royaume-Uni**, fille de **la [[Reine Victoria|reine Victoria]]**.  
 Elle grandit dans une atmosphère à la fois pieuse et stricte, marquée par la mort précoce de sa mère et de sa sœur, qui lui laisse une sensibilité profondément religieuse et mélancolique.
 
 En **1884**, lors du mariage de sa sœur aînée Élisabeth avec le grand-duc Serge Alexandrovitch, elle rencontre pour la première fois le tsarévitch **[[Nicolas II|Nicolas Romanov]]**, dont elle tombe sincèrement amoureuse.  
 Après des années de résistance de la cour russe, jugée trop allemande et trop timide, elle épouse finalement Nicolas en **1894**, juste après la mort d’**Alexandre III**.  
 Le couronnement du jeune couple l’année suivante à Moscou annonce **l’aube d’un règne empreint d’amour personnel, mais de fragilité politique**.
 
-_(Illustration 1 : mariage d’Alix et Nicolas à la cathédrale du Palais d’Hiver — la jeune impératrice à genoux, diadème d’or et manteau blanc, larmes de foi et de bonheur mêlées.)_
+![[Alexandra Feodorovna 2.png|60%]]
 
 ---
 
@@ -41,7 +34,7 @@ Mais son influence grandissante sur Nicolas II, et sa méfiance envers les conse
 
 La naissance, en **1904**, du tsarévitch **[[Alexeï Nikolaïevitch Romanov|Alexis]]**, atteint d’hémophilie, bouleverse sa vie : l’impératrice se consacre corps et âme à la survie de son fils, cherchant dans la foi et le mysticisme un sens à cette épreuve.
 
-_(Illustration 2 : Alexandra serrant le jeune Alexis dans ses bras, lumière dorée filtrant par les vitraux, regard maternel et angoissé.)_
+![[Alexandra Feodorovna 3.png|60%]]
 
 ---
 
@@ -55,7 +48,7 @@ La noblesse accuse la tsarine d’être sous influence mystique, voire de trahis
 À partir de **1915**, lorsque Nicolas II part diriger les armées, Alexandra devient de fait **régente de l’Empire**, conseillée par Raspoutine.  
 Les destitutions arbitraires de ministres, la corruption, et la désorganisation du gouvernement accentuent le désastre.
 
-_(Illustration 3 : Alexandra écrivant des lettres à Nicolas au front, visage inquiet, croix autour du cou, Raspoutine se tenant silencieusement à l’arrière-plan dans la pénombre.)_
+![[Alexandra Feodorovna 4.png|60%]]
 
 ---
 
@@ -70,7 +63,7 @@ Dans la nuit du **16 au 17 juillet**, l’impératrice, le tsar et leurs enfants
 Alexandra meurt la première, serrant la main de sa fille Tatiana et murmurant une prière.  
 Ainsi s’éteint la dernière impératrice de Russie — figure de dévotion et de malédiction.
 
-_(Illustration 4 : la famille impériale priant à la lueur d’une icône dans leur dernière nuit à Ekaterinbourg, calme avant le silence absolu.)_
+![[Alexandra Feodorovna 5.png|60%]]
 
 ---
 
@@ -88,8 +81,4 @@ Leurs reliques reposent aujourd’hui à la **cathédrale Pierre-et-Paul de Sain
 
 ---
 
-### 🖼️ _Illustration de conclusion_
-
-L’aube se lève sur la Neva.  
-Une silhouette en manteau blanc avance dans la brume, tenant un crucifix serré contre son cœur.  
-Dans ce mélange de lumière et de silence demeure l’image d’**Alexandra Feodorovna** — impératrice pieuse, mère déchirée, témoin du crépuscule des Romanov.
+![[Alexandra Feodorovna 6.png|60%]]

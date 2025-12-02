@@ -1,18 +1,12 @@
 # Marie
-<span class="subtitle">La Vierge, mère de Jésus</span>
-image
+<span class="subtitle">La Vierge, mère de Jésus</span>![[Marie.png|60%]]
+
 
 
 <div class="meta">
   <span class="pill">📍 Christianisme</span>
   <span class="pill">📅 Ier siècle av. J.-C. ~ Ier siècle ap. J.-C.</span>
 </div>
-
----
-
-### 🖼️ _Illustration d’ouverture_
-
-Une jeune femme en manteau bleu, tête inclinée, tient un nouveau-né dans ses bras. Autour d’elle, la lumière dorée du crépuscule éclaire une humble maison de Nazareth. Cette image, d’une simplicité et d’une puissance universelles, représente **Marie**, la mère de **Jésus-Christ**, figure centrale du christianisme et symbole de pureté, de foi et de compassion.
 
 ---
 
@@ -27,7 +21,7 @@ Marie accepte humblement cette mission divine en prononçant les mots :
 
 > “Je suis la servante du Seigneur ; qu’il me soit fait selon ta parole.” (_Luc 1:38_)
 
-_(Illustration 1 : scène de l’Annonciation – l’ange Gabriel apparaissant à Marie dans sa maison, lumière céleste et lys blancs symbolisant la pureté.)_
+![[Marie 2.png|60%]]
 
 ---
 
@@ -39,7 +33,7 @@ Les **bergers** viennent adorer l’enfant, guidés par les anges, bientôt suiv
 
 Cette naissance humble devient le **cœur du message chrétien** : Dieu s’incarne non dans la puissance, mais dans la pauvreté et la lumière intérieure.
 
-_(Illustration 2 : Nativité – Marie tenant l’enfant Jésus, Joseph à ses côtés, étoiles au-dessus de la crèche et anges chantant dans la nuit.)_
+![[Marie 3.png|60%]]
 
 ---
 
@@ -59,7 +53,7 @@ L’Évangile de Jean rapporte que Jésus, avant de mourir, confie Marie à son 
 > “Femme, voici ton fils. (…) Voici ta mère.” (_Jean 19:26–27_)  
 > Ce geste fait d’elle la **mère spirituelle de tous les chrétiens**.
 
-_(Illustration 3 : Marie au pied de la croix, regard levé vers Jésus crucifié, drap bleu battu par le vent, symbole de douleur et de foi absolue.)_
+![[Marie 4.png|60%]]
 
 ---
 
@@ -69,7 +63,7 @@ Selon la tradition chrétienne, Marie vécut encore plusieurs années après la 
 Elle aurait résidé à **Jérusalem**, puis selon certaines traditions à **Éphèse**, avec l’apôtre Jean.  
 Sa mort n’est pas décrite dans la Bible, mais les Églises d’Orient et d’Occident affirment qu’elle fut **élevée au ciel**, corps et âme : c’est le **dogme de l’Assomption** (ou _Dormition_ en Orient).
 
-_(Illustration 4 : Assomption – Marie s’élevant dans la lumière, entourée d’anges, tandis que les apôtres la contemplent depuis la terre.)_
+![[Marie 5.png|60%]]
 
 ---
 
@@ -100,7 +94,7 @@ Les icônes de la Vierge, notamment la **Vladimirskaya** et la **Kazanskaya**, s
 
 Marie est honorée comme **exemple de foi et d’obéissance**, mais sans culte particulier ni intercession.
 
-_(Illustration 5 : mosaïque byzantine de la Vierge à l’Enfant, fond doré et regard empreint de tendresse et de majesté spirituelle.)_
+![[Marie 6.png|60%]]
 
 ---
 
@@ -120,8 +114,4 @@ Elle demeure la **figure féminine la plus représentée de l’histoire humaine
 
 ---
 
-### 🖼️ _Illustration de conclusion_
-
-Crépuscule sur Nazareth : une silhouette bleue avance entre les oliviers, tenant un enfant par la main.  
-Autour d’eux, le monde semble s’arrêter.  
-C’est la **Vierge Marie**, humble servante devenue reine spirituelle de l’humanité — **le visage de la douceur dans le mystère divin.**
+![[Marie 7.png|60%]]
