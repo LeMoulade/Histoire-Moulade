@@ -9,20 +9,26 @@
 ### 🕰 Chronologie par siècles
 
 
-- [[Iran/index#Empire achéménide de Cyrus à Darius|VIᵉ siècle av. J.-C. ~ Empire achéménide de Cyrus à Darius]]
+- [[#Royaumes mèdes et essor des premiers Perses|VIIᵉ siècle av. J.-C. ~ Royaumes mèdes et essor des premiers Perses]]
 - [[Iran/index#Chute des Achéménides et conquête d’Alexandre|IVᵉ siècle av. J.-C. ~ Chute des Achéménides et conquête d’Alexandre]]
 
 
 
-
-<div class="century-label">VIᵉ siècle av. J.-C.</div>
-
-## Empire achéménide de Cyrus à Darius
+<div class="century-label">Lieux</div>
 
 
-### Lieux
 
 - [[Persépolis]]
+
+
+<div class="century-label">VIIᵉ siècle av. J.-C.</div>
+
+## Royaumes mèdes et essor des premiers Perses
+
+
+### Personnages
+
+- [[Cyaxare]]
 
 
 

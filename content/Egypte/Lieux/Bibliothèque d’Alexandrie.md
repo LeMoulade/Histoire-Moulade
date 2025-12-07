@@ -68,7 +68,7 @@ _(Illustration : Ératosthène calculant la circonférence terrestre à l’aide
 La disparition de la Bibliothèque reste entourée de **mystère et de débats**.  
 Plusieurs incendies ou pillages ont pu contribuer à sa ruine :
 
-- **48 av. J.-C.** : durant la guerre d’Alexandrie, **Jules César** incendie involontairement une partie du port, ce qui pourrait avoir touché les dépôts de livres.
+- **48 av. J.-C.** : durant la guerre d’Alexandrie, **[[Jules César]]** incendie involontairement une partie du port, ce qui pourrait avoir touché les dépôts de livres.
     
 - **IIIe siècle apr. J.-C.** : sous **Aurelien**, la ville subit de violents combats, et le quartier du Bruchion, où se trouvait la Bibliothèque principale, est détruit.
     

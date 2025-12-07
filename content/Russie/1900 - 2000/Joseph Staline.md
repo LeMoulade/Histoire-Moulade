@@ -83,7 +83,7 @@ Mais en **juin 1941**, l’Allemagne envahit l’Union soviétique : c’est l�
 
 Pris de court, Staline se ressaisit et devient le **chef suprême des armées**.  
 Sous son commandement impitoyable, l’Armée rouge résiste à **[[Saint-Pétersbourg|Leningrad]]**, **Moscou** et surtout **Stalingrad** — bataille décisive qui marque le tournant de la guerre.  
-La victoire de **1945** fait de Staline le maître incontesté d’un empire s’étendant de Berlin à Vladivostok.
+La victoire de **1945** fait de Staline le maître incontesté d’un empire s’étendant de [[Berlin]] à Vladivostok.
 
 _(Illustration 5 : Staline sur la tribune du Kremlin lors du défilé de la victoire, drapeaux soviétiques, pluie de confettis et portraits géants de soldats tombés au combat.)_
 

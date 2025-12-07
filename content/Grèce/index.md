@@ -60,3 +60,14 @@
 - [[Dinocrates de Rhodes]]
 - [[Philippe II]]
 
+
+
+<div class="century-label">IIᵉ siècle av. J.-C.</div>
+
+## Perte d’indépendance et domination romaine
+
+
+
+### Personnages
+
+- [[Polybe]]

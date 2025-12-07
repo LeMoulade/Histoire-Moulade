@@ -45,82 +45,80 @@ Encyclopédie historique et culturelle par Moulade.
 
 
 <script>
-  // ⤵️ Liste des préfixes/dossiers à exclure du tirage
+  // Préfixes / dossiers à exclure du tirage
   const EXCLUDED_PREFIXES = [
-    "static/",      // fichiers techniques
-    "tags/",        // pages de tag
-    "_Templates",     // ton dossier template
-    "_Medias",        // ton dossier media
-    "_MediaUsed",        // ton dossier media
-  ]
+    "tags/",       // pages de tag
+    "static/",     // ressources techniques
+    "template",    // ton dossier template
+    "media",       // ton dossier media
+  ];
 
-  // ⤵️ Slugs exacts à exclure si tu veux (home, page techniques, etc.)
+  // Slugs exacts à exclure (home, etc.)
   const EXCLUDED_SLUGS = new Set([
-    "index",               // page d'accueil elle-même
-  ])
+    "index",       // page d'accueil elle-même
+  ]);
 
   function isAllowedSlug(slug, details) {
-    if (!slug) return false
-    if (EXCLUDED_SLUGS.has(slug)) return false
+    if (!slug) return false;
+    if (EXCLUDED_SLUGS.has(slug)) return false;
 
-    // Exclure certains dossiers/prefixes
     for (const prefix of EXCLUDED_PREFIXES) {
-      if (slug === prefix || slug.startsWith(prefix) || slug.includes("/" + prefix)) {
-        return false
+      if (
+        slug === prefix ||
+        slug.startsWith(prefix) ||
+        slug.includes("/" + prefix)
+      ) {
+        return false;
       }
     }
 
-    // Tu peux ajouter ici d'autres règles selon tes tags, par ex. :
-    // if (details.tags && details.tags.includes("meta")) return false
+    // Exemple : exclure les pages marquées comme "meta" dans les tags
+    // if (details.tags && details.tags.includes("meta")) return false;
 
-    return true
+    return true;
   }
 
   async function pickRandomSlug() {
     try {
-      // fetchData est défini par Quartz dans renderPage.tsx
-      // il fait: fetch("<base>/static/contentIndex.json").then(res => res.json())
-      const contentIndex = await window.fetchData
+      // ⚠️ Dans Quartz v4, fetchData est un Promise<ContentIndex>,
+      // pas une fonction, donc on fait simplement :
+      const contentIndex = await fetchData;
 
-      const allEntries = Object.entries(contentIndex)
-        .filter(([slug, details]) => isAllowedSlug(slug, details))
+      const allEntries = Object.entries(contentIndex).filter(
+        ([slug, details]) => isAllowedSlug(slug, details)
+      );
 
       if (allEntries.length === 0) {
-        console.warn("Aucune page éligible trouvée dans contentIndex.json.")
-        return null
+        console.warn("Aucune page éligible trouvée dans contentIndex.");
+        return null;
       }
 
-      const randomIndex = Math.floor(Math.random() * allEntries.length)
-      const [slug] = allEntries[randomIndex]
+      const randomIndex = Math.floor(Math.random() * allEntries.length);
+      const [slug] = allEntries[randomIndex];
 
-      return slug
+      return slug;
     } catch (e) {
-      console.error("Erreur lors du chargement de contentIndex.json :", e)
-      return null
+      console.error("Erreur lors du chargement de contentIndex :", e);
+      return null;
     }
   }
 
   document.addEventListener("DOMContentLoaded", () => {
-    const btn = document.getElementById("random-page-btn")
-    if (!btn || typeof window.fetchData === "undefined") {
-      console.warn("Bouton aléatoire ou fetchData indisponible.")
-      return
+    const btn = document.getElementById("random-page-btn");
+    if (!btn) {
+      console.warn("Bouton aléatoire introuvable.");
+      return;
     }
 
     btn.addEventListener("click", async () => {
-      const slug = await pickRandomSlug()
-      if (!slug) return
+      const slug = await pickRandomSlug();
+      if (!slug) return;
 
-      // Construire l'URL en respectant le sous-dossier (GitHub Pages, etc.)
-      const targetUrl = new URL(slug, window.location.href)
+      // Construire l’URL relative en respectant le chemin actuel (GitHub Pages, sous-dossier, etc.)
+      const targetUrl = new URL(slug, window.location.href);
 
-      if (typeof window.spaNavigate === "function") {
-        // Navigation SPA (comportement Quartz normal)
-        window.spaNavigate(targetUrl)
-      } else {
-        // Fallback : navigation classique
-        window.location.href = targetUrl.toString()
-      }
-    })
-  })
+      // Navigation classique : on charge la page tirée au hasard
+      window.location.href = targetUrl.toString();
+    });
+  });
 </script>
