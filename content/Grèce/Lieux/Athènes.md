@@ -1,18 +1,11 @@
 # Athènes
 <span class="subtitle">Berceau de la démocratie et de la pensée occidentale</span>
-image
-
+![[Athènes.png|60%]]
 
 <div class="meta">
   <span class="pill">📍 Grèce</span>
   <span class="pill">📅 -3000</span>
 </div>
-
----
-
-### 🖼️ _Illustration d’ouverture_
-
-Vue aérienne d’**Athènes** à son apogée classique (Ve siècle av. J.-C.) : l’**Acropole** surplombe la ville, dominée par le **Parthénon** éclatant sous le soleil. En contrebas, l’**Agora** grouille d’orateurs, de philosophes et de marchands. Au loin, les collines de l’Hymette et le port du **Pirée** rappellent la puissance économique et maritime de la cité.
 
 ---
 
@@ -24,7 +17,7 @@ Selon la légende, la ville fut nommée en l’honneur de la déesse **Athéna**
 Durant l’époque archaïque (VIIIe–VIe siècle av. J.-C.), la cité connaît de profondes transformations : passage d’une royauté héréditaire à une **aristocratie**, puis à un système où le **peuple (dêmos)** acquiert une place croissante.  
 Des réformes successives, celles de **Dracon**, **Solon** et **Clisthène**, jettent les bases d’une société régie par des lois écrites et une participation civique sans équivalent.
 
-_(Illustration : Athéna offrant l’olivier au peuple d’Athènes, Poséidon frappant le sol de son trident — allégorie du choix de la cité.)_
+![[Athènes 2.png|60%]]
 
 ---
 
@@ -37,7 +30,7 @@ Les grandes figures comme **Périclès** incarnent cet âge d’or de la démocr
 Cependant, la démocratie athénienne reste **limitée** : femmes, esclaves et métèques (étrangers résidents) en sont exclus.  
 Malgré cela, elle forge un modèle politique qui inspirera toutes les républiques futures.
 
-_(Illustration : débat à l’Agora : Périclès haranguant les citoyens au pied de la Pnyx, les mains levées sous un ciel clair.)_
+![[Athènes 3.png|60%]]
 
 ---
 
@@ -58,7 +51,7 @@ C’est l’époque où se construisent :
 
 Athènes devient la **capitale intellectuelle et artistique du monde antique**, où se côtoient **Socrate**, **Euripide**, **Sophocle**, **Hérodote** et **Thucydide**.
 
-_(Illustration : ouvriers et sculpteurs travaillant sur le Parthénon sous la direction de Phidias, des colonnes de marbre brillant au soleil.)_
+![[Athènes 4.png|60%]]
 
 ---
 
@@ -72,7 +65,7 @@ S’ensuit une période de troubles : la **tyrannie des Trente** (404–403), pu
 Mais Athènes ne retrouvera jamais sa domination d’autrefois.  
 Elle demeure un foyer culturel majeur, mais son influence politique décline face à **la Macédoine de [[Philippe II]]**, puis à **[[Alexandre le Grand]]**.
 
-_(Illustration : ruines du port du Pirée après la défaite navale, soldats spartiates entrant dans la ville en armes.)_
+![[Athènes 5.png|60%]]
 
 ---
 
@@ -91,7 +84,7 @@ Elle devient un **centre philosophique majeur** :
 Les Romains, admirateurs de la culture grecque, protègent la ville : **Hadrien** y fait ériger temples et bibliothèques.  
 Mais au fil des siècles, Athènes se vide de sa puissance politique pour devenir **le sanctuaire de la mémoire grecque**.
 
-_(Illustration : Hadrien visitant l’Académie, rendant hommage aux philosophes grecs en toges blanches.)_
+![[Athènes 6.png|60%]]
 
 ---
 
@@ -109,8 +102,4 @@ Athènes représente à elle seule **le cœur de la civilisation occidentale** :
 Son idéal d’**isonomie** (égalité devant la loi) et sa quête de **raison et de beauté** ont inspiré la Renaissance, les Lumières et les constitutions modernes.  
 Même ruinée, Athènes n’a jamais cessé d’être une idée vivante — celle d’une humanité cherchant la vérité par la liberté et la pensée.
 
----
-
-### 🖼️ _Illustration de conclusion_
-
-Crépuscule sur l’Acropole : le Parthénon baigné d’une lumière dorée, les collines d’Athènes à l’horizon. Au premier plan, un philosophe médite en silence — image intemporelle d’une cité dont les pierres continuent à parler au monde entier.
+![[Athènes 7.png|60%]]

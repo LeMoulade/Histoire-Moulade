@@ -1,18 +1,13 @@
 # Dinocrates de Rhodes
 <span class="subtitle">Architecte visionnaire d’Alexandre</span>
-image
+![[Dinocrates.png|60%]]
 
 
 <div class="meta">
-  <span class="pill">📍 Macédoine / Grèce</span>
+  <span class="pill">📍 Macédoine</span>
   <span class="pill">📅 -336 ~ -300</span>
 </div>
 
----
-
-### 🖼️ _Illustration d’ouverture_
-
-Dinocrates présente à **Alexandre le Grand** ses plans d’urbanisme : sur une vaste carte de sable, il trace le plan d’**Alexandrie** avec un bâton tandis que le roi, en armure dorée, observe d’un air concentré. Autour d’eux, les généraux et ingénieurs contemplent la future cité — une fusion de l’ordre grec et de la majesté égyptienne.
 
 ---
 
@@ -23,7 +18,7 @@ Peu d’éléments biographiques sont attestés, mais les sources antiques, nota
 
 Avant de rencontrer Alexandre, il se fait connaître en **Macédoine** par ses projets ambitieux et son goût du monumental, dans la lignée des architectes classiques grecs qui concevaient les bâtiments comme des instruments politiques et symboliques.
 
-_(Illustration 1 : Dinocrates observant des maquettes et instruments de mesure – équerre, corde à nœuds, tablette de plan – sur un établi de bois.)_
+![[Dinocrates 2.png|60%]]
 
 ---
 
@@ -35,7 +30,7 @@ Dinocrates proposa alors un plan spectaculaire : **sculpter le mont Athos** à l
 
 Alexandre, bien qu’admiratif, rejeta ce projet — trop symbolique et peu pratique — mais reconnut en Dinocrates un **visionnaire capable de concevoir la cité idéale**.
 
-_(Illustration 2 : scène du mont Athos projeté comme une statue géante, Dinocrates présentant son idée à Alexandre devant les falaises de Thrace.)_
+![[Dinocrates 3.png|60%]]
 
 ---
 
@@ -58,7 +53,7 @@ Dinocrates y trace un **plan orthogonal**, inspiré de l’urbanisme grec :
 Ce plan alliait **fonctionnalité, harmonie et prestige**.  
 Alexandrie devint le modèle de la **ville hellénistique idéale**, ouverte sur le monde et organisée selon la raison.
 
-_(Illustration 3 : plan en damier d’Alexandrie vu du ciel, avec la digue reliant Pharos, les ports jumelés et les grandes avenues bordées de colonnades.)_
+![[Dinocrates 4.png|60%]]
 
 ---
 
@@ -76,8 +71,6 @@ Certains auteurs attribuent à Dinocrates d’autres **œuvres monumentales** :
 Cependant, ces attributions demeurent **incertaines**, les sources manquant de clarté.  
 Son nom reste néanmoins associé à l’idée d’un **urbanisme géométrique et impérial**, conçu comme instrument du pouvoir.
 
-_(Illustration 4 : atelier d’architectes à Pergame, Dinocrates discutant avec des sculpteurs autour d’une maquette du temple d’Artémis.)_
-
 ---
 
 ## 🌍 Héritage et postérité
@@ -88,9 +81,4 @@ Sous son influence, la cité cesse d’être un espace religieux ou civique limi
 Son œuvre maîtresse, Alexandrie, inspira des générations d’architectes et d’urbanistes jusqu’à l’époque romaine, puis à la Renaissance, où son nom est cité comme celui d’un **penseur de la géométrie urbaine**.  
 En reliant la vision d’un conquérant à la raison d’un architecte, Dinocrates fit de la pierre un **langage du pouvoir**.
 
----
-
-### 🖼️ _Illustration de conclusion_
-
-Crépuscule sur Alexandrie en construction : la digue de l’Heptastadion relie l’île de Pharos à la terre ferme, les colonnes s’élèvent sous un ciel orangé, et Dinocrates contemple au loin la cité qu’il a tracée dans le sable.  
-Sur la mer, les navires du monde entier approchent déjà — **la vision d’un architecte devenue civilisation.**
+![[Dinocrates 5.png|60%]]

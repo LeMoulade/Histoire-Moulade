@@ -1,18 +1,12 @@
 # Zeus
 <span class="subtitle">Roi des dieux et père des hommes</span>
-image
+![[Zeus.png|60%]]
 
 
 <div class="meta">
   <span class="pill">📍 Grèce</span>
   <span class="pill">📅 Mythologie</span>
 </div>
-
----
-
-### 🖼️ _Illustration d’ouverture_
-
-Le dieu **Zeus** trônant sur le mont Olympe : majestueux, barbe noire et regard d’orage, tenant dans sa main droite la foudre et dans la gauche le sceptre orné d’un aigle. Derrière lui, les nuages s’ouvrent sur un ciel éclatant, et les autres dieux se tiennent à distance respectueuse. Le tonnerre gronde — le roi des dieux parle.
 
 ---
 
@@ -26,7 +20,7 @@ Devenu adulte, Zeus contraint Cronos à **recracher ses frères et sœurs** : **
 S’ensuivit la **Titanomachie**, une guerre cosmique entre les dieux et les Titans.  
 Après dix années de lutte, Zeus triompha et emprisonna les Titans dans le Tartare, établissant l’**ordre olympien**.
 
-_(Illustration 1 : le jeune Zeus terrassant Cronos, brandissant la foudre dans un ciel en flammes, les Titans fuyant dans les profondeurs du Tartare.)_
+![[Zeus 2.png|60%]]
 
 ---
 
@@ -40,7 +34,7 @@ Il est souvent accompagné de l’**aigle**, messager céleste et emblème de sa
 
 Mais Zeus n’est pas seulement le dieu de la force : il incarne aussi la **raison souveraine**, le garant des serments (_Zeus Horkios_) et le protecteur de l’hospitalité (_Zeus Xenios_).
 
-_(Illustration 2 : Zeus sur son trône, entouré d’aigles, tenant le sceptre de justice ; des dieux mineurs viennent lui présenter leurs doléances.)_
+![[Zeus 3.png|60%]]
 
 ---
 
@@ -63,7 +57,7 @@ Parmi ses enfants les plus célèbres :
 
 Par ces unions, Zeus relie le monde divin au monde des hommes et fonde les **lignées héroïques** de la mythologie grecque.
 
-_(Illustration 3 : Zeus et Héra sur le trône olympien, entourés de leurs enfants divins, dans une composition symbolisant l’ordre cosmique et la famille divine.)_
+![[Zeus 4.png|60%]]
 
 ---
 
@@ -76,7 +70,7 @@ Il punit l’**orgueil (hybris)** et protège ceux qui respectent les lois sacr�
 Mais, paradoxalement, même Zeus est soumis à une force supérieure : le **Destin (Moira)**.  
 Il peut retarder ou adoucir une prophétie, mais jamais la contredire — preuve que, dans la pensée grecque, **même le roi des dieux n’est pas tout-puissant**.
 
-_(Illustration 4 : Zeus observant la balance du destin tenue par les Moires, son regard grave acceptant les limites de son pouvoir.)_
+![[Zeus 5.png|60%]]
 
 ---
 
@@ -96,8 +90,6 @@ Les **principaux sanctuaires** lui étaient dédiés à :
 
 Les sacrifices d’animaux (souvent des taureaux) et les prières collectives y affirmaient la **communauté entre les hommes et les dieux**, sous la protection du père céleste.
 
-_(Illustration 5 : grand temple dorique de Zeus à Olympie, prêtres et athlètes réunis avant les Jeux sacrés.)_
-
 ---
 
 ## 🌩️ Zeus dans la philosophie et la postérité
@@ -109,10 +101,4 @@ Pour les **Stoïciens**, il devient le **Logos**, la raison divine qui ordonne l
 Dans la culture occidentale, Zeus (assimilé à **Jupiter** chez les Romains) reste **le symbole du pouvoir suprême**, du père juste mais redoutable.  
 Il incarne l’équilibre entre **force, sagesse et autorité morale** — modèle éternel de la souveraineté.
 
----
-
-### 🖼️ _Illustration de conclusion_
-
-Crépuscule sur le Mont Olympe : Zeus, silhouette géante dans les nuées, brandit la foudre vers la mer Égée. En contrebas, la Grèce s’étend, baignée de lumière.  
-L’aigle s’élève dans le vent, et le tonnerre résonne comme un rappel :  
-**aucun roi n’est éternel — sauf celui du ciel.**
+![[Zeus 6.png|60%]]

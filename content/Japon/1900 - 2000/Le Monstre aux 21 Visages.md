@@ -1,6 +1,6 @@
 # Le Monstre aux 21 Visages
 <span class="subtitle">Le spectre criminel du Japon des années 1980</span>
-image
+![[Monstre aux 21 visages.png|60%]]
 
 
 <div class="meta">
@@ -8,14 +8,6 @@ image
   <span class="pill">📅 1984 ~ 1985</span>
 </div>
 
----
-
-### 🖼️ _Illustration d’ouverture_
-
-Une rue japonaise sous la pluie, éclairée par des néons.  
-Des journaux titrent en caractères rouges : _“Le Monstre aux 21 visages frappe encore !”_  
-Dans l’ombre, un homme en imperméable observe une usine alimentaire, visage dissimulé par un masque grotesque.  
-Ce n’est pas un film noir — mais l’une des **affaires criminelles les plus mystérieuses de l’histoire du Japon moderne**.
 
 ---
 
@@ -46,11 +38,11 @@ Des bonbons et biscuits contaminés au cyanure sont retrouvés dans plusieurs su
 
 > “Danger : contient du poison. Signé — Le Monstre aux 21 visages.”
 
-_(Illustration 1 : rayons de supermarché vides, policiers en combinaison de protection examinant des boîtes de Glico et Morinaga, affiches d’alerte dans les rues d’Osaka.)_
+![[Monstre aux 21 visages 2.png|60%]]
 
 ---
 
-## 🕵️‍♂️ Le jeu du chat et de la police
+## 🕵️‍♂️ Le jeu de la police et de la souris
 
 La **police japonaise** déploie des moyens sans précédent :  
 plus de **280 000 agents** sont mobilisés, sans succès.  
@@ -63,7 +55,7 @@ Malgré des indices, aucune arrestation ne suit.
 
 Le “Monstre” étend ensuite ses menaces à d’autres entreprises : **Morinaga**, **Meiji**, **Fujiya**, plongeant tout le secteur alimentaire dans la peur.
 
-_(Illustration 2 : conférence de presse de la police d’Osaka ; photo floue du “Fox-Faced Man” projetée sur un écran, agents épuisés, tension palpable.)_
+![[Monstre aux 21 visages 3.png|60%]]
 
 ---
 
@@ -79,7 +71,7 @@ Quelques jours plus tard, une dernière lettre du Monstre parvient à la presse 
 Puis plus rien.  
 Le groupe disparaît **aussi soudainement qu’il était apparu**.
 
-_(Illustration 3 : portrait du commissaire Yamamoto sur un autel improvisé dans un commissariat ; fleurs blanches, silence, policiers en larmes.)_
+![[Monstre aux 21 visages 4.png|60%]]
 
 ---
 
@@ -116,13 +108,4 @@ Cette affaire bouleversa durablement la société :
 - et elle marqua la fin de l’innocence du Japon d’après-guerre, où même les bonbons pouvaient devenir des armes.
     
 
----
-
-### 🖼️ _Illustration de conclusion_
-
-Une boîte de biscuits Glico abandonnée sous un lampadaire, la pluie tombant doucement dessus.  
-Dans la pénombre, une ombre s’éloigne.  
-Le vent emporte un papier taché d’encre :
-
-> “Au revoir, police stupide.”  
-> Ainsi s’éteint la trace du **Monstre aux 21 visages** — fantôme sans nom, reflet inquiétant d’un Japon moderne et vulnérable.
+![[Monstre aux 21 visages 5.png|60%]]

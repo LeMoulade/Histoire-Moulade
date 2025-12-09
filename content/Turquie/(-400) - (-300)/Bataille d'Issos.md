@@ -1,20 +1,16 @@
 # Bataille d’Issos
 <span class="subtitle">Alexandre contre Darius : la foudre et l’empire</span>
-image
+
+![[Bataille d'Issos.png|60%]]
 
 
 <div class="meta">
-  <span class="pill">📍 Perse / Macédoine</span>
+  <span class="pill">📍 Turquie</span>
   <span class="pill">📅 -333</span>
 </div>
 
 ---
 
-### 🖼️ _Illustration d’ouverture_
-
-Vue panoramique de la plaine d’Issos : d’un côté, les troupes macédoniennes alignées sous les bannières du soleil de Vergina, Alexandre à cheval à l’avant-garde ; de l’autre, l’armée perse aux étendards multicolores, Darius III debout sur son char d’or, entouré de sa garde royale. Le golfe d’Alexandrette scintille en arrière-plan sous un ciel chargé de vent et de poussière.
-
----
 
 ## 🏛️ Contexte de la campagne asiatique
 
@@ -24,8 +20,6 @@ Les deux souverains vont s’affronter pour la première fois dans une bataille 
 
 Alexandre incarne alors la jeune puissance grecque unifiée sous l’idéal panhellénique.  
 Darius, lui, défend l’héritage millénaire des rois achéménides, à la tête d’un empire immense mais fragilisé.
-
-_(Illustration : carte stratégique montrant la route d’Alexandre depuis l’Hellespont, ses conquêtes en Asie Mineure et la position d’Issos entre montagnes et mer.)_
 
 ---
 
@@ -77,8 +71,6 @@ La phalange macédonienne avance lentement sous le feu des archers perses, tandi
 Pris de panique à la vue du roi macédonien fonçant sur lui, **Darius fuit le champ de bataille**.  
 Sa retraite provoque l’effondrement moral de ses troupes : la victoire d’Alexandre est totale.
 
-_(Illustration : la charge d’Alexandre – cavaliers macédoniens traversant le fleuve à pleine vitesse, lances baissées, tandis que Darius recule dans la confusion, son char manquant de se renverser.)_
-
 ---
 
 ## 👑 Conséquences immédiates
@@ -104,8 +96,6 @@ La bataille d’Issos marque un **tournant géopolitique majeur** :
 
 Dans la culture grecque, Issos est célébrée comme la **victoire de la civilisation sur la démesure orientale**, bien que, dans les faits, elle inaugure une **fusion des mondes** — le prélude à la civilisation **hellénistique**.
 
-_(Illustration : carte de l’après-Issos, montrant les routes d’Alexandre vers Tyr, Gaza et l’Égypte.)_
-
 ---
 
 ## 🪶 Héritage
@@ -118,9 +108,5 @@ Issos ne fut pas seulement une victoire militaire :
 elle scella **la fin d’un monde et la naissance d’un autre**,  
 celui où la Grèce allait régner sur l’Orient par les armes, la langue et la culture.
 
----
 
-### 🖼️ _Illustration de conclusion_
-
-La **mosaïque d’Alexandre** réinterprétée : au centre, Alexandre tendant sa lance vers Darius qui recule, le regard plein de terreur, les chevaux cabrés et les boucliers étincelants.  
-En arrière-plan, la mer et les montagnes de Cilicie — symboles de la rencontre entre l’Orient et l’Occident, figée à jamais dans l’histoire.
+![[Bataille d'Issos 2.png|60%]]

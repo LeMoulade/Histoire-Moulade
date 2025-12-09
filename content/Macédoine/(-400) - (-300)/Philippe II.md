@@ -1,18 +1,12 @@
 # Philippe II
 <span class="subtitle">Forgeron de l’empire macédonien</span>
-image
+![[Philippe II.png|60%]]
 
 
 <div class="meta">
-  <span class="pill">📍 Macédoine / Grèce</span>
-  <span class="pill">📅 {{Dates (ex. −1792 ~ −1750)}}</span>
+  <span class="pill">📍 Macédoine</span>
+  <span class="pill">📅 -382 ~ -336</span>
 </div>
-
----
-
-### 🖼️ _Illustration d’ouverture_
-
-Philippe II, debout en armure sur un champ de bataille macédonien, lève son épée vers le soleil. Autour de lui, la **phalange** avance en rangs serrés, les longues sarisses dressées vers le ciel. Derrière, le relief de la Macédoine montagneuse s’étend sous la lumière dorée du soir — symbole de la puissance naissante du royaume qu’il a unifié.
 
 ---
 
@@ -25,7 +19,7 @@ Envoyé en **otage à Thèbes** dans sa jeunesse (367–365), il y découvre les
 De retour en Macédoine, il hérite d’un trône fragile : son frère **Perdiccas III** est tué au combat, et le royaume est au bord de l’effondrement.  
 Mais Philippe, par sa diplomatie et son génie stratégique, va non seulement restaurer la Macédoine — il va en faire **la puissance dominante du monde grec**.
 
-_(Illustration : Philippe jeune observant la phalange thébaine en manœuvre, apprenant les tactiques qui inspireront ses futures réformes.)_
+![[Philippe II 2.png|60%]]
 
 ---
 
@@ -43,7 +37,7 @@ Dès son accession au trône en **359 av. J.-C.**, Philippe entreprend de **réo
 Philippe centralise également le pouvoir royal, affaiblit les clans nobles et renforce la monarchie.  
 Son autorité repose sur une alliance entre **force militaire, diplomatie et propagande royale**.
 
-_(Illustration : démonstration de la phalange macédonienne, sarisses pointées, Philippe à cheval supervisant la manœuvre.)_
+![[Philippe II 3.png|60%]]
 
 ---
 
@@ -62,7 +56,7 @@ Sa diplomatie rusée lui permet d’intervenir dans les affaires grecques sous p
 Il remporte une victoire décisive à la **bataille de Chéronée** (338 av. J.-C.) contre l’alliance d’**[[Athènes]]** et de **Thèbes**.  
 Cette victoire met fin à l’indépendance politique des cités grecques : Philippe devient **hégémon de la Grèce**.
 
-_(Illustration : bataille de Chéronée – la phalange écrase les hoplites athéniens, tandis qu’Alexandre, jeune prince, mène la charge de cavalerie décisive.)_
+![[Philippe II 4.png|60%]]
 
 ---
 
@@ -76,7 +70,7 @@ Mais avant de la commencer, il est **assassiné** lors d’une cérémonie à **
 Les causes exactes de ce meurtre restent débattues : vengeance personnelle, complot de cour ou machination politique.  
 Son fils **Alexandre III**, âgé de 20 ans, lui succède — et réalisera le rêve impérial de son père.
 
-_(Illustration : Philippe entrant dans le théâtre d’Aigai pour assister au mariage de sa fille, peu avant son assassinat.)_
+![[Philippe II 5.png|60%]]
 
 ---
 
@@ -89,8 +83,4 @@ Il est l’inventeur de l’armée macédonienne moderne, de la tactique combin�
 Son œuvre marque la **fin du monde grec des cités indépendantes** et le **début de l’ère des empires**.  
 Sous Philippe, la Macédoine devint le foyer d’une révolution politique, culturelle et militaire qui allait redessiner le destin du monde antique.
 
----
-
-### 🖼️ _Illustration de conclusion_
-
-Sépulture royale d’Aigai : tombe dorée de Philippe II éclairée par la flamme d’une torche. Sur le couvercle, le soleil macédonien gravé — symbole éternel du souverain qui fit briller la Macédoine avant qu’Alexandre ne conquière le monde.
+![[Philippe II 6.png|60%]]

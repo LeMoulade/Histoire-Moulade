@@ -1,18 +1,12 @@
 # Bataille de la Trébie
 <span class="subtitle">Le piège glacé</span>
-
+![[Bataille de la Trébie.png|60%]]
 
 
 <div class="meta">
   <span class="pill">📍 Italie</span>
   <span class="pill">📅 -218</span>
 </div>
-
----
-
-### 🖼️ _Illustration d’ouverture_
-
-Une plaine froide et noyée de brouillard, un fleuve glacé traverse le paysage. À gauche, les légions romaines sortent de l’eau, trempées et affamées. À droite, les cavaliers numides foncent à toute allure tandis que l’infanterie carthaginoise déroule son piège. La scène résume le choc brutal entre discipline romaine et génie tactique d’Hannibal.
 
 ---
 
@@ -55,7 +49,6 @@ Le consul romain **Tiberius Sempronius Longus** veut une victoire rapide :
 - Soldats fatigués, affamés et mal préparés
     
 
-_(Illustration : schéma du dispositif montrant l’embuscade de Magon derrière les lignes romaines.)_
 
 ---
 
@@ -79,7 +72,7 @@ La bataille a lieu **au petit matin**, dans un froid glacial.
 
 Hannibal aligne son armée pour attirer les Romains, mais **garde Magon caché** pour un encerclement final.
 
-_(Illustration : légionnaires pataugeant dans la Trébie, sous la pluie de javelots des frondeurs baléares.)_
+![[Bataille de la Trébie 2.png|60%]]
 
 ---
 
@@ -105,7 +98,7 @@ _(Illustration : légionnaires pataugeant dans la Trébie, sous la pluie de jave
     Une partie centrale parvient à s’échapper vers Plaisance, mais la majorité est dispersée.
     
 
-_(Illustration : le moment de l’embuscade — Magon et ses hommes surgissant à l’arrière des légions.)_
+![[Bataille de la Trébie 3.png|60%]]
 
 ---
 
@@ -148,8 +141,4 @@ Elle ouvre une série de victoires puniqes qui mèneront à :
 
 Deux des pires défaites de Rome.
 
----
-
-### 🖼️ _Illustration de conclusion_
-
-Sur la rive gelée de la Trébie, une lance romaine brisée gît dans la neige. Au loin, un éléphant carthaginois s’éloigne dans la brume hivernale, silhouette gigantesque qui symbolise le pouvoir d’Hannibal et la menace qui pèse désormais sur Rome.
+![[Bataille de la Trébie 4.png|60%]]

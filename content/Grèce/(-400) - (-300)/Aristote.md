@@ -1,18 +1,12 @@
 # Aristote
 <span class="subtitle">Le maître de ceux qui savent</span>
-image
+![[Aristote.png|60%]]
 
 
 <div class="meta">
-  <span class="pill">📍 Grèce / Macédoine</span>
+  <span class="pill">📍 Grèce</span>
   <span class="pill">📅 -384 ~ -322</span>
 </div>
-
----
-
-### 🖼️ _Illustration d’ouverture_
-
-Aristote enseignant dans les jardins du **Lycée** d’Athènes : vêtu d’un manteau clair, il parle calmement à un cercle d’élèves tandis qu’à l’arrière-plan, les portiques de marbre et les oliviers symbolisent l’équilibre entre nature et raison. À ses pieds, des rouleaux ouverts révèlent des schémas de logique, d’astronomie et de biologie.
 
 ---
 
@@ -25,7 +19,7 @@ Très tôt initié à la biologie et à la méthode empirique, il développe une
 Bien qu’admiratif du maître, Aristote s’en distingue par une vision plus concrète du réel.  
 Alors que Platon cherche les Idées dans un monde abstrait, Aristote observe la **nature**, convaincu que la vérité réside **dans les choses elles-mêmes** et non dans un idéal séparé.
 
-_(Illustration : jeune Aristote étudiant à l’Académie de Platon, entouré de rouleaux et d’astrolabes, le maître observant son élève avec bienveillance.)_
+![[Aristote 2.png|60%]]
 
 ---
 
@@ -38,7 +32,7 @@ Il lui inculque une vision rationnelle du pouvoir : un souverain doit gouverner 
 Cette relation influence profondément Alexandre, qui conservera un respect durable pour son maître.  
 Aristote, de son côté, profite du soutien royal pour financer ses **recherches biologiques** et fonder une école à **Stagire**.
 
-_(Illustration : Aristote et le jeune Alexandre discutant devant une carte du monde connu, le philosophe désignant les confins de l’Asie du doigt.)_
+![[Aristote 3.png|60%]]
 
 ---
 
@@ -51,7 +45,7 @@ Ses disciples, les “péripatéticiens”, étudient la nature en marchant sous
 Le Lycée devient un véritable **centre de recherche** : on y étudie la physique, la zoologie, la politique, la poésie, l’éthique et la métaphysique.  
 Aristote y rédige la majeure partie de son œuvre.
 
-_(Illustration : Aristote marchant lentement parmi les colonnes du Lycée, entouré de jeunes élèves portant tablettes et instruments de mesure.)_
+![[Aristote 4.png|60%]]
 
 ---
 
@@ -81,7 +75,7 @@ Dans la _Politique_, il décrit l’homme comme un **“animal politique”**, v
 Dans la _Poétique_, il analyse pour la première fois les mécanismes du **drame tragique** — catharsis, unité d’action et effet moral de la tragédie.  
 Son étude de la littérature influence la pensée esthétique occidentale jusqu’à nos jours.
 
-_(Illustration : Aristote expliquant le cercle des causes sur un tableau de cire, un élève dessinant les cercles concentriques de l’univers autour du “Premier moteur”.)_
+![[Aristote 5.png|60%]]
 
 ---
 
@@ -95,7 +89,7 @@ Il quitte la ville en déclarant :
 
 Il se réfugie à **Chalcis**, sur l’île d’Eubée, où il meurt l’année suivante, en **322 av. J.-C.**, à 62 ans.
 
-_(Illustration : Aristote quittant Athènes au crépuscule, silhouette solitaire sur le port, le vent soulevant sa toge.)_
+![[Aristote 6.png|60%]]
 
 ---
 
@@ -108,9 +102,5 @@ Ses idées domineront la philosophie jusqu’à la Renaissance et influenceront 
 Il a enseigné que la vérité se découvre **non dans les mythes, mais dans l’observation du réel**.  
 Sa pensée, à la fois rationnelle et humaniste, fait de lui le modèle du savant-philosophe — celui qui cherche à comprendre le monde pour mieux y vivre.
 
----
 
-### 🖼️ _Illustration de conclusion_
-
-Buste d’Aristote éclairé par la lumière du matin filtrant à travers les colonnes du Lycée.  
-Autour, des rouleaux de papyrus portant les mots _Éthique_, _Logique_, _Métaphysique_, _Poétique_.  
+![[Aristote 7.png|60%]]

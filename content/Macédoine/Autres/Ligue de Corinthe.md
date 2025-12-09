@@ -1,20 +1,15 @@
 # Ligue de Corinthe
 <span class="subtitle">L’union des Grecs sous la couronne macédonienne</span>
-image
+![[Ligue de Corinthe.png|60%]]
 
 
 <div class="meta">
-  <span class="pill">📍 Macédoine / Grèce</span>
+  <span class="pill">📍 Macédoine</span>
   <span class="pill">📅 -337</span>
 </div>
 
 ---
 
-### 🖼️ _Illustration d’ouverture_
-
-Assemblée des représentants des cités grecques dans le portique de Corinthe : au centre, **Philippe II** debout sur une estrade, la lance posée à terre, s’adresse aux délégués venus d’Athènes, Thèbes, Argos et Corinthe. Les drapeaux des cités flottent côte à côte — image inédite d’une Grèce enfin unie sous un seul commandement.
-
----
 
 ## 🏛️ Contexte historique
 
@@ -24,8 +19,6 @@ Les cités, affaiblies politiquement et économiquement, restent pourtant divis�
 Dans le nord, la **Macédoine** de **[[Philippe II]]** s’impose comme une puissance montante.  
 Après sa victoire décisive à la **bataille de Chéronée** en **338 av. J.-C.**, Philippe met fin à l’indépendance militaire des cités grecques et propose une alliance panhellénique destinée à un objectif commun :  
 **la guerre contre l’Empire perse.**
-
-_(Illustration : carte de la Grèce après la bataille de Chéronée montrant les territoires sous influence macédonienne et les cités membres de la ligue.)_
 
 ---
 
@@ -46,7 +39,7 @@ L’alliance prend la forme d’un **symmachia** (“communauté de défense”)
 Un **conseil fédéral** (_synédrion_) est établi à Corinthe : chaque cité y envoie des délégués, mais Philippe détient le **commandement suprême des armées** (_hegemon_).  
 La ligue est donc une **fédération de façade**, dans laquelle la Macédoine impose son hégémonie tout en respectant l’apparence de l’unité grecque.
 
-_(Illustration : Philippe II signant le traité fédéral entouré des ambassadeurs grecs, un parchemin déployé sur une table d’or, les sceaux des cités apposés en bas.)_
+![[Ligue de Corinthe 2.png|60%]]
 
 ---
 
@@ -66,7 +59,7 @@ Son fils **[[Alexandre le Grand]]** reprend aussitôt le projet :
 
 Ainsi, la Ligue de Corinthe devient le **socle politique** de la conquête d’Alexandre et le **cadre institutionnel** d’un empire hellénique à venir.
 
-_(Illustration : Alexandre recevant le serment des cités grecques avant son départ pour l’Asie, la main levée vers les dieux, les étendards grecs rassemblés derrière lui.)_
+![[Ligue de Corinthe 3.png|60%]]
 
 ---
 
@@ -86,8 +79,5 @@ La Ligue de Corinthe symbolise la **première unification politique du monde gre
 Bien qu’inégale et éphémère, elle marque la fin de l’ère des cités indépendantes et le début du **monde hellénistique**, dominé par les royaumes issus de l’empire d’Alexandre.  
 Elle incarne la transition entre la Grèce des philosophes et celle des conquérants — un dernier sursaut d’unité avant la fusion avec l’Orient.
 
----
 
-### 🖼️ _Illustration de conclusion_
-
-Monument commémoratif à Corinthe : Philippe et Alexandre gravés côte à côte, entourés des symboles des cités grecques unies.  
+![[Ligue de Corinthe 4.png|60%]]

@@ -1,18 +1,12 @@
 # Grigori Raspoutine
 <span class="subtitle">Le moine noir de l’Empire russe</span>
-image
+![[Raspoutine.png|60%]]
 
 
 <div class="meta">
   <span class="pill">📍 Russe</span>
   <span class="pill">📅 1869 ~ 1916</span>
 </div>
-
----
-
-### 🖼️ _Illustration d’ouverture_
-
-Une salle faiblement éclairée du palais de Tsarskoïe Selo : un homme grand, barbu, aux yeux perçants, lève les mains en signe de bénédiction. Derrière lui, l’impératrice **Alexandra Feodorovna** incline la tête, émue. Autour, les courtisans murmurent avec crainte. Ainsi apparaît **Grigori Raspoutine**, paysan sibérien devenu le conseiller spirituel le plus influent et le plus redouté de la Russie impériale.
 
 ---
 
@@ -26,7 +20,7 @@ Raspoutine attire alors l’attention par ses **visions mystiques** et ses prêc
 Sa personnalité contradictoire — mélange de ferveur, de sensualité et d’autorité magnétique — lui vaut autant d’adeptes que d’ennemis.  
 Dans les premières années du XXᵉ siècle, il gagne [[Saint-Pétersbourg]], où il fascine les milieux religieux et aristocratiques avides de spiritualité.
 
-_(Illustration 1 : jeune Raspoutine marchant seul dans la steppe sibérienne, manteau de pèlerin, bâton à la main, silhouette noyée dans le crépuscule glacé.)_
+![[Raspoutine 2.png|60%]]
 
 ---
 
@@ -40,7 +34,7 @@ Alexandra voit en lui **un envoyé de Dieu**, un saint homme capable de sauver s
 Raspoutine devient dès lors un **conseiller intime**, bien que sans fonction officielle.  
 Il influence la tsarine dans les affaires religieuses et, de plus en plus, politiques.
 
-_(Illustration 2 : Raspoutine penché au chevet du jeune tsarévitch Alexis, Alexandra à genoux en prière, lumière de chandelle éclairant leurs visages inquiets.)_
+![[Raspoutine 3.png|60%]]
 
 ---
 
@@ -61,7 +55,6 @@ Son comportement ambigu alimente les scandales :
 
 Les **caricatures de presse** le représentent comme un démon manipulateur, envoûtant la tsarine et menant l’empire à sa perte.
 
-_(Illustration 3 : banquet de la noblesse — Raspoutine au centre, en robe noire, levant une coupe de vin tandis que les courtisans le regardent avec peur et mépris.)_
 
 ---
 
@@ -76,7 +69,7 @@ Raspoutine, blessé mais encore vivant, tente de s’enfuir avant d’être ratt
 Son corps est retrouvé quelques jours plus tard ; une légende populaire prétend qu’il respirait encore lorsqu’il entra dans l’eau.  
 Son meurtre, loin de sauver la monarchie, ne fait qu’illustrer son **agonie morale et politique**.
 
-_(Illustration 4 : scène dramatique du meurtre de Raspoutine — salon illuminé, Youssoupov tenant un pistolet, Raspoutine vacillant, silhouette tragique entre vie et mythe.)_
+![[Raspoutine 4.png|60%]]
 
 ---
 
@@ -89,10 +82,4 @@ Les bolcheviks, puis les cinéastes et écrivains du XXᵉ siècle, amplifièren
 Dans la mémoire collective, il demeure une figure fascinante, entre saint et imposteur, guérisseur et manipulateur.  
 Son influence, réelle ou fantasmée, contribua à isoler le couple impérial, accélérant la chute des Romanov et l’avènement de la révolution.
 
----
-
-### 🖼️ _Illustration de conclusion_
-
-Nuit d’hiver à Saint-Pétersbourg : la Neva gelée, un corps sombre entraîné sous la glace, tandis que la lueur des palais s’éteint lentement.  
-Dans ce silence, le mythe commence.  
-**Raspoutine**, le paysan devenu prophète, ne disparaît pas — il entre dans la légende de la Russie éternelle.
+![[Raspoutine 5.png|60%]]

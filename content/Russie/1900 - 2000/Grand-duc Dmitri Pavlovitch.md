@@ -1,21 +1,12 @@
 # Grand-duc Dmitri Pavlovitch
 <span class="subtitle">Prince révolté de la fin des Romanov</span>
-image
+![[Dmitri Pavlovich.png|60%]]
 
 
 <div class="meta">
-  <span class="pill">📍 Russie / France / Iran</span>
+  <span class="pill">📍 Russie</span>
   <span class="pill">📅 1891 ~ 1942</span>
 </div>
-
----
-
-### 🖼️ _Illustration d’ouverture_
-
-Un jeune homme au visage noble, en uniforme de hussard, regarde l’horizon depuis un balcon du palais impérial.  
-Son port est droit, son regard mélancolique.  
-Né dans le luxe et l’honneur, il finira exilé et oublié.  
-Voici **le grand-duc Dmitri Pavlovitch Romanov**, cousin de **Nicolas II**, dernier prince idéaliste d’un monde en ruine — **héros tragique, patriote et conspirateur** contre Raspoutine.
 
 ---
 
@@ -28,7 +19,7 @@ Orphelin très jeune (sa mère meurt à sa naissance et son père est exilé pou
 Il reçoit une éducation militaire et brillante, marquée par la discipline et le sens du devoir.  
 À la cour, il est décrit comme **beau, réservé, courageux**, mais aussi profondément mélancolique.
 
-_(Illustration 1 : Dmitri enfant, en uniforme blanc de cadet, tenant un sabre miniature, aux côtés de sa tante Élisabeth Feodorovna dans un jardin de Tsarskoïe Selo.)_
+![[Dmitri Pavlovich 2.png|60%]]
 
 ---
 
@@ -41,7 +32,7 @@ Il participe aux activités officielles et sportives de la cour : **cavalier ém
 Sa jeunesse, pourtant dorée, se déroule sur fond de tensions sociales et de pressions politiques croissantes.  
 Dmitri reste loyal au trône mais se montre lucide sur les erreurs de la famille impériale, notamment l’influence de **[[Grigori Raspoutine]]**, qu’il considère comme une menace pour la monarchie.
 
-_(Illustration 2 : Dmitri monté sur un cheval bai lors d’une parade militaire à Saint-Pétersbourg, le tsar observant depuis la tribune.)_
+![[Dmitri Pavlovich 3.png|60%]]
 
 ---
 
@@ -56,20 +47,20 @@ Youssoupov attire Raspoutine sous prétexte d’une visite à sa femme Irina, ta
 Lorsque Raspoutine succombe après plusieurs tentatives, Dmitri aide à faire disparaître le corps dans la Neva.
 
 Bien que son rôle exact reste discuté, il est certain qu’il fut **l’un des principaux conspirateurs** et qu’il approuva l’acte.  
-Le tsar, outré mais conscient du scandale, choisit de **ne pas l’exécuter**, préférant l’**exiler en Perse (Iran)**.
+Le tsar, outré mais conscient du scandale, choisit de **ne pas l’exécuter**, préférant l’**exiler en Iran**.
 
-_(Illustration 3 : Dmitri et Youssoupov dans le salon du palais Moïka, visages fermés, chandelles vacillantes, le corps de Raspoutine gisant au sol — atmosphère lourde et irréversible.)_
+![[Dmitri Pavlovich 4.png|60%]]
 
 ---
 
-## 🏜️ Exil en Perse
+## 🏜️ Exil en Iran
 
-Envoyé en mission officielle déguisée, Dmitri s’installe à **Kerman**, dans le sud de la Perse.  
+Envoyé en mission officielle déguisée, Dmitri s’installe à **Kerman**, dans le sud de l'Iran.  
 Il y mène une vie austère, coupé du monde et de la Russie en pleine révolution.  
 Les nouvelles de l’**abdication de Nicolas II (1917)**, puis de **l’exécution de la famille impériale (1918)**, le bouleversent profondément.  
 Lui, l’un des derniers grands-ducs survivants, devient un **exilé sans trône ni patrie**.
 
-_(Illustration 4 : Dmitri seul dans le désert perse, vêtu d’un uniforme clair, regard perdu dans la lumière brûlante — image de solitude et de déracinement.)_
+![[Dmitri Pavlovich 5.png|60%]]
 
 ---
 
@@ -84,7 +75,7 @@ Malgré son charme, Dmitri vit modestement, hanté par la nostalgie de la Russie
 Il meurt à **Davos**, en **1942**, atteint de tuberculose, loin de sa patrie et de sa gloire passée.  
 Il repose dans un cimetière suisse, sous une simple croix orthodoxe.
 
-_(Illustration 5 : Dmitri à Paris, costume sombre et cigarette à la main, assis à une terrasse, observant la foule du boulevard Saint-Germain — prince sans royaume.)_
+![[Dmitri Pavlovich 6.png|60%]]
 
 ---
 
@@ -102,10 +93,4 @@ Le grand-duc Dmitri Pavlovitch demeure une **figure romanesque et tragique** du 
 Son destin relie deux mondes : celui des **Romanov décadents** et celui de l’**Europe moderne** de l’entre-deux-guerres.  
 Il incarne la **grâce d’une époque perdue**, mais aussi la conscience lucide de sa fin.
 
----
-
-### 🖼️ _Illustration de conclusion_
-
-Crépuscule sur Paris : la Seine reflète les lumières des ponts, et une silhouette seule s’avance sur le quai, en manteau long.  
-Dans la brume, son visage se tourne vers le nord, vers la Russie qu’il ne reverra jamais.  
-Ainsi s’éteint **Dmitri Pavlovitch Romanov**, dernier prince de l’ancien monde, témoin silencieux de la chute des siens.
+![[Dmitri Pavlovich 7.png|60%]]

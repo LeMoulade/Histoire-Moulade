@@ -1,18 +1,12 @@
 # Siège d’Alésia
 <span class="subtitle">La chute de la Gaule</span>
-
+![[Siège d'Alésia.png|60%]]
 
 
 <div class="meta">
   <span class="pill">📍 France</span>
   <span class="pill">📅 -52</span>
 </div>
-
----
-
-### 🖼️ _Illustration d’ouverture_
-
-L’oppidum d’Alésia couronne un plateau abrupt. Autour, des vallées étroites sillonnées par des collines. Au pied de la montagne, un cercle de fortifications romaines s’étend à perte de vue : tours en bois, fossés, palissades, pièges et terrasses. Plus loin encore, une seconde ligne de sièges enferme la plaine. Les Gaulois sont pris dans un étau d’ingénierie militaire sans précédent.
 
 ---
 
@@ -79,7 +73,6 @@ Il **enferme** les Gaulois.
 
 ➡️ Un dispositif unique dans l’histoire militaire antique.
 
-_(Illustration : schéma des deux lignes encerclant le plateau.)_
 
 ---
 
@@ -198,8 +191,4 @@ Le siège d’Alésia incarne :
 
 Il reste l’un des épisodes les plus célèbres de l’Antiquité.
 
----
-
-### 🖼️ _Illustration de conclusion_
-
-Crépuscule sur le mont Auxois : les collines dorées encerclent l’oppidum silencieux. On imagine encore les milliers de torches, les lignes de fossés et les cris des derniers combats. L’ombre de Vercingétorix plane sur le plateau ; celle de César sur les plaines qui s’ouvrent vers Rome.
+![[Siège d'Alésia 2.png|60%]]

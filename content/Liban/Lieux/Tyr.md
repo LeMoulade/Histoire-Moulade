@@ -1,18 +1,12 @@
 # Tyr
 <span class="subtitle">La cité des navigateurs et du pourpre</span>
-image
+![[Tyr.png|60%]]
 
 
 <div class="meta">
   <span class="pill">📍 Liban (Phénicie)</span>
   <span class="pill">📅 -2750</span>
 </div>
-
----
-
-### 🖼️ _Illustration d’ouverture_
-
-Vue du port de **Tyr** à l’époque phénicienne : navires à proue relevée chargés d’amphores, ouvriers broyant les coquillages _murex_ pour produire la teinture pourpre, et temples dédiés à **Melqart** dominant la ville insulaire reliée au continent par un isthme. Le soleil couchant embrase la mer, symbole du commerce et de la richesse maritime.
 
 ---
 
@@ -23,8 +17,6 @@ La cité de **Tyr** (du phénicien _Ṣūr_, « le rocher ») est fondée sur la
 
 Tyr devient l’une des principales cités-États de la **Phénicie**, aux côtés de **Sidon** et **Byblos**.  
 Grâce à ses **navigateurs** et **marchands**, elle rayonne sur tout le bassin méditerranéen et fonde des colonies jusqu’à l’Atlantique, la plus célèbre étant **Carthage** (vers 814 av. J.-C.).
-
-_(Illustration : carte de la Méditerranée antique montrant les routes commerciales phéniciennes reliant Tyr à Chypre, Carthage, Gades et la Sicile.)_
 
 ---
 
@@ -40,7 +32,7 @@ Tyr bâtit sa fortune sur deux ressources principales :
 La cité est gouvernée par une **oligarchie de marchands et de navigateurs**, alliant pragmatisme économique et diplomatie.  
 Les rois de Tyr, comme **Hiram Ier** (Xe siècle av. J.-C.), jouent un rôle essentiel dans les échanges régionaux : Hiram est notamment **allié du roi Salomon** d’Israël, à qui il fournit le bois du **Temple de Jérusalem**.
 
-_(Illustration : artisans phéniciens broyant les coquillages _murex_ sur le port, des amphores teintes en pourpre alignées le long du quai.)_
+![[Tyr 2.png|60%]]
 
 ---
 
@@ -56,7 +48,7 @@ Mais sa richesse attire tour à tour les grandes puissances du Proche-Orient.
 
 La chute de Tyr marque la fin de son indépendance, mais la cité reste un **centre commercial prospère** sous domination hellénistique, puis romaine.
 
-_(Illustration : siège de Tyr par Alexandre – catapultes macédoniennes lançant des projectiles depuis la digue, remparts en feu, navires grecs bombardant les tours phéniciennes.)_
+![[Tyr 3.png|60%]]
 
 ---
 
@@ -69,7 +61,7 @@ Le culte du dieu **Melqart** (identifié à **Héraclès** par les Grecs) reste 
 À l’époque romaine, Tyr devient un **centre religieux et administratif** important de la province de Syrie-Palestine.  
 Sa pourpre reste prisée dans tout l’Empire, au point de devenir **l’emblème de la dignité impériale**.
 
-_(Illustration : pièce romaine frappée à Tyr représentant Melqart/Héraclès, symbole de continuité culturelle entre Orient et Occident.)_
+![[Tyr 4.png|60%]]
 
 ---
 
@@ -88,9 +80,4 @@ Elle incarne :
 Aujourd’hui située dans le sud du **Liban**, Tyr conserve des **ruines romaines** remarquables — hippodrome, colonnes, mosaïques — inscrites au **patrimoine mondial de l’UNESCO** depuis 1984.  
 Son nom reste attaché à l’idée d’un peuple voyageur et inventif, **bâtisseur de ponts entre les mers et les peuples**.
 
----
-
-### 🖼️ _Illustration de conclusion_
-
-Coucher de soleil sur les ruines du port antique de Tyr : colonnes effondrées au bord de l’eau, filets de pêche séchant sur les pierres, et au loin la mer ouverte vers l’horizon.  
-Là où les navires phéniciens partaient jadis vers le monde, la lumière du soir semble encore flotter comme une mémoire du commerce et du courage antique.
+![[Tyr 5.png|60%]]

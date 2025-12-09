@@ -1,18 +1,12 @@
 # Iliodore
-<span class="subtitle">Moine rebelle du tsar et ombre de Raspoutine</span>
-image
+<span class="subtitle">Moine rebelle et ombre de Raspoutine</span>
+![[Iliodore.png|60%]]
 
 
 <div class="meta">
   <span class="pill">📍 Russie / URSS</span>
   <span class="pill">📅 1880 ~ 1952</span>
 </div>
-
----
-
-### 🖼️ _Illustration d’ouverture_
-
-Dans une église plongée dans la pénombre, un prêtre à la barbe rousse fulmine depuis la chaire. Sa voix tonne contre les puissants, son regard brûle d’ardeur mystique. La foule paysanne l’acclame, tandis que les notables se signent avec effroi. Cet homme, c’est **Iliodore**, moine, prédicateur, agitateur politique et adversaire acharné de **Raspoutine** — un personnage fascinant, entre fanatisme religieux et révolution morale.
 
 ---
 
@@ -25,7 +19,7 @@ Très tôt, il manifeste un **charisme oratoire exceptionnel** et une **foi radi
 Il devient moine sous le nom d’**Iliodore**, en référence au “don de lumière divine”, et commence à prêcher dans les provinces du Don.  
 Ses sermons, véhéments et populaires, dénoncent la corruption de l’Église, la misère du peuple et la mollesse morale des élites.
 
-_(Illustration 1 : jeune Iliodore prêchant devant une église rurale, foule de paysans, bannières religieuses au vent, ferveur et colère dans les visages.)_
+![[Iliodore 2.png|60%]]
 
 ---
 
@@ -39,7 +33,7 @@ En 1909, il est nommé **archimandrite** du monastère de Tsaritsyne (actuelle V
 Il y attire des milliers de pèlerins et d’admirateurs, fascinés par son charisme et sa dénonciation des injustices sociales.  
 Mais ses positions de plus en plus extrêmes et son ton apocalyptique inquiètent les autorités.
 
-_(Illustration 2 : pèlerins accourant au monastère de Tsaritsyne, banderoles d’icônes et chants religieux, tandis qu’Iliodore se tient sur les marches, bras ouverts vers le ciel.)_
+![[Iliodore 3.png|60%]]
 
 ---
 
@@ -56,7 +50,7 @@ Il le dénonce publiquement comme un **faux prophète** et un **séducteur**, co
 Cette rupture attire sur lui la colère de la cour et du Saint-Synode.  
 En **1912**, il est **excommunié**, déchu de ses fonctions et exilé dans le nord de la Russie.
 
-_(Illustration 3 : confrontation dramatique entre Iliodore et Raspoutine dans un salon éclairé aux chandelles — deux silhouettes religieuses opposées, regard d’acier contre regard mystique.)_
+![[Iliodore 4.png|60%]]
 
 ---
 
@@ -70,7 +64,7 @@ Il doit fuir la Russie.
 Il trouve refuge d’abord en **Norvège**, puis en **États-Unis**, où il finit par **abandonner l’état monastique** et épouse une immigrée russe.  
 Il se consacre alors à l’écriture de **mémoires et pamphlets** dans lesquels il continue de dénoncer Raspoutine et l’autocratie tsariste, qu’il considère comme spirituellement déchue.
 
-_(Illustration 4 : coup de couteau sur les marches d’une maison sibérienne — Raspoutine s’effondrant, Khionia Gousseva maîtrisée, tandis qu’Iliodore apprend la nouvelle dans l’ombre.)_
+![[Iliodore 5.png|60%]]
 
 ---
 
@@ -82,7 +76,7 @@ Il participe même, selon certaines sources, à la rédaction du **film muet “
 
 Il meurt à **New York en 1952**, oublié du grand public mais toujours cité par les historiens pour ses **mémoires contradictoires** et son rôle ambigu — à la fois témoin, agitateur et mystique déchu.
 
-_(Illustration 5 : Iliodore âgé, assis dans un appartement modeste de Brooklyn, écrivant à sa table entouré de coupures de journaux sur Raspoutine et la Russie impériale perdue.)_
+![[Iliodore 6.png|60%]]
 
 ---
 
@@ -99,10 +93,4 @@ Iliodore incarne la **face religieuse et populiste** des tensions de la Russie f
 
 Son parcours, entre **fanatisme, sincérité et ambition**, reflète la crise spirituelle d’un empire qui cherchait en vain la pureté dans le tumulte du monde moderne.
 
----
-
-### 🖼️ _Illustration de conclusion_
-
-Soir brumeux sur les coupoles de Moscou : deux silhouettes s’éloignent dans la neige — Raspoutine et Iliodore, prophètes opposés d’une Russie condamnée.  
-L’un ira mourir en martyr du pouvoir, l’autre en exilé du silence.  
-Tous deux auront laissé la marque du mysticisme et de la folie sur les dernières heures des Romanov.
+![[Iliodore 7.png|60%]]

@@ -1,7 +1,7 @@
 # Egypte
 
 
-
+![[Egypte 1.png|60%]]
 
 
 ---
@@ -24,7 +24,7 @@
 
 ## Les dieux du Nil et l’équilibre du monde
 
-
+![[Egypte Mythologie.png|60%]]
 
 ### Personnages
 
@@ -34,7 +34,7 @@
 
 ## Apogée de l’Ancien Empire et les grandes pyramides
 
-
+![[Egypte -26.png|60%]]
 
 ### Lieux
 
@@ -47,7 +47,7 @@
 
 ## Essor du Moyen Empire
 
-
+![[Egypte -20 1.png|60%]]
 
 ### Lieux
 
@@ -56,7 +56,7 @@
 
 ## Libération et fondation du Nouvel Empire
 
-
+![[Egypte -16 1.png|60%]]
 
 ### Lieux
 
@@ -69,7 +69,7 @@
 
 ## Domination perse et conquête d’Alexandre le Grand
 
-
+![[Egypte -4.png|60%]]
 
 ### Personnages
 
@@ -85,7 +85,7 @@
 
 ## L’âge d’or des Ptolémées
 
-
+![[Egypte -3.png|60%]]
 
 ### Lieux
 

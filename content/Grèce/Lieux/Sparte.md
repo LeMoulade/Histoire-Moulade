@@ -1,18 +1,12 @@
 # Sparte
 <span class="subtitle">La cité du fer et de la discipline</span>
-image
+![[Sparte.png|60%]]
 
 
 <div class="meta">
   <span class="pill">📍 Grèce</span>
   <span class="pill">📅 IXᵉ siècle av. J.-C.</span>
 </div>
-
----
-
-### 🖼️ _Illustration d’ouverture_
-
-Vue de **Sparte** à l’aube : une cité sans murailles, au cœur de la vallée du **Taygète**. Des hoplites s’entraînent dans la poussière, bouclier rond et lance à la main, tandis que des femmes vêtues de tuniques légères observent depuis les collines. L’air sec du Péloponnèse reflète la rigueur du peuple spartiate : sobre, fier et implacable.
 
 ---
 
@@ -31,8 +25,6 @@ La société spartiate repose sur trois piliers :
 - Les **Hilotes** (serfs d’État d’origine méssénienne), qui assurent la production agricole.
     
 
-_(Illustration : carte du Péloponnèse montrant Sparte, Messenie et les territoires contrôlés par les Spartiates.)_
-
 ---
 
 ## ⚔️ Un État militaire total
@@ -44,8 +36,6 @@ Ils y apprennent l’endurance, le maniement des armes, la vie en collectivité 
 À 20 ans, ils rejoignent l’armée, vivant dans des casernes jusqu’à 30 ans.  
 Leur vie entière est vouée à la cité, à la discipline et à la préparation de la guerre.  
 L’État contrôle aussi la vie des femmes, mais, paradoxalement, les **Spartiates** accordent aux **femmes** une éducation physique et une liberté plus grande qu’ailleurs : elles doivent engendrer des enfants forts.
-
-_(Illustration : jeunes garçons s’entraînant à la lutte dans l’agôgè, surveillés par un instructeur tenant un fouet, symbole de rigueur et de formation virile.)_
 
 ---
 
@@ -64,7 +54,7 @@ Sparte repose sur un équilibre politique original, mêlant **royauté, oligarch
 
 Cette organisation, attribuée au législateur légendaire **Lycurgue**, vise à maintenir **l’ordre, la stabilité et la discipline** plutôt qu’à encourager le progrès ou la richesse.
 
-_(Illustration : réunion de la Gérousia : vieillards barbus délibérant en cercle pendant qu’un jeune roi écoute en silence, signe de respect envers la loi ancestrale.)_
+![[Sparte 2.png|60%]]
 
 ---
 
@@ -79,7 +69,7 @@ Sa victoire sur la Ligue de Délos marque l’unique moment où Sparte règne su
 Pourtant, cette domination est brève : la société spartiate, rigide et fermée, peine à s’adapter.  
 Elle décline rapidement face à **Thèbes** (bataille de Leuctres, 371 av. J.-C.), puis à la montée de la **Macédoine** de [[Philippe II]] et d’[[Alexandre le Grand|Alexandre]].
 
-_(Illustration : hoplites spartiates chargeant à Platées, boucliers rouges alignés, formation compacte avançant dans un nuage de poussière.)_
+![[Sparte 3.png|60%]]
 
 ---
 
@@ -101,10 +91,4 @@ Sa société militaire, ses lois sévères et son éducation austère ont fascin
 Si elle a laissé peu de monuments, elle a forgé une **idée éternelle** :  
 celle d’une cité où la liberté individuelle s’efface devant la grandeur collective.
 
----
-
-### 🖼️ _Illustration de conclusion_
-
-Coucher de soleil sur les ruines de Sparte : colonnes brisées, collines du Taygète à l’horizon, et une statue de bronze de Léonidas tenant son bouclier levé.  
-Dans la lumière rouge du soir, la cité disparue semble encore murmurer son serment :  
-**“Reviens avec ton bouclier… ou sur lui.”**
+![[Sparte 4.png|60%]]
