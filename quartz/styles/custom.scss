@@ -370,3 +370,208 @@ blockquote {
 }
 
 
+/* =========================================================
+   HOTFIX + REFINEMENT TYPO/RESPONSIVE (PC + MOBILE)
+   À COLLER TOUT EN BAS DE custom.scss
+   ========================================================= */
+
+/* 1) S’assurer qu’on cible le vrai conteneur du rendu Markdown (Quartz) */
+article .content,
+article .markdown-renderer,
+article .article-content,
+article .page-content {
+  width: 100%;
+}
+
+/* 2) Colonne de lecture VRAIMENT centrée sur PC
+   (Quartz entoure parfois le markdown, donc on centre les enfants directs du conteneur) */
+article .content > *,
+article .markdown-renderer > *,
+article .article-content > *,
+article .page-content > * {
+  max-width: var(--content-w, min(860px, 92vw));
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Exception : les H1/H2 sont gérés plus bas, on laisse leur style propre */
+article .content > h1,
+article .markdown-renderer > h1,
+article .article-content > h1,
+article .page-content > h1,
+article .content > h2,
+article .markdown-renderer > h2,
+article .article-content > h2,
+article .page-content > h2 {
+  max-width: none;
+}
+
+/* 3) Base typographique : moins gros sur mobile, mieux sur PC */
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+article {
+  /* largeur de colonne par défaut */
+  --content-w: min(860px, 92vw);
+
+  /* carte moins massive */
+  padding: 2rem 2rem;
+}
+
+/* Paragraphes et listes : taille plus raisonnable + spacing plus élégant */
+article p {
+  font-size: 1.02rem;
+  line-height: 1.75;
+  margin: 0.45rem auto 0.95rem;
+}
+
+article ul,
+article ol {
+  font-size: 1.02rem;
+  line-height: 1.7;
+  padding-left: 1.3rem;
+  margin: 0.4rem auto 1.05rem;
+}
+
+article li {
+  margin: 0.25rem 0;
+}
+
+/* 4) Titres : réduire (PC + mobile) et rendre la hiérarchie plus “premium” */
+
+/* H1 : beaucoup moins géant + meilleure respiration */
+article h1 {
+  font-size: clamp(1.85rem, 1.25rem + 2.0vw, 2.65rem) !important;
+  letter-spacing: 0.02em;
+  margin: 0.25em auto 0.25em !important;
+  max-width: var(--content-w);
+}
+
+/* Sous-titre sous H1 : un peu plus discret sur mobile */
+.subtitle {
+  font-size: clamp(1.0rem, 0.92rem + 0.35vw, 1.22rem);
+  margin-bottom: 1.0em;
+}
+.subtitle::after {
+  width: 64px;
+  height: 3px;
+}
+
+/* H2 “rubans” : réduire + éviter l’effet pancarte */
+article h2 {
+  font-size: clamp(1.15rem, 1.02rem + 0.7vw, 1.65rem) !important;
+  padding: 8px 14px;
+  border-left-width: 4px;
+  margin: 0.6em auto 1.0em !important;
+  max-width: var(--content-w);
+}
+
+/* H3 : réduire un peu */
+article h3 {
+  font-size: clamp(1.05rem, 0.98rem + 0.45vw, 1.35rem);
+  margin: 1.15em auto 0.65em;
+  max-width: var(--content-w);
+}
+
+/* 5) Sur mobile : tout doit respirer et être moins “jumbo” */
+@media (max-width: 700px) {
+  article {
+    padding: 1.35rem 1.1rem;
+    --content-w: min(680px, 94vw);
+  }
+
+  article p,
+  article ul,
+  article ol {
+    font-size: 0.98rem;
+    line-height: 1.72;
+  }
+
+  /* Réduire l’espace vertical des sections */
+  article h2 {
+    padding: 7px 12px;
+  }
+
+  /* Meta pills : moins grosses */
+  .pill {
+    font-size: 0.95rem;
+    padding: 7px 12px;
+  }
+
+  /* Images : moins “massives” */
+  article img,
+  .markdown-renderer img {
+    border-radius: 14px;
+    box-shadow: 0 14px 40px rgba(0, 0, 0, 0.65);
+  }
+}
+
+/* 6) PC large : meilleure densité, mais sans étirer la lecture */
+@media (min-width: 1100px) {
+  article {
+    --content-w: 820px; /* un poil plus étroit = lecture plus classe */
+  }
+}
+
+/* 7) Supprimer TOUS les icônes de lien/ancres résiduels sur les titres
+   (tu as encore un petit symbole à droite des titres sur tes captures) */
+a.header-anchor,
+a.heading-anchor,
+a.anchor,
+a[aria-label*="heading"],
+a[aria-label*="Heading"],
+a[title*="heading"],
+a[title*="Heading"],
+.heading a,
+article h1 a.header-anchor,
+article h2 a.header-anchor,
+article h3 a.header-anchor {
+  display: none !important;
+}
+
+/* 8) “Carte” plus clean : limiter l’effet de halo/gradient trop marqué */
+article {
+  border-radius: 20px;
+  background: radial-gradient(circle at top left,
+      rgba(255, 255, 255, 0.03) 0,
+      rgba(9, 10, 20, 0.96) 55%,
+      rgba(3, 4, 10, 1) 100%);
+  border: 1px solid rgba(255, 255, 255, 0.035);
+  box-shadow: 0 18px 52px rgba(0, 0, 0, 0.72);
+}
+
+/* 9) Images + légendes : plus “édition” */
+article img,
+.markdown-renderer img {
+  max-width: var(--content-w);
+  margin: 0.9rem auto 0.35rem;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+article img + em,
+.markdown-renderer img + em {
+  max-width: var(--content-w);
+  margin: 0 auto 1.0rem;
+  font-size: 0.92rem;
+  opacity: 0.82;
+}
+
+/* 10) Petits détails premium : séparateurs plus fins et centrés */
+article hr,
+.markdown-renderer hr {
+  width: min(720px, 82%);
+  opacity: 0.55;
+  border-top: 1px solid rgba(255, 255, 255, 0.10);
+  margin: 1.35rem auto;
+}
+
+/* 11) Navigation siècles : éviter l’effet “menu énorme” */
+.centuries-nav a {
+  font-size: 0.98rem;
+  padding: 7px 10px;
+}
+
+
