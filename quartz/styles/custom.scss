@@ -238,4 +238,80 @@ article hr {
   }
 }
 
+/* =========================================================
+   PATCH VISIBILITÉ + TYPO PC (à coller tout en bas)
+   ========================================================= */
+
+/* Sous-titre : plus visible, plus “premium”, mieux séparé */
+.subtitle {
+  display: block;
+  text-align: center;
+  font-weight: 800;
+  font-style: normal;
+  letter-spacing: 0.02em;
+  opacity: 0.98;
+  color: color-mix(in srgb, var(--accent) 88%, white 12%);
+  font-size: clamp(1.12rem, 1.02rem + 0.45vw, 1.45rem);
+  margin: 0.15rem auto 1.25rem;
+  max-width: var(--content-max, 860px);
+}
+.subtitle::after {
+  content: "";
+  display: block;
+  width: 92px;
+  height: 3px;
+  background: color-mix(in srgb, var(--accent) 75%, white 25%);
+  opacity: 0.9;
+  margin: 0.65rem auto 0;
+  border-radius: 999px;
+  box-shadow: 0 10px 24px rgba(0,0,0,0.35);
+}
+
+/* PC : texte plus gros (vraiment), titres mieux équilibrés */
+@media (min-width: 900px) {
+  /* Texte : beaucoup plus lisible */
+  article p,
+  article li,
+  article ul,
+  article ol {
+    font-size: 1.22rem !important;  /* <- gros gain lisibilité */
+    line-height: 1.85 !important;
+  }
+
+  /* Les paragraphes respirent mieux */
+  article p {
+    margin: 0.6rem 0 1.15rem !important;
+  }
+
+  /* H1 : moins géant sur PC */
+  article h1 {
+    font-size: clamp(2.05rem, 1.65rem + 1.25vw, 2.55rem) !important;
+    margin-bottom: 0.75rem !important;
+    letter-spacing: 0.01em !important;
+  }
+
+  /* H2 : un peu plus présent pour structurer */
+  article h2 {
+    font-size: 1.72rem !important;
+    padding: 0.65rem 1.0rem !important;
+    border-left-width: 5px !important;
+  }
+
+  /* H3 : plus lisible aussi */
+  article h3 {
+    font-size: 1.42rem !important;
+  }
+}
+
+/* Mobile : sous-titre visible sans prendre tout l’écran */
+@media (max-width: 700px) {
+  .subtitle {
+    font-size: 1.12rem;
+    margin-bottom: 1.0rem;
+  }
+  .subtitle::after {
+    width: 76px;
+  }
+}
+
 
