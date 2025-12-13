@@ -1,658 +1,241 @@
-
-
 /* =========================================================
-   LAYOUT GLOBAL & FOND
+   Quartz custom.scss — Clean Wiki Theme (PC + Mobile)
+   - Colonne centrée PC
+   - Texte lisible et équilibré
+   - Titres hiérarchisés, pas géants
+   - Images intégrées
+   - Navigation/UX sobre
    ========================================================= */
 
+/* ---------- Variables visuelles ---------- */
+:root {
+  --page-max: 1040px;         /* largeur max globale */
+  --content-max: 860px;       /* colonne de lecture */
+  --radius: 18px;
+  --card-bg: rgba(10, 12, 20, 0.82);
+  --card-border: rgba(255, 255, 255, 0.06);
+  --shadow: 0 18px 55px rgba(0, 0, 0, 0.65);
+
+  /* Typo (ajustée par media queries) */
+  --text-size: 1.07rem;       /* PC default */
+  --text-leading: 1.75;
+}
+
+/* ---------- Fond global ---------- */
 body {
-  background:
-    radial-gradient(circle at top, #171725 0, #060712 55%, #020208 100%);
-  color: var(--text);
+  background: radial-gradient(circle at top, #191a27 0, #070812 55%, #020208 100%);
 }
 
-/* Contenu centré avec effet "carte" */
+/* ---------- Conteneur page / article ---------- */
+/* Quartz rend le contenu dans un <article>. On le stylise comme une “carte wiki”. */
 article {
-  --content-w: min(860px, 92vw);
-
-  max-width: calc(var(--content-w) + 4rem);
+  max-width: var(--page-max);
   margin: 2.2rem auto 3.5rem;
-  padding: 2.5rem 2.3rem;
-  border-radius: 24px;
-  background: radial-gradient(circle at top left,
-      rgba(255, 255, 255, 0.035) 0,
-      rgba(6, 7, 18, 0.98) 55%,
-      rgba(3, 4, 10, 1) 100%);
-  border: 1px solid rgba(255, 255, 255, 0.04);
-  box-shadow: 0 20px 55px rgba(0, 0, 0, 0.75);
+  padding: 2.2rem 2rem;
+  border-radius: var(--radius);
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  box-shadow: var(--shadow);
 }
 
-/* Colonne de lecture : tout est aligné sur la même largeur */
-article p,
-article ul,
-article ol,
-article blockquote,
-article .meta,
-article .centuries-nav,
-article .timeline,
-article .callout,
-article .hero,
-article hr,
-article img,
-article img + em {
-  max-width: var(--content-w);
+/* IMPORTANT : le texte de la note est dans .markdown-renderer (Quartz).
+   C’est LÀ qu’on centre la colonne, sinon ça ne bouge pas sur PC. */
+article .markdown-renderer {
+  max-width: var(--content-max);
   margin-left: auto;
   margin-right: auto;
 }
 
-/* Texte de base */
-article p {
-  line-height: 1.78;
-  font-size: 1.05rem;
-  margin: 0.35rem 0 0.9rem;
+/* S’assurer que les wrappers éventuels ne “poussent” pas à gauche */
+article .content,
+article .page-content,
+article .article-content {
+  width: 100%;
 }
+
+/* ---------- Texte de base ---------- */
+article p,
+article li {
+  font-size: var(--text-size);
+  line-height: var(--text-leading);
+}
+
+article p {
+  margin: 0.5rem 0 1.0rem;
+}
+
 article ul,
 article ol {
-  padding-left: 1.4rem;
-  line-height: 1.7;
+  margin: 0.35rem 0 1.05rem;
+  padding-left: 1.35rem;
 }
 
-/* Séparateurs */
-.markdown-renderer hr,
-article hr {
-  border: none;
-  border-top: 1px solid rgba(255, 255, 255, 0.09);
-  margin: 1.6rem auto;
-  width: min(780px, 86%);
-  opacity: 0.75;
+article li { margin: 0.25rem 0; }
+
+/* ---------- Liens ---------- */
+article a {
+  color: color-mix(in srgb, var(--accent) 80%, white 20%);
+  text-decoration: none;
+  border-bottom: 1px dotted color-mix(in srgb, var(--accent) 55%, transparent);
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
 
-/* =========================================================
-   TITRES & ANCRES
-   ========================================================= */
-
-/* Supprimer le H1 auto Quartz (double titre) */
-.page-title,
-main > h1.page-title,
-article > h1.page-title {
-  display: none !important;
+article a:hover {
+  color: color-mix(in srgb, var(--accent) 92%, white 8%);
+  border-bottom-color: color-mix(in srgb, var(--accent) 85%, transparent);
+  background: rgba(255, 255, 255, 0.03);
 }
 
-/* Neutraliser les wrappers de titres Quartz */
-.heading {
-  all: unset !important;
-}
-
-/* Enlever les petites ancres bleues */
+/* ---------- Supprimer les ancres de titres Quartz (petites icônes) ---------- */
 a.header-anchor,
 .heading a.header-anchor,
-article h1 > a.header-anchor,
-article h2 > a.header-anchor,
-article h3 > a.header-anchor,
-article h4 > a.header-anchor,
-article h5 > a.header-anchor,
-article h6 > a.header-anchor {
+article h1 a.header-anchor,
+article h2 a.header-anchor,
+article h3 a.header-anchor,
+article h4 a.header-anchor,
+article h5 a.header-anchor,
+article h6 a.header-anchor {
   display: none !important;
 }
 
-/* H1 comme dans Obsidian mais un peu plus “hero” */
+/* ---------- Titres : hiérarchie “wiki premium” ---------- */
 article h1 {
-  font-size: clamp(2.4rem, 2rem + 1.6vw, 3.4rem) !important;
-  font-weight: 800 !important;
-  letter-spacing: 0.03em;
-  line-height: 1.15;
+  margin: 0.2rem 0 0.65rem;
   text-align: center;
-  margin: 0.15em 0 0.2em !important;
-  color: #fff5df;
-  text-shadow: 0 0 16px rgba(0, 0, 0, 0.9);
-}
-
-/* Sous-titre sous H1 */
-.subtitle {
-  display: block;
-  text-align: center;
-  font-size: clamp(1.1rem, 1rem + 0.45vw, 1.45rem);
-  color: color-mix(in srgb, var(--accent) 92%, white 8%);
-  font-weight: 700;
-  font-style: normal;
-  opacity: 0.96;
-  margin-top: -0.1em;
-  margin-bottom: 1.2em;
-}
-.subtitle::after {
-  content: "";
-  display: block;
-  width: 78px;
-  height: 3px;
-  background: var(--accent);
-  opacity: 0.75;
-  margin: 0.55em auto 0;
-  border-radius: 3px;
-}
-
-/* H2 = “rubans” centraux */
-article h2 {
-  font-size: clamp(1.35rem, 1.1rem + 0.7vw, 2rem) !important;
-  font-weight: 800 !important;
-  color: var(--text);
-  background: color-mix(in srgb, var(--accent) 12%, transparent);
-  border-left: 5px solid var(--accent);
-  border-radius: 999px;
-  padding: 10px 18px;
-  width: fit-content;
-  margin: 0.45em auto 1.1em !important;
-  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.22);
-  scroll-margin-top: 84px;
-}
-article h2:target {
-  background: color-mix(in srgb, var(--accent) 20%, transparent);
-  box-shadow: 0 0 0 2px
-      color-mix(in srgb, var(--accent) 38%, transparent) inset,
-    0 6px 18px rgba(0, 0, 0, 0.35);
-}
-
-/* H3 = sous-sections alignées à gauche dans la même colonne */
-article h3 {
-  max-width: var(--content-w);
-  margin: 1.3em auto 0.7em;
-  font-size: clamp(1.15rem, 1.02rem + 0.45vw, 1.55rem);
   font-weight: 800;
-  line-height: 1.25;
-  color: var(--text);
-  text-align: left;
-  position: relative;
-  padding-left: 14px;
+  letter-spacing: 0.01em;
+  font-size: clamp(2.0rem, 1.5rem + 1.8vw, 2.8rem);
+  color: #fff2d8;
+  text-shadow: 0 0 14px rgba(0, 0, 0, 0.8);
 }
+
+article h2 {
+  margin: 2.0rem 0 0.85rem;
+  font-weight: 800;
+  font-size: clamp(1.25rem, 1.05rem + 0.7vw, 1.6rem);
+  line-height: 1.25;
+
+  /* “barre” élégante */
+  padding: 0.55rem 0.9rem;
+  border-left: 4px solid var(--accent);
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--accent) 10%, rgba(255,255,255,0.02));
+  box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+}
+
+article h3 {
+  margin: 1.4rem 0 0.55rem;
+  font-weight: 800;
+  font-size: clamp(1.08rem, 1.0rem + 0.45vw, 1.32rem);
+  line-height: 1.25;
+  position: relative;
+  padding-left: 12px;
+}
+
 article h3::before {
   content: "";
   position: absolute;
   left: 0;
-  top: 0.22em;
-  width: 6px;
+  top: 0.25em;
+  width: 5px;
   height: 0.95em;
   border-radius: 3px;
   background: var(--accent);
+  opacity: 0.95;
 }
 
-/* Etiquette visuelle de siècle au-dessus du H2 */
-.century-label {
-  text-align: center;
-  font-size: 1.25rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--accent);
-  margin: 2.2em 0 0.1em;
-  position: relative;
-}
-.century-label::before,
-.century-label::after {
-  content: "";
-  position: absolute;
-  top: 50%;
-  width: 32%;
-  height: 1px;
-  background: color-mix(in srgb, var(--accent) 40%, transparent);
-}
-.century-label::before {
-  left: 0;
-}
-.century-label::after {
-  right: 0;
-}
-
-/* =========================================================
-   NAVIGATION PAR SIÈCLES
-   ========================================================= */
-
-.centuries-nav {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  align-items: flex-start;
-  margin: 0.9rem auto 1.8rem;
-  max-width: var(--content-w);
-  border-left: 3px solid
-    color-mix(in srgb, var(--accent) 32%, transparent);
-  padding-left: 1rem;
-}
-.centuries-nav li {
-  list-style: none;
-}
-.centuries-nav a {
-  display: inline-block;
-  width: 100%;
-  text-decoration: none;
-  font-weight: 600;
-  font-size: 1rem;
-  color: var(--accent);
-  background: color-mix(in srgb, var(--accent) 8%, transparent);
-  border: 1px solid color-mix(in srgb, var(--accent) 32%, transparent);
-  border-radius: 7px;
-  padding: 8px 10px;
-  transition: all 0.18s ease;
-}
-.centuries-nav a:hover {
-  background: color-mix(in srgb, var(--accent) 18%, transparent);
-  transform: translateX(6px);
-  box-shadow: 0 3px 9px rgba(0, 0, 0, 0.18);
-}
-
-/* =========================================================
-   META PILLS / HERO / TIMELINE
-   ========================================================= */
-
-.meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  justify-content: center;
-  margin: 0.8rem auto 1.5rem;
-  max-width: var(--content-w);
-}
-.pill {
-  font-size: 1.05rem;
-  padding: 8px 14px;
-  border-radius: 999px;
-  border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
-  background: color-mix(in srgb, var(--accent) 14%, transparent);
-  backdrop-filter: saturate(120%);
-}
-
-/* Bloc “hero” (image principale + texte si besoin) */
-.hero {
-  max-width: var(--content-w);
-  margin: 0 auto 1.4rem;
-  padding: clamp(10px, 1.2vw, 16px);
-  border: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
-  background: color-mix(in srgb, var(--accent) 7%, transparent);
-  border-radius: 18px;
-}
-.hero img {
-  border-radius: 14px;
-}
-
-/* Timeline verticale */
-.timeline {
-  border-left: 2px solid var(--accent);
-  margin: 0.7rem auto 1.4rem;
-  padding-left: 1.1rem;
-  max-width: var(--content-w);
-}
-.timeline .t-item {
-  position: relative;
-  margin: 0.55rem 0;
-  line-height: 1.7;
-}
-.timeline .t-item::before {
-  content: "";
-  position: absolute;
-  left: -1.25rem;
-  top: 0.38rem;
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  background: var(--accent);
-  box-shadow: 0 0 0 3px
-    color-mix(in srgb, var(--accent) 30%, transparent);
-}
-
-/* =========================================================
-   IMAGES & LÉGENDES
-   ========================================================= */
-
-.markdown-renderer img,
-article img {
-  display: block;
-  margin: 0.7rem auto 0.25rem;
-  max-width: min(100%, var(--content-w));
-  height: auto;
-  border-radius: 18px;
-  border: 1px solid rgba(255, 255, 255, 0.05);
-  box-shadow: 0 20px 55px rgba(0, 0, 0, 0.8);
-}
-.markdown-renderer img + em,
-article img + em {
-  display: block;
-  text-align: center;
-  font-size: 0.95rem;
-  opacity: 0.8;
-  margin-bottom: 0.95rem;
-}
-
-/* =========================================================
-   LIENS, CITATIONS, CALLOUTS
-   ========================================================= */
-
-a {
-  color: #ffd38a;
-  text-decoration: none;
-  border-bottom: 1px dotted rgba(255, 211, 138, 0.65);
-  transition: color 0.15s ease, border-color 0.15s ease,
-    background-color 0.15s ease;
-}
-a:hover {
-  color: #ffe9bd;
-  border-bottom-color: rgba(255, 233, 189, 0.95);
-  background-color: rgba(255, 255, 255, 0.03);
-}
-
-/* Citations */
-blockquote {
-  max-width: var(--content-w);
-  margin: 1.5rem auto;
-  padding: 1rem 1.2rem;
-  border-left: 3px solid rgba(255, 211, 138, 0.9);
-  border-radius: 0 14px 14px 0;
-  background: rgba(255, 255, 255, 0.03);
-  font-style: italic;
-  color: #efe7ff;
-}
-
-/* Callouts Obsidian */
-.callout {
-  max-width: var(--content-w);
-  border-radius: 16px;
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  background: radial-gradient(circle at top left, #28263d 0, #14111f 70%);
-}
-
-/* =========================================================
-   MICRO AJUSTEMENTS DARK
-   ========================================================= */
-
-@media (prefers-color-scheme: dark) {
-  .centuries-nav {
-    border-left-color: color-mix(in srgb, var(--accent) 26%, transparent);
-  }
-  article h2 {
-    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.32);
-  }
-}
-
-
-/* =========================================================
-   HOTFIX + REFINEMENT TYPO/RESPONSIVE (PC + MOBILE)
-   À COLLER TOUT EN BAS DE custom.scss
-   ========================================================= */
-
-/* 1) S’assurer qu’on cible le vrai conteneur du rendu Markdown (Quartz) */
-article .content,
-article .markdown-renderer,
-article .article-content,
-article .page-content {
-  width: 100%;
-}
-
-/* 2) Colonne de lecture VRAIMENT centrée sur PC
-   (Quartz entoure parfois le markdown, donc on centre les enfants directs du conteneur) */
-article .content > *,
-article .markdown-renderer > *,
-article .article-content > *,
-article .page-content > * {
-  max-width: var(--content-w, min(860px, 92vw));
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* Exception : les H1/H2 sont gérés plus bas, on laisse leur style propre */
-article .content > h1,
-article .markdown-renderer > h1,
-article .article-content > h1,
-article .page-content > h1,
-article .content > h2,
-article .markdown-renderer > h2,
-article .article-content > h2,
-article .page-content > h2 {
-  max-width: none;
-}
-
-/* 3) Base typographique : moins gros sur mobile, mieux sur PC */
-html {
-  font-size: 16px;
-  -webkit-text-size-adjust: 100%;
-  text-size-adjust: 100%;
-}
-
-article {
-  /* largeur de colonne par défaut */
-  --content-w: min(860px, 92vw);
-
-  /* carte moins massive */
-  padding: 2rem 2rem;
-}
-
-/* Paragraphes et listes : taille plus raisonnable + spacing plus élégant */
-article p {
-  font-size: 1.02rem;
-  line-height: 1.75;
-  margin: 0.45rem auto 0.95rem;
-}
-
-article ul,
-article ol {
-  font-size: 1.02rem;
-  line-height: 1.7;
-  padding-left: 1.3rem;
-  margin: 0.4rem auto 1.05rem;
-}
-
-article li {
-  margin: 0.25rem 0;
-}
-
-/* 4) Titres : réduire (PC + mobile) et rendre la hiérarchie plus “premium” */
-
-/* H1 : beaucoup moins géant + meilleure respiration */
-article h1 {
-  font-size: clamp(1.85rem, 1.25rem + 2.0vw, 2.65rem) !important;
-  letter-spacing: 0.02em;
-  margin: 0.25em auto 0.25em !important;
-  max-width: var(--content-w);
-}
-
-/* Sous-titre sous H1 : un peu plus discret sur mobile */
-.subtitle {
-  font-size: clamp(1.0rem, 0.92rem + 0.35vw, 1.22rem);
-  margin-bottom: 1.0em;
-}
-.subtitle::after {
-  width: 64px;
-  height: 3px;
-}
-
-/* H2 “rubans” : réduire + éviter l’effet pancarte */
-article h2 {
-  font-size: clamp(1.15rem, 1.02rem + 0.7vw, 1.65rem) !important;
-  padding: 8px 14px;
-  border-left-width: 4px;
-  margin: 0.6em auto 1.0em !important;
-  max-width: var(--content-w);
-}
-
-/* H3 : réduire un peu */
-article h3 {
-  font-size: clamp(1.05rem, 0.98rem + 0.45vw, 1.35rem);
-  margin: 1.15em auto 0.65em;
-  max-width: var(--content-w);
-}
-
-/* 5) Sur mobile : tout doit respirer et être moins “jumbo” */
-@media (max-width: 700px) {
-  article {
-    padding: 1.35rem 1.1rem;
-    --content-w: min(680px, 94vw);
-  }
-
-  article p,
-  article ul,
-  article ol {
-    font-size: 0.98rem;
-    line-height: 1.72;
-  }
-
-  /* Réduire l’espace vertical des sections */
-  article h2 {
-    padding: 7px 12px;
-  }
-
-  /* Meta pills : moins grosses */
-  .pill {
-    font-size: 0.95rem;
-    padding: 7px 12px;
-  }
-
-  /* Images : moins “massives” */
-  article img,
-  .markdown-renderer img {
-    border-radius: 14px;
-    box-shadow: 0 14px 40px rgba(0, 0, 0, 0.65);
-  }
-}
-
-/* 6) PC large : meilleure densité, mais sans étirer la lecture */
-@media (min-width: 1100px) {
-  article {
-    --content-w: 820px; /* un poil plus étroit = lecture plus classe */
-  }
-}
-
-/* 7) Supprimer TOUS les icônes de lien/ancres résiduels sur les titres
-   (tu as encore un petit symbole à droite des titres sur tes captures) */
-a.header-anchor,
-a.heading-anchor,
-a.anchor,
-a[aria-label*="heading"],
-a[aria-label*="Heading"],
-a[title*="heading"],
-a[title*="Heading"],
-.heading a,
-article h1 a.header-anchor,
-article h2 a.header-anchor,
-article h3 a.header-anchor {
-  display: none !important;
-}
-
-/* 8) “Carte” plus clean : limiter l’effet de halo/gradient trop marqué */
-article {
-  border-radius: 20px;
-  background: radial-gradient(circle at top left,
-      rgba(255, 255, 255, 0.03) 0,
-      rgba(9, 10, 20, 0.96) 55%,
-      rgba(3, 4, 10, 1) 100%);
-  border: 1px solid rgba(255, 255, 255, 0.035);
-  box-shadow: 0 18px 52px rgba(0, 0, 0, 0.72);
-}
-
-/* 9) Images + légendes : plus “édition” */
+/* ---------- Images + légendes ---------- */
 article img,
-.markdown-renderer img {
-  max-width: var(--content-w);
-  margin: 0.9rem auto 0.35rem;
-  border: 1px solid rgba(255, 255, 255, 0.06);
+article .markdown-renderer img {
+  display: block;
+  max-width: 100%;
+  margin: 1.0rem auto 0.45rem;
+  border-radius: 16px;
+  border: 1px solid rgba(255,255,255,0.06);
+  box-shadow: 0 18px 52px rgba(0,0,0,0.75);
 }
 
 article img + em,
-.markdown-renderer img + em {
-  max-width: var(--content-w);
-  margin: 0 auto 1.0rem;
+article .markdown-renderer img + em {
+  display: block;
+  text-align: center;
   font-size: 0.92rem;
   opacity: 0.82;
+  margin: 0 0 1.0rem;
 }
 
-/* 10) Petits détails premium : séparateurs plus fins et centrés */
-article hr,
-.markdown-renderer hr {
-  width: min(720px, 82%);
-  opacity: 0.55;
-  border-top: 1px solid rgba(255, 255, 255, 0.10);
-  margin: 1.35rem auto;
+/* ---------- Blocs utiles (citations / callouts) ---------- */
+article blockquote {
+  margin: 1.2rem 0;
+  padding: 0.95rem 1.05rem;
+  border-left: 3px solid color-mix(in srgb, var(--accent) 75%, white 25%);
+  border-radius: 0 14px 14px 0;
+  background: rgba(255,255,255,0.03);
+  color: rgba(255,255,255,0.92);
 }
 
-/* 11) Navigation siècles : éviter l’effet “menu énorme” */
-.centuries-nav a {
-  font-size: 0.98rem;
-  padding: 7px 10px;
+article .callout {
+  border-radius: 16px;
+  border: 1px solid rgba(255,255,255,0.08);
+  background: rgba(255,255,255,0.03);
+}
+
+/* ---------- Séparateurs ---------- */
+article hr {
+  border: none;
+  border-top: 1px solid rgba(255,255,255,0.10);
+  width: min(760px, 86%);
+  margin: 1.6rem auto;
+  opacity: 0.65;
 }
 
 /* =========================================================
-   CORRECTION FINALE PC : CENTRAGE + TAILLE TEXTE
+   RESPONSIVE — MOBILE FIRST
    ========================================================= */
-
-/* 1) Forcer la colonne de lecture AU BON ENDROIT */
-article .markdown-renderer {
-  max-width: 860px;          /* largeur de lecture PC */
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-
-/* 2) Tous les blocs texte restent dans la colonne */
-article .markdown-renderer > p,
-article .markdown-renderer > ul,
-article .markdown-renderer > ol,
-article .markdown-renderer > blockquote,
-article .markdown-renderer > hr,
-article .markdown-renderer > .meta,
-article .markdown-renderer > .centuries-nav,
-article .markdown-renderer > .timeline,
-article .markdown-renderer > .callout,
-article .markdown-renderer > .hero {
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* 3) TEXTE PC : PLUS GROS ET PLUS CONFORTABLE */
-@media (min-width: 900px) {
-  article p,
-  article ul,
-  article ol {
-    font-size: 1.12rem;      /* ← plus gros */
-    line-height: 1.8;
+@media (max-width: 700px) {
+  :root {
+    --content-max: 720px;
+    --text-size: 1.00rem;     /* plus petit sur mobile */
+    --text-leading: 1.70;
   }
 
-  article li {
-    margin: 0.35rem 0;
+  article {
+    margin: 0.9rem 0.6rem 1.6rem;
+    padding: 1.25rem 1.05rem;
+    border-radius: 16px;
+    box-shadow: 0 14px 40px rgba(0,0,0,0.6);
   }
-}
 
-/* 4) H1 PC : plus équilibré (moins géant, mais bien présent) */
-@media (min-width: 900px) {
   article h1 {
-    font-size: 2.6rem !important;
-    max-width: 860px;
-    margin-left: auto !important;
-    margin-right: auto !important;
+    font-size: clamp(1.7rem, 1.35rem + 2.2vw, 2.15rem);
+    margin-bottom: 0.6rem;
   }
 
-  .subtitle {
-    font-size: 1.25rem;
-  }
-}
-
-/* 5) H2 PC : bien lisible, pas pancarte */
-@media (min-width: 900px) {
   article h2 {
-    font-size: 1.55rem !important;
-    max-width: 860px;
+    margin-top: 1.5rem;
+    padding: 0.5rem 0.75rem;
+    border-left-width: 4px;
+  }
+
+  article img {
+    border-radius: 14px;
+    box-shadow: 0 12px 35px rgba(0,0,0,0.65);
   }
 }
 
-/* 6) H3 PC */
-@media (min-width: 900px) {
-  article h3 {
-    font-size: 1.35rem;
-    max-width: 860px;
+/* =========================================================
+   GRAND ÉCRAN — PC CONFORT
+   ========================================================= */
+@media (min-width: 1100px) {
+  :root {
+    --content-max: 860px;
+    --text-size: 1.12rem;     /* plus lisible sur PC */
+    --text-leading: 1.78;
   }
-}
 
-/* 7) Images parfaitement alignées à la colonne */
-article .markdown-renderer img,
-article .markdown-renderer img + em {
-  max-width: 860px;
-  margin-left: auto;
-  margin-right: auto;
+  article {
+    padding: 2.4rem 2.3rem;
+  }
 }
 
 
