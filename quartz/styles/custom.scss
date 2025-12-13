@@ -574,4 +574,85 @@ article hr,
   padding: 7px 10px;
 }
 
+/* =========================================================
+   CORRECTION FINALE PC : CENTRAGE + TAILLE TEXTE
+   ========================================================= */
+
+/* 1) Forcer la colonne de lecture AU BON ENDROIT */
+article .markdown-renderer {
+  max-width: 860px;          /* largeur de lecture PC */
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* 2) Tous les blocs texte restent dans la colonne */
+article .markdown-renderer > p,
+article .markdown-renderer > ul,
+article .markdown-renderer > ol,
+article .markdown-renderer > blockquote,
+article .markdown-renderer > hr,
+article .markdown-renderer > .meta,
+article .markdown-renderer > .centuries-nav,
+article .markdown-renderer > .timeline,
+article .markdown-renderer > .callout,
+article .markdown-renderer > .hero {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 3) TEXTE PC : PLUS GROS ET PLUS CONFORTABLE */
+@media (min-width: 900px) {
+  article p,
+  article ul,
+  article ol {
+    font-size: 1.12rem;      /* ← plus gros */
+    line-height: 1.8;
+  }
+
+  article li {
+    margin: 0.35rem 0;
+  }
+}
+
+/* 4) H1 PC : plus équilibré (moins géant, mais bien présent) */
+@media (min-width: 900px) {
+  article h1 {
+    font-size: 2.6rem !important;
+    max-width: 860px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .subtitle {
+    font-size: 1.25rem;
+  }
+}
+
+/* 5) H2 PC : bien lisible, pas pancarte */
+@media (min-width: 900px) {
+  article h2 {
+    font-size: 1.55rem !important;
+    max-width: 860px;
+  }
+}
+
+/* 6) H3 PC */
+@media (min-width: 900px) {
+  article h3 {
+    font-size: 1.35rem;
+    max-width: 860px;
+  }
+}
+
+/* 7) Images parfaitement alignées à la colonne */
+article .markdown-renderer img,
+article .markdown-renderer img + em {
+  max-width: 860px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
