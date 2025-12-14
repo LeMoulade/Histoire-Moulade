@@ -19,17 +19,29 @@ Encyclopédie historique et culturelle par Moulade.
 
 ## 🗺️ Pays
 
+- [[Allemagne/]]
 - [[Angleterre/]]
+- [[Chine/]]
 - [[Christianisme/]]
+- [[Danemark/]]
 - [[Egypte/]]
+- [[Espagne/]]
 - [[Etats-Unis/]]
+- [[France/]]
 - [[Grèce/]]
+- [[Inde/]]
+- [[Irak/]]
 - [[Iran/]]
+- [[Italie/]]
 - [[Japon/]]
 - [[Liban/]]
 - [[Macédoine/]]
+- [[Norvège/]]
 - [[Palestine/]]
 - [[Russie/]]
+- [[Syrie/]]
+- [[Tibet/]]
+- [[Tunisie/]]
 - [[Turquie/]]
 
 
