@@ -8,7 +8,7 @@
 ## Russie
 
 
-- [1905 - 1916 --- La cour impériale russe face à la crise ; foi, pouvoir et désintégration]("C:\Users\cleme\Documents\GitHub\Histoire-Moulade\content\Récits\1905 - 1916 --- La cour impériale russe face à la crise ; foi, pouvoir et désintégration.md")
+- [1905 - 1916 --- La cour impériale russe face à la crise ; foi, pouvoir et désintégration](./Récits/1905 - 1916 --- La cour impériale russe face à la crise ; foi, pouvoir et désintégration.md)
 
 
 ---

@@ -1,92 +1,115 @@
 /* =========================================================
-   Quartz custom.scss — Clean Wiki Theme (PC + Mobile)
-   - Colonne centrée PC
-   - Texte lisible et équilibré
-   - Titres hiérarchisés, pas géants
-   - Images intégrées
-   - Navigation/UX sobre
+   Quartz custom.scss — Obsidian-like reading (PC + Mobile)
+   - Colonne de lecture centrée, large, sans scroll horizontal
+   - H2/H3 “capsules” visibles (lecture d’articles longs)
+   - subtitle + pills comme Obsidian
+   - Images responsives sans débordement
    ========================================================= */
 
-/* ---------- Variables visuelles ---------- */
-:root {
-  --page-max: 1040px;         /* largeur max globale */
-  --content-max: 860px;       /* colonne de lecture */
+/* ---------- Base & anti-scroll horizontal ---------- */
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+}
+* {
+  box-sizing: border-box;
+}
+article, .markdown-renderer, .content, main {
+  overflow-x: hidden;
+}
+
+/* Empêche les mots/liens très longs de casser la mise en page */
+article, .markdown-renderer {
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+/* ---------- Layout de lecture (proche Obsidian) ---------- */
+:root{
+  --page-max: 1200px;          /* “occupe l’écran” sur PC */
+  --content-max: 980px;        /* largeur lecture (texte) */
+  --content-max-wide: 1100px;  /* pour images/hero si besoin */
   --radius: 18px;
-  --card-bg: rgba(10, 12, 20, 0.82);
-  --card-border: rgba(255, 255, 255, 0.06);
-  --shadow: 0 18px 55px rgba(0, 0, 0, 0.65);
 
-  /* Typo (ajustée par media queries) */
-  --text-size: 1.07rem;       /* PC default */
-  --text-leading: 1.75;
+  --text-pc: 1.22rem;          /* IMPORTANT : texte PC grand */
+  --text-mobile: 1.05rem;
+
+  --leading-pc: 1.85;
+  --leading-mobile: 1.78;
+
+  --bg-card: rgba(18, 18, 22, 0.72);
+  --border-card: rgba(255,255,255,0.06);
+  --shadow-card: 0 18px 60px rgba(0,0,0,0.60);
 }
 
-/* ---------- Fond global ---------- */
+/* Fond */
 body {
-  background: radial-gradient(circle at top, #191a27 0, #070812 55%, #020208 100%);
+  background: radial-gradient(circle at top, #1b1b24 0%, #0c0c12 55%, #050509 100%);
 }
 
-/* ---------- Conteneur page / article ---------- */
-/* Quartz rend le contenu dans un <article>. On le stylise comme une “carte wiki”. */
+/* Carte principale (comme “page” Obsidian) */
 article {
   max-width: var(--page-max);
-  margin: 2.2rem auto 3.5rem;
-  padding: 2.2rem 2rem;
-  border-radius: var(--radius);
-  background: var(--card-bg);
-  border: 1px solid var(--card-border);
-  box-shadow: var(--shadow);
+  margin: 1.6rem auto 3rem;
+  padding: 2rem 2rem;
+  border-radius: 22px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-card);
+  box-shadow: var(--shadow-card);
 }
 
-/* IMPORTANT : le texte de la note est dans .markdown-renderer (Quartz).
-   C’est LÀ qu’on centre la colonne, sinon ça ne bouge pas sur PC. */
+/* Quartz : le contenu réel est dans .markdown-renderer */
 article .markdown-renderer {
   max-width: var(--content-max);
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
 
-/* S’assurer que les wrappers éventuels ne “poussent” pas à gauche */
-article .content,
-article .page-content,
-article .article-content {
-  width: 100%;
-}
-
-/* ---------- Texte de base ---------- */
-article p,
-article li {
-  font-size: var(--text-size);
-  line-height: var(--text-leading);
-}
-
+/* ---------- Typo (lisibilité) ---------- */
 article p {
-  margin: 0.5rem 0 1.0rem;
+  font-size: var(--text-pc);
+  line-height: var(--leading-pc);
+  margin: 0.6rem 0 1.15rem;
+  color: color-mix(in srgb, var(--text) 92%, white 8%);
 }
 
-article ul,
-article ol {
-  margin: 0.35rem 0 1.05rem;
+article ul, article ol {
+  font-size: var(--text-pc);
+  line-height: var(--leading-pc);
   padding-left: 1.35rem;
+  margin: 0.5rem 0 1.2rem;
+}
+article li { margin: 0.35rem 0; }
+
+/* Citations / blocs */
+article blockquote {
+  margin: 1.3rem 0;
+  padding: 1rem 1.05rem;
+  border-left: 3px solid color-mix(in srgb, var(--accent) 70%, white 30%);
+  border-radius: 0 16px 16px 0;
+  background: rgba(255,255,255,0.03);
 }
 
-article li { margin: 0.25rem 0; }
+/* Séparateurs discrets */
+article hr {
+  border: none;
+  border-top: 1px solid rgba(255,255,255,0.10);
+  width: min(900px, 92%);
+  margin: 2rem auto;
+  opacity: 0.7;
+}
 
-/* ---------- Liens ---------- */
+/* ---------- Liens (Obsidian-like) ---------- */
 article a {
   color: color-mix(in srgb, var(--accent) 80%, white 20%);
   text-decoration: none;
   border-bottom: 1px dotted color-mix(in srgb, var(--accent) 55%, transparent);
-  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
-
 article a:hover {
-  color: color-mix(in srgb, var(--accent) 92%, white 8%);
   border-bottom-color: color-mix(in srgb, var(--accent) 85%, transparent);
-  background: rgba(255, 255, 255, 0.03);
+  background: rgba(255,255,255,0.03);
 }
 
-/* ---------- Supprimer les ancres de titres Quartz (petites icônes) ---------- */
+/* Enlever les ancres de titres Quartz */
 a.header-anchor,
 .heading a.header-anchor,
 article h1 a.header-anchor,
@@ -98,313 +121,125 @@ article h6 a.header-anchor {
   display: none !important;
 }
 
-/* ---------- Titres : hiérarchie “wiki premium” ---------- */
+/* ---------- H1 + subtitle (comme tes pages perso) ---------- */
 article h1 {
-  margin: 0.2rem 0 0.65rem;
   text-align: center;
-  font-weight: 800;
+  font-weight: 900;
   letter-spacing: 0.01em;
-  font-size: clamp(2.0rem, 1.5rem + 1.8vw, 2.8rem);
-  color: #fff2d8;
-  text-shadow: 0 0 14px rgba(0, 0, 0, 0.8);
-}
-
-article h2 {
-  margin: 2.0rem 0 0.85rem;
-  font-weight: 800;
-  font-size: clamp(1.25rem, 1.05rem + 0.7vw, 1.6rem);
-  line-height: 1.25;
-
-  /* “barre” élégante */
-  padding: 0.55rem 0.9rem;
-  border-left: 4px solid var(--accent);
-  border-radius: 12px;
-  background: color-mix(in srgb, var(--accent) 10%, rgba(255,255,255,0.02));
-  box-shadow: 0 8px 24px rgba(0,0,0,0.25);
-}
-
-article h3 {
-  margin: 1.4rem 0 0.55rem;
-  font-weight: 800;
-  font-size: clamp(1.08rem, 1.0rem + 0.45vw, 1.32rem);
-  line-height: 1.25;
-  position: relative;
-  padding-left: 12px;
-}
-
-article h3::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0.25em;
-  width: 5px;
-  height: 0.95em;
-  border-radius: 3px;
-  background: var(--accent);
-  opacity: 0.95;
-}
-
-/* ---------- Images + légendes ---------- */
-article img,
-article .markdown-renderer img {
-  display: block;
-  max-width: 100%;
-  margin: 1.0rem auto 0.45rem;
-  border-radius: 16px;
-  border: 1px solid rgba(255,255,255,0.06);
-  box-shadow: 0 18px 52px rgba(0,0,0,0.75);
-}
-
-article img + em,
-article .markdown-renderer img + em {
-  display: block;
-  text-align: center;
-  font-size: 0.92rem;
-  opacity: 0.82;
-  margin: 0 0 1.0rem;
-}
-
-/* ---------- Blocs utiles (citations / callouts) ---------- */
-article blockquote {
-  margin: 1.2rem 0;
-  padding: 0.95rem 1.05rem;
-  border-left: 3px solid color-mix(in srgb, var(--accent) 75%, white 25%);
-  border-radius: 0 14px 14px 0;
-  background: rgba(255,255,255,0.03);
+  font-size: clamp(2.2rem, 1.6rem + 2vw, 3.0rem);
+  margin: 0.25rem 0 0.4rem;
   color: rgba(255,255,255,0.92);
 }
 
-article .callout {
-  border-radius: 16px;
-  border: 1px solid rgba(255,255,255,0.08);
-  background: rgba(255,255,255,0.03);
-}
-
-/* ---------- Séparateurs ---------- */
-article hr {
-  border: none;
-  border-top: 1px solid rgba(255,255,255,0.10);
-  width: min(760px, 86%);
-  margin: 1.6rem auto;
-  opacity: 0.65;
-}
-
-/* =========================================================
-   RESPONSIVE — MOBILE FIRST
-   ========================================================= */
-@media (max-width: 700px) {
-  :root {
-    --content-max: 720px;
-    --text-size: 1.00rem;     /* plus petit sur mobile */
-    --text-leading: 1.70;
-  }
-
-  article {
-    margin: 0.9rem 0.6rem 1.6rem;
-    padding: 1.25rem 1.05rem;
-    border-radius: 16px;
-    box-shadow: 0 14px 40px rgba(0,0,0,0.6);
-  }
-
-  article h1 {
-    font-size: clamp(1.7rem, 1.35rem + 2.2vw, 2.15rem);
-    margin-bottom: 0.6rem;
-  }
-
-  article h2 {
-    margin-top: 1.5rem;
-    padding: 0.5rem 0.75rem;
-    border-left-width: 4px;
-  }
-
-  article img {
-    border-radius: 14px;
-    box-shadow: 0 12px 35px rgba(0,0,0,0.65);
-  }
-}
-
-/* =========================================================
-   GRAND ÉCRAN — PC CONFORT
-   ========================================================= */
-@media (min-width: 1100px) {
-  :root {
-    --content-max: 860px;
-    --text-size: 1.12rem;     /* plus lisible sur PC */
-    --text-leading: 1.78;
-  }
-
-  article {
-    padding: 2.4rem 2.3rem;
-  }
-}
-
-/* =========================================================
-   PATCH VISIBILITÉ + TYPO PC (à coller tout en bas)
-   ========================================================= */
-
-/* Sous-titre : plus visible, plus “premium”, mieux séparé */
 .subtitle {
   display: block;
   text-align: center;
-  font-weight: 800;
-  font-style: normal;
-  letter-spacing: 0.02em;
-  opacity: 0.98;
-  color: color-mix(in srgb, var(--accent) 88%, white 12%);
-  font-size: clamp(1.12rem, 1.02rem + 0.45vw, 1.45rem);
-  margin: 0.15rem auto 1.25rem;
-  max-width: var(--content-max, 860px);
+  font-weight: 700;
+  font-style: italic; /* comme ta capture Amon */
+  color: color-mix(in srgb, var(--accent) 75%, #d8c36a 25%);
+  opacity: 0.95;
+  font-size: clamp(1.05rem, 0.95rem + 0.5vw, 1.35rem);
+  margin: 0 auto 1.15rem;
 }
-.subtitle::after {
-  content: "";
-  display: block;
-  width: 92px;
-  height: 3px;
-  background: color-mix(in srgb, var(--accent) 75%, white 25%);
-  opacity: 0.9;
-  margin: 0.65rem auto 0;
+.subtitle::after{
+  content:"";
+  display:block;
+  width: 78px;
+  height: 2px;
   border-radius: 999px;
-  box-shadow: 0 10px 24px rgba(0,0,0,0.35);
+  background: color-mix(in srgb, var(--accent) 70%, #d8c36a 30%);
+  opacity: 0.75;
+  margin: 0.55rem auto 0;
 }
 
-/* PC : texte plus gros (vraiment), titres mieux équilibrés */
-@media (min-width: 900px) {
-  /* Texte : beaucoup plus lisible */
-  article p,
-  article li,
-  article ul,
-  article ol {
-    font-size: 1.22rem !important;  /* <- gros gain lisibilité */
-    line-height: 1.85 !important;
-  }
-
-  /* Les paragraphes respirent mieux */
-  article p {
-    margin: 0.6rem 0 1.15rem !important;
-  }
-
-  /* H1 : moins géant sur PC */
-  article h1 {
-    font-size: clamp(2.05rem, 1.65rem + 1.25vw, 2.55rem) !important;
-    margin-bottom: 0.75rem !important;
-    letter-spacing: 0.01em !important;
-  }
-
-  /* H2 : un peu plus présent pour structurer */
-  article h2 {
-    font-size: 1.72rem !important;
-    padding: 0.65rem 1.0rem !important;
-    border-left-width: 5px !important;
-  }
-
-  /* H3 : plus lisible aussi */
-  article h3 {
-    font-size: 1.42rem !important;
-  }
+/* ---------- Pills (pastilles) ---------- */
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin: 0.65rem auto 1.35rem;
+}
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  font-weight: 650;
+  font-size: 1.02rem;
+  border: 1px solid color-mix(in srgb, var(--accent) 38%, rgba(255,255,255,0.10));
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: saturate(120%);
 }
 
-/* Mobile : sous-titre visible sans prendre tout l’écran */
-@media (max-width: 700px) {
-  .subtitle {
-    font-size: 1.12rem;
-    margin-bottom: 1.0rem;
-  }
-  .subtitle::after {
-    width: 76px;
-  }
+/* ---------- Hero (image principale) ---------- */
+.hero {
+  max-width: var(--content-max-wide);
+  margin: 0 auto 1.1rem;
+  padding: 10px;
+  border-radius: 18px;
+  border: 1px solid rgba(255,255,255,0.06);
+  background: rgba(255,255,255,0.02);
 }
-
-/* =========================================================
-   MODE LECTURE GLOBAL — POUR TOUT LE WIKI
-   ========================================================= */
-
-/* Largeur de lecture idéale (s’applique partout) */
-article {
-  --content-max: 760px;
-}
-
-/* Le vrai conteneur du texte Quartz */
-article .markdown-renderer {
-  max-width: var(--content-max);
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* TEXTE — plus lisible, effet “livre” */
-article p {
-  font-size: 1.14rem;
-  line-height: 1.95;
-  letter-spacing: 0.01em;
-  color: color-mix(in srgb, var(--text) 92%, white 8%);
-  margin: 0.55rem 0 1.05rem;
-}
-
-/* Listes */
-article ul,
-article ol {
-  font-size: 1.12rem;
-  line-height: 1.85;
-  margin: 0.55rem 0 1.25rem;
-  padding-left: 1.35rem;
-}
-article li {
-  margin: 0.35rem 0;
-}
-
-/* =========================================================
-   GRANDES PARTIES — H2
-   ========================================================= */
-
-article h2 {
-  position: relative;
-  padding: 0.85rem 1.05rem;
-  border-left: 6px solid var(--accent);
+.hero img {
   border-radius: 16px;
-  background: linear-gradient(
-    90deg,
-    color-mix(in srgb, var(--accent) 18%, transparent),
-    rgba(255,255,255,0.02)
-  );
-  box-shadow: 0 16px 40px rgba(0,0,0,0.45);
+}
 
-  font-size: clamp(1.35rem, 1.1rem + 0.9vw, 1.85rem);
+/* ---------- Images : jamais de scroll horizontal ---------- */
+article img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.2rem auto 0.45rem;
+  border-radius: 18px;
+  border: 1px solid rgba(255,255,255,0.06);
+  box-shadow: 0 18px 52px rgba(0,0,0,0.70);
+}
+
+/* Légendes (image + em) */
+article img + em {
+  display: block;
+  text-align: center;
+  font-size: 0.95rem;
+  opacity: 0.82;
+  margin: 0 0 1.3rem;
+}
+
+/* ---------- Titres H2/H3 : capsules visibles (comme tes sections Amon) ---------- */
+/* H2 = “grandes sections” */
+article h2 {
+  width: fit-content;
+  max-width: 100%;
+  margin: 2.1rem auto 1.1rem;
+  padding: 10px 18px;
+  border-radius: 14px;
   font-weight: 900;
-  letter-spacing: 0.01em;
+  font-size: clamp(1.35rem, 1.1rem + 0.9vw, 1.9rem);
   line-height: 1.25;
-  margin-top: 2.4rem;
-  margin-bottom: 1.2rem;
+
+  background: rgba(255,255,255,0.06);
+  border-left: 6px solid color-mix(in srgb, var(--accent) 70%, #d8c36a 30%);
+  box-shadow: 0 14px 36px rgba(0,0,0,0.45);
+
+  text-align: center;
 }
 
-/* petit marque-page décoratif */
-article h2::after {
-  content: "";
-  position: absolute;
-  right: 14px;
-  top: -9px;
-  width: 58px;
-  height: 4px;
-  border-radius: 999px;
-  background: color-mix(in srgb, var(--accent) 85%, white 15%);
-  opacity: 0.9;
-}
-
-/* =========================================================
-   SOUS-PARTIES — H3
-   ========================================================= */
-
+/* H3 = sous-sections, plus “sobre” mais très lisible */
 article h3 {
-  margin-top: 1.7rem;
-  margin-bottom: 0.6rem;
-  font-size: clamp(1.12rem, 1.02rem + 0.55vw, 1.38rem);
+  margin: 1.55rem 0 0.65rem;
   font-weight: 850;
-  position: relative;
-  padding: 0.35rem 0.6rem 0.35rem 0.9rem;
+  font-size: clamp(1.15rem, 1.05rem + 0.55vw, 1.45rem);
+  line-height: 1.25;
+
+  padding: 0.45rem 0.7rem 0.45rem 0.9rem;
   border-radius: 12px;
   background: rgba(255,255,255,0.03);
   border: 1px solid rgba(255,255,255,0.06);
+  position: relative;
 }
 
-/* barre accent */
+/* Barre accent (comme Obsidian) */
 article h3::before {
   content: "";
   position: absolute;
@@ -413,84 +248,54 @@ article h3::before {
   width: 7px;
   height: 0.9em;
   border-radius: 4px;
-  background: var(--accent);
+  background: color-mix(in srgb, var(--accent) 70%, #d8c36a 30%);
 }
 
-/* =========================================================
-   IMAGES — vraies pauses visuelles
-   ========================================================= */
-
-article img {
-  display: block;
-  margin: 1.35rem auto 0.55rem;
-  max-width: var(--content-max);
-  border-radius: 18px;
-  box-shadow: 0 22px 60px rgba(0,0,0,0.75);
+/* ---------- Code blocks : éviter débordement horizontal ---------- */
+pre, code {
+  max-width: 100%;
+}
+pre {
+  overflow-x: auto;
+  border-radius: 14px;
 }
 
-article img + em {
-  display: block;
-  text-align: center;
-  font-size: 0.95rem;
-  opacity: 0.85;
-  margin-bottom: 1.35rem;
-}
-
-/* =========================================================
-   SÉPARATEURS
-   ========================================================= */
-
-article hr {
-  width: min(720px, 86%);
-  border: none;
-  border-top: 1px solid rgba(255,255,255,0.14);
-  opacity: 0.75;
-  margin: 2.0rem auto;
-}
-
-/* =========================================================
-   MOBILE — plus léger
-   ========================================================= */
-
+/* ---------- MOBILE (sans scroll horizontal + texte correct) ---------- */
 @media (max-width: 700px) {
   article {
-    --content-max: 92vw;
+    margin: 0.85rem 0.6rem 1.6rem;
+    padding: 1.25rem 1.05rem;
+    border-radius: 18px;
   }
 
-  article p {
-    font-size: 1.04rem;
-    line-height: 1.85;
+  article .markdown-renderer {
+    max-width: 100%;
   }
 
+  article p,
   article ul,
   article ol {
-    font-size: 1.02rem;
+    font-size: var(--text-mobile);
+    line-height: var(--leading-mobile);
+  }
+
+  article h1 {
+    font-size: clamp(1.9rem, 1.45rem + 2.3vw, 2.4rem);
   }
 
   article h2 {
-    padding: 0.75rem 0.95rem;
+    margin-top: 1.7rem;
+    padding: 9px 14px;
     border-left-width: 5px;
-    border-radius: 14px;
-    margin-top: 1.9rem;
-  }
-
-  article h3 {
-    font-size: 1.15rem;
   }
 
   article img {
     border-radius: 16px;
-    box-shadow: 0 16px 46px rgba(0,0,0,0.7);
+    box-shadow: 0 14px 40px rgba(0,0,0,0.65);
   }
+
+  .pill { font-size: 0.98rem; padding: 7px 12px; }
 }
 
-/* =========================================================
-   PC LARGE — lecture confort
-   ========================================================= */
-@media (min-width: 1100px) {
-  article p {
-    font-size: 1.20rem;
-  }
-}
 
 
