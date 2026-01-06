@@ -314,4 +314,183 @@ article hr {
   }
 }
 
+/* =========================================================
+   MODE LECTURE GLOBAL — POUR TOUT LE WIKI
+   ========================================================= */
+
+/* Largeur de lecture idéale (s’applique partout) */
+article {
+  --content-max: 760px;
+}
+
+/* Le vrai conteneur du texte Quartz */
+article .markdown-renderer {
+  max-width: var(--content-max);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* TEXTE — plus lisible, effet “livre” */
+article p {
+  font-size: 1.14rem;
+  line-height: 1.95;
+  letter-spacing: 0.01em;
+  color: color-mix(in srgb, var(--text) 92%, white 8%);
+  margin: 0.55rem 0 1.05rem;
+}
+
+/* Listes */
+article ul,
+article ol {
+  font-size: 1.12rem;
+  line-height: 1.85;
+  margin: 0.55rem 0 1.25rem;
+  padding-left: 1.35rem;
+}
+article li {
+  margin: 0.35rem 0;
+}
+
+/* =========================================================
+   GRANDES PARTIES — H2
+   ========================================================= */
+
+article h2 {
+  position: relative;
+  padding: 0.85rem 1.05rem;
+  border-left: 6px solid var(--accent);
+  border-radius: 16px;
+  background: linear-gradient(
+    90deg,
+    color-mix(in srgb, var(--accent) 18%, transparent),
+    rgba(255,255,255,0.02)
+  );
+  box-shadow: 0 16px 40px rgba(0,0,0,0.45);
+
+  font-size: clamp(1.35rem, 1.1rem + 0.9vw, 1.85rem);
+  font-weight: 900;
+  letter-spacing: 0.01em;
+  line-height: 1.25;
+  margin-top: 2.4rem;
+  margin-bottom: 1.2rem;
+}
+
+/* petit marque-page décoratif */
+article h2::after {
+  content: "";
+  position: absolute;
+  right: 14px;
+  top: -9px;
+  width: 58px;
+  height: 4px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent) 85%, white 15%);
+  opacity: 0.9;
+}
+
+/* =========================================================
+   SOUS-PARTIES — H3
+   ========================================================= */
+
+article h3 {
+  margin-top: 1.7rem;
+  margin-bottom: 0.6rem;
+  font-size: clamp(1.12rem, 1.02rem + 0.55vw, 1.38rem);
+  font-weight: 850;
+  position: relative;
+  padding: 0.35rem 0.6rem 0.35rem 0.9rem;
+  border-radius: 12px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.06);
+}
+
+/* barre accent */
+article h3::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.55em;
+  width: 7px;
+  height: 0.9em;
+  border-radius: 4px;
+  background: var(--accent);
+}
+
+/* =========================================================
+   IMAGES — vraies pauses visuelles
+   ========================================================= */
+
+article img {
+  display: block;
+  margin: 1.35rem auto 0.55rem;
+  max-width: var(--content-max);
+  border-radius: 18px;
+  box-shadow: 0 22px 60px rgba(0,0,0,0.75);
+}
+
+article img + em {
+  display: block;
+  text-align: center;
+  font-size: 0.95rem;
+  opacity: 0.85;
+  margin-bottom: 1.35rem;
+}
+
+/* =========================================================
+   SÉPARATEURS
+   ========================================================= */
+
+article hr {
+  width: min(720px, 86%);
+  border: none;
+  border-top: 1px solid rgba(255,255,255,0.14);
+  opacity: 0.75;
+  margin: 2.0rem auto;
+}
+
+/* =========================================================
+   MOBILE — plus léger
+   ========================================================= */
+
+@media (max-width: 700px) {
+  article {
+    --content-max: 92vw;
+  }
+
+  article p {
+    font-size: 1.04rem;
+    line-height: 1.85;
+  }
+
+  article ul,
+  article ol {
+    font-size: 1.02rem;
+  }
+
+  article h2 {
+    padding: 0.75rem 0.95rem;
+    border-left-width: 5px;
+    border-radius: 14px;
+    margin-top: 1.9rem;
+  }
+
+  article h3 {
+    font-size: 1.15rem;
+  }
+
+  article img {
+    border-radius: 16px;
+    box-shadow: 0 16px 46px rgba(0,0,0,0.7);
+  }
+}
+
+/* =========================================================
+   PC LARGE — lecture confort
+   ========================================================= */
+@media (min-width: 1100px) {
+  article p {
+    font-size: 1.20rem;
+  }
+}
+
 

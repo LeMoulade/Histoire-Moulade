@@ -1,58 +1,25 @@
----
-title: Accueil
----
 
-# 🏛️ Histoire-Moulade
+# 📜 Mouladopédia
 
-Encyclopédie historique et culturelle par Moulade.  
-
+<span class="subtitle">Database de récits et épisodes majeurs de l’histoire mondiale</span>
 
 ---
 
+## Russie
 
 
-<button id="random-page-btn">
-  🎲 Tirer un article au hasard
-</button>
+- [1905 - 1916 --- La cour impériale russe face à la crise ; foi, pouvoir et désintégration]("C:\Users\cleme\Documents\GitHub\Histoire-Moulade\content\Récits\1905 - 1916 --- La cour impériale russe face à la crise ; foi, pouvoir et désintégration.md")
 
 
-
-## 🗺️ Pays
-
-- [[Allemagne/]]
-- [[Angleterre/]]
-- [[Chine/]]
-- [[Christianisme/]]
-- [[Danemark/]]
-- [[Egypte/]]
-- [[Espagne/]]
-- [[Etats-Unis/]]
-- [[France/]]
-- [[Grèce/]]
-- [[Inde/]]
-- [[Irak/]]
-- [[Iran/]]
-- [[Italie/]]
-- [[Japon/]]
-- [[Liban/]]
-- [[Macédoine/]]
-- [[Norvège/]]
-- [[Palestine/]]
-- [[Russie/]]
-- [[Syrie/]]
-- [[Tibet/]]
-- [[Tunisie/]]
-- [[Turquie/]]
+---
 
 
+<hr>
+
+## 🌍 Explorer autrement
 
 
-## ✈️ Aviation
-
-- [[Aviation/]]
-
-
-
+- 🎲 [Article au hasard](/random)
 
 
 
