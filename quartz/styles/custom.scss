@@ -413,3 +413,102 @@ article h3::before{
   .subtitle{ font-size: 1.12rem; }
 }
 
+
+/* =========================================================
+   PATCH VISIBILITÉ : H3 + LIENS DANS LES PARAGRAPHES
+   (à coller tout en bas de custom.scss)
+   ========================================================= */
+
+/* 1) H3 : plus “section” (couleur + capsule + respiration) */
+article h3 {
+  width: fit-content;
+  max-width: 100%;
+  margin: 1.85rem 0 0.85rem !important;
+  padding: 0.55rem 0.95rem 0.55rem 1.15rem !important;
+
+  font-weight: 900 !important;
+  letter-spacing: 0.01em;
+  color: color-mix(in srgb, var(--gold, #d8c36a) 82%, white 18%) !important;
+
+  background: linear-gradient(
+    180deg,
+    rgba(255,255,255,0.055),
+    rgba(255,255,255,0.028)
+  ) !important;
+
+  border: 1px solid rgba(255,255,255,0.07) !important;
+  border-left: 7px solid color-mix(in srgb, var(--gold, #d8c36a) 80%, var(--accent) 20%) !important;
+  border-radius: 14px !important;
+
+  box-shadow: 0 12px 30px rgba(0,0,0,0.40) !important;
+  position: relative;
+}
+
+/* Retire l’ancienne barre ::before (sinon doublon) */
+article h3::before {
+  content: none !important;
+}
+
+/* Petit “tag” décoratif qui sépare bien du texte */
+article h3::after {
+  content: "";
+  position: absolute;
+  left: 18px;
+  right: 18px;
+  bottom: -10px;
+  height: 1px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, transparent, rgba(216,195,106,0.45), transparent);
+  opacity: 0.85;
+}
+
+/* Plus d’air après un H3 */
+article h3 + p {
+  margin-top: 0.95rem !important;
+}
+
+/* 2) LIENS : visibles dans le texte (couleur + underline lisible) */
+article p a,
+article li a,
+article blockquote a {
+  color: color-mix(in srgb, var(--accent) 72%, #7dd3fc 28%) !important;
+  font-weight: 650;
+
+  /* underline moderne, plus joli que border-bottom */
+  text-decoration-line: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 65%, transparent);
+
+  border-bottom: none !important; /* neutralise les styles précédents */
+  background: color-mix(in srgb, var(--accent) 10%, transparent);
+  padding: 0.02em 0.20em;
+  border-radius: 6px;
+  transition: background-color .15s ease, color .15s ease, text-decoration-color .15s ease;
+}
+
+article p a:hover,
+article li a:hover,
+article blockquote a:hover {
+  color: color-mix(in srgb, var(--accent) 88%, white 12%) !important;
+  background: color-mix(in srgb, var(--accent) 18%, transparent);
+  text-decoration-color: color-mix(in srgb, var(--accent) 90%, transparent);
+}
+
+/* Option : différencier les liens “wiki” (internes) si Quartz ajoute une classe.
+   Si ça ne matche pas chez toi, ça ne casse rien. */
+article a.internal {
+  color: color-mix(in srgb, var(--accent) 78%, #a7f3d0 22%) !important;
+}
+
+/* Mobile : garder lisible sans grossir */
+@media (max-width: 700px) {
+  article h3 {
+    padding: 0.5rem 0.85rem 0.5rem 1.05rem !important;
+    margin: 1.6rem 0 0.75rem !important;
+  }
+  article p a {
+    text-underline-offset: 3px;
+  }
+}
+
