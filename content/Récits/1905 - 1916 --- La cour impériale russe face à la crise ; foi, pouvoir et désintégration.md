@@ -32,7 +32,7 @@ Ce massacre — connu sous le nom de **Dimanche rouge** — brise un pilier fond
 
 ### III. Nicolas II face à la peur du changement
 
-Le tsar **Nicolas II** n’est ni un tyran sanguinaire ni un réformateur lucide. Il est un souverain convaincu que son pouvoir lui a été confié par Dieu et que toute concession politique est une trahison de cette mission sacrée.
+Le tsar **[[Nicolas II]]** n’est ni un tyran sanguinaire ni un réformateur lucide. Il est un souverain convaincu que son pouvoir lui a été confié par Dieu et que toute concession politique est une trahison de cette mission sacrée.
 
 Face à la crise, il hésite, temporise, recule puis réprime. Sous la pression, il accepte cependant la publication du **Manifeste d’Octobre**, qui promet des libertés civiles et la création d’une assemblée représentative : la **Douma d’État**.
 
@@ -55,9 +55,9 @@ Le régime survit, mais **il ne convainc plus**.
 
 ### V. Alexandra et le repli spirituel du pouvoir
 
-Dans ce climat de défiance, l’influence de l’impératrice **Alexandra Feodorovna** s’accroît. Convaincue que la crise est avant tout spirituelle, elle rejette les compromis politiques et cherche des réponses dans la foi.
+Dans ce climat de défiance, l’influence de l’impératrice **[[Alexandra Feodorovna]]** s’accroît. Convaincue que la crise est avant tout spirituelle, elle rejette les compromis politiques et cherche des réponses dans la foi.
 
-Son isolement est renforcé par un drame intime : la maladie de son fils, le tsarévitch **Alexis Nikolaïevitch**, atteint d’hémophilie. Chaque crise médicale est vécue comme une épreuve divine, chaque rémission comme un signe.
+Son isolement est renforcé par un drame intime : la maladie de son fils, le tsarévitch **[[Alexeï Nikolaïevitch Romanov|Alexis Nikolaïevitch]]**, atteint d’hémophilie. Chaque crise médicale est vécue comme une épreuve divine, chaque rémission comme un signe.
 
 Le pouvoir impérial commence alors à glisser d’un **raisonnement politique** vers une **lecture mystique des événements**.
 
@@ -66,8 +66,6 @@ Le pouvoir impérial commence alors à glisser d’un **raisonnement politique**
 À **Tsarskoïe Selo**, résidence impériale retirée, la cour se referme. Ministres, députés, généraux sont perçus comme peu fiables, parfois hostiles. La confiance se déplace vers des figures capables d’apporter des certitudes morales plutôt que des solutions concrètes.
 
 C’est dans cet espace clos, déjà fragilisé par la crise de 1905, que de nouveaux acteurs informels vont pouvoir apparaître.
-
-Raspoutine n’est pas encore là — mais **le terrain est désormais prêt**.
 
 ---
 
@@ -119,7 +117,7 @@ Ce déplacement est silencieux, progressif, mais décisif.
 
 ### V. L’arrivée d’un mystique sibérien à Saint-Pétersbourg
 
-C’est dans ce contexte qu’un pèlerin sibérien, **Grigori Raspoutine**, apparaît dans les cercles religieux de Saint-Pétersbourg à la fin des années 1900.
+C’est dans ce contexte qu’un pèlerin sibérien, **[[Grigori Raspoutine]]**, apparaît dans les cercles religieux de Saint-Pétersbourg à la fin des années 1900.
 
 Raspoutine n’entre pas à la cour par la politique, mais par les réseaux spirituels : prêtres, évêques, aristocrates pieux. Il est perçu comme un _starets_ — un homme saint, doté d’un charisme religieux brut, non académique.
 
@@ -128,7 +126,7 @@ Lorsqu’il est introduit auprès de la famille impériale, ce n’est pas en ta
 ### VI. Un pouvoir informel en gestation
 
 Les premières interventions de Raspoutine auprès du tsarévitch coïncident avec des rémissions spectaculaires — interprétées par Alexandra comme des miracles.  
-Qu’il s’agisse d’hypnose, de suggestion, de hasard médical ou d’une réduction involontaire de traitements nocifs, **le résultat prime sur l’explication**.
+Qu’il s’agisse d’hypnose, de suggestion, de hasard médical ou d’une réduction involontaire de traitements nocifs (aspirine), **le résultat prime sur l’explication**.
 
 À partir de ce moment, une dynamique nouvelle s’installe :
 
@@ -191,7 +189,7 @@ La cour se coupe alors définitivement :
 ### III. La Douma face à l’impuissance
 
 À la Douma, plusieurs députés dénoncent ouvertement l’influence de Raspoutine.  
-Parmi eux figurent **Alexandre Goutchkov** et **Vladimir Pourichkevitch**.
+Parmi eux figurent **Alexandre Goutchkov** et **[[Vladimir Pourichkevitch]]**.
 
 Le problème n’est pas seulement moral. Il est institutionnel :  
 si un homme sans fonction peut influencer nominations, disgrâces et décisions, alors **l’État cesse d’être lisible**.
@@ -338,7 +336,7 @@ elles confondent **le symbole** avec **la cause**.
 À l’hiver 1916, l’idée s’impose dans certains cercles conservateurs : **Raspoutine doit disparaître**.  
 Non pour des raisons religieuses ou morales, mais parce qu’il est devenu **le symbole visible** de la décomposition du pouvoir.
 
-Les acteurs de ce projet ne sont ni révolutionnaires ni marginaux. Ils appartiennent au cœur de l’aristocratie et des élites monarchistes. Parmi eux figurent le prince **Félix Ioussoupov**, héritier de l’une des plus grandes fortunes de l’Empire, et le grand-duc **Dmitri Pavlovitch**, cousin du tsar.
+Les acteurs de ce projet ne sont ni révolutionnaires ni marginaux. Ils appartiennent au cœur de l’aristocratie et des élites monarchistes. Parmi eux figurent le prince **[[Félix Youssoupov|Félix Ioussoupov]]**, héritier de l’une des plus grandes fortunes de l’Empire, et le grand-duc **[[Grand-duc Dmitri Pavlovitch|Dmitri Pavlovitch]]**, cousin du tsar.
 
 Ils sont rejoints par le député **Vladimir Pourichkevitch**, déjà connu pour ses attaques publiques contre l’influence de Raspoutine.
 
@@ -346,7 +344,7 @@ Tous partagent une conviction : **supprimer l’homme, c’est briser l’envoû
 
 ### II. La nuit du 16 au 17 décembre 1916
 
-Dans la nuit du 16 au 17 décembre 1916 (calendrier julien), Raspoutine est attiré au **palais Ioussoupov**, sur les rives de la **Moïka**.
+Dans la nuit du 16 au 17 décembre 1916, Raspoutine est attiré au **palais Ioussoupov**, sur les rives de la **Moïka**.
 
 Le récit de l’assassinat sera rapidement enveloppé de légendes — poisons inefficaces, résistance surnaturelle, noyade finale. Les historiens s’accordent aujourd’hui sur une version plus sobre : Raspoutine est abattu par balle après une tentative d’empoisonnement probablement inexistante ou inefficace.
 
@@ -359,14 +357,14 @@ Le symbole aussi — du moins le croient-ils.
 La réaction de la cour impériale est immédiate et révélatrice.  
 Loin de saluer l’acte comme un “sacrifice nécessaire”, **Alexandra Feodorovna** est profondément choquée. Elle voit dans l’assassinat de Raspoutine un **crime sacrilège** et une trahison.
 
-Le tsar **Nicolas II** ne saisit pas la portée politique de l’événement. Il refuse toute réforme de fond et sanctionne mollement les coupables : Ioussoupov est exilé, Dmitri Pavlovitch éloigné du front. Aucun signal fort n’est envoyé à l’opinion.
+Le tsar **Nicolas II** ne saisit pas la portée politique de l’événement. Il refuse toute réforme de fond et sanctionne mollement les coupables : Ioussoupov est exilé, Dmitri Pavlovitch éloigné du front. Aucun signal fort n’est envoyé à l’opposition.
 
 Pour les conspirateurs, c’est une douche froide : **le régime n’a pas compris le message**.
 
 ### IV. Un assassinat sans effet politique
 
 L’élimination de Raspoutine ne produit **aucun effet stabilisateur**.  
-Les pénuries alimentaires s’aggravent, la désorganisation administrative se poursuit, la guerre continue d’user l’armée et l’arrière.
+Les pénuries alimentaires s’aggravent, la désorganisation administrative se poursuit, la guerre continue d’user l’armée.
 
 Pire encore : la disparition de Raspoutine prive le régime de son **bouc émissaire principal**.  
 Désormais, la responsabilité de la crise ne peut plus être détournée vers un homme honni. Elle revient, inexorablement, à la monarchie elle-même.
@@ -388,7 +386,6 @@ En réalité :
     
 
 Raspoutine n’était pas la cause du mal, mais **le révélateur**.  
-En le supprimant, le régime a perdu son dernier écran de fumée.
 
 ### **Conclusion — Décembre 1916 : la fin d’un écran de fumée**
 
@@ -408,19 +405,19 @@ La crise qui s’ouvre alors ne sera plus contenue à la cour.
 
 ## 🔗 Personnages évoqués
 
-- Nicolas II
-- Alexandra Feodorovna
-- Alexis Nikolaïevitch
+- [[Nicolas II]]
+- [[Alexandra Feodorovna]]
+- [[Alexeï Nikolaïevitch Romanov|Alexis Nikolaïevitch]]
 - Georgui Gapone
 - Piotr Stolypine
-- Grigori Raspoutine
+- [[Grigori Raspoutine]]
 - Dmitri Bogrov
 - Alexandre Goutchkov
-- Vladimir Pourichkevitch
-- Félix Ioussoupov
+- [[Vladimir Pourichkevitch]]
+- [[Félix Youssoupov|Félix Ioussoupov]]
+- [[Grand-duc Dmitri Pavlovitch]]
 
 ## 🗺️ Lieux évoqués
 
-- [[Nom du lieu 1]]
-- [[Nom du lieu 2]]
+
 

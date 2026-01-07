@@ -1,6 +1,6 @@
 # {{Nom du personnage}}
 <span class="subtitle">{{Sous-titre – rôle, époque ou fonction}}</span>
-image
+
 
 
 <div class="meta">
@@ -13,9 +13,9 @@ image
 
 
 
+---
 
 ## 🔗 Présent dans
 
 - [[Nom du personnage 1]]
-- [[Nom du personnage 2]]
-- [[Nom du personnage 3]]
+
