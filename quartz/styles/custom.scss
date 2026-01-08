@@ -540,3 +540,17 @@ article blockquote a:hover {
   text-decoration-color: rgba(215,195,255,0.95);
 }
 
+/* Liens en violet, sans underline */
+article a {
+  color: #b48cff !important;     /* violet */
+  font-weight: 500 !important;   /* pas gras */
+  text-decoration: none !important;
+  background: none !important;
+  border: none !important;
+}
+
+article a:hover {
+  color: #e0d2ff !important;     /* violet clair au hover */
+  text-decoration: none !important;
+}
+

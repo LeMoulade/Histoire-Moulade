@@ -5,7 +5,7 @@
 
 ---
 
-## Grèce
+## 🇬🇷 Grèce
 
 
 - [Mythologie --- La mort d’Orion et son passage parmi les étoiles](<./Récits/Mythologie --- La mort d’Orion et son passage parmi les étoiles.md>)
@@ -13,8 +13,15 @@
 
 ---
 
+## 🇯🇵 Japon
 
-## Russie
+
+- [990–1010 --- La cour de Heian à l’apogée de sa culture ; pouvoir, lettres et illusion d’harmonie](<./Récits/990–1010 --- La cour de Heian à l’apogée de sa culture ; pouvoir, lettres et illusion d’harmonie.md>)
+
+
+---
+
+## 🇷🇺 Russie
 
 
 - [1905 – 1916 — La cour impériale russe face à la crise ; foi, pouvoir et désintégration](<./Récits/1905 - 1916 --- La cour impériale russe face à la crise ; foi, pouvoir et désintégration.md>)
