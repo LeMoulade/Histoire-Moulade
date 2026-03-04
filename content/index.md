@@ -1,41 +1,27 @@
+# 🇩🇪 Allemagne
 
-# 📜 Mouladopédia
+## XXeme siècle
 
-<span class="subtitle">Database de récits et épisodes majeurs de l’histoire mondiale</span>
-
----
-
-## 🇬🇷 Grèce
-
-
-- [Mythologie --- La mort d’Orion et son passage parmi les étoiles](<./Récits/Mythologie --- La mort d’Orion et son passage parmi les étoiles.md>)
-
-
----
-
-## 🇯🇵 Japon
-
-
-- [990–1010 --- La cour de Heian à l’apogée de sa culture ; pouvoir, lettres et illusion d’harmonie](<./Récits/990–1010 --- La cour de Heian à l’apogée de sa culture ; pouvoir, lettres et illusion d’harmonie.md>)
-
-
----
-
-## 🇷🇺 Russie
-
-
-- [1905 – 1916 — La cour impériale russe face à la crise ; foi, pouvoir et désintégration](<./Récits/1905 - 1916 --- La cour impériale russe face à la crise ; foi, pouvoir et désintégration.md>)
-
-
----
-
-
-<hr>
-
-## 🌍 Explorer autrement
-
-
-- 🎲 [Article au hasard](/random)
+- [[L'Allemagne wilhelmienne à son apogée (1900–1914)]]
 
 
 
+# 🇫🇷 France
+
+## Moyen-Âge tardif
+
+- [[Les derniers Capétiens (1270–1314)]]
+
+
+
+# 🇯🇵 Japon
+
+## Epoque Heian (794 - 1185)
+
+- [[La fin de l'époque Heian et la montée des clans guerriers (1150 - 1180)]]
+- [[La guerre de Genpei — Première phase (1180 - 1183)]]
+- [[La guerre de Genpei — Phase finale (1184 - 1185)]]
+
+## Epoque Kamakura (1185 - 1333)
+
+- [[La fondation du Shogunat de Kamakura (1185 - 1199)]]

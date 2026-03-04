@@ -15,7 +15,7 @@
 
 ---
 
-## 🔗 Présent dans
+## 🔗 Apparaît dans
 
 - [[Nom du personnage 1]]
 

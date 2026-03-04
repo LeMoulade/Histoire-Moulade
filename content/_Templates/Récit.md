@@ -53,6 +53,9 @@ Texte narratif…
 
 ---
 
+A suivre : 
+
+
 <hr>
 
 ## 🔗 Personnages évoqués
@@ -61,7 +64,3 @@ Texte narratif…
 - [[Nom du personnage 2]]
 - [[Nom du personnage 3]]
 
-## 🗺️ Lieux évoqués
-
-- [[Nom du lieu 1]]
-- [[Nom du lieu 2]]
