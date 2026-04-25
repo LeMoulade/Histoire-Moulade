@@ -1,7 +1,7 @@
 # L'Allemagne wilhelmienne à son apogée (1900–1914)
 
 
-_"Une vue panoramique de Berlin vers 1910, large boulevard Unter den Linden animé de militaires en uniforme prussien, de bourgeois en haut-de-forme et de automobiles naissantes, le dôme du Reichstag et la colonne de la Victoire visibles à l'horizon, usines fumantes en arrière-plan lointain symbolisant la puissance industrielle, bannières impériales noires-blanches-rouges flottant sur les bâtiments néo-classiques, style affiche Belle Époque allemande grand format aux couleurs vives et contrastées, sentiment d'un empire à son zénith débordant d'énergie et d'ambition"_
+![[L'Allemagne wilhelmienne à son apogée 1.jpg|60%]]
 
 
 <div class="meta">
@@ -21,7 +21,7 @@ Né dans la fumée des canons de Sedan et proclamé dans la galerie des Glaces d
 
 ## Guillaume II : l'empire d'un seul homme
 
-Au centre de tout se trouve un homme dont la personnalité allait peser sur les destinées de l'Europe avec une influence disproportionnée. **[[Guillaume II]]** était monté sur le trône en 1888, à vingt-neuf ans, après avoir congédié avec une brutalité désinvolte le chancelier [[Bismarck]] — l'architecte de l'empire, l'homme qui avait construit ce qu'il considérait manifestement comme son jouet personnel.
+Au centre de tout se trouve un homme dont la personnalité allait peser sur les destinées de l'Europe avec une influence disproportionnée. **[[Guillaume II]]** était monté sur le trône en 1888, à vingt-neuf ans, après avoir congédié avec une brutalité désinvolte le chancelier [[Otto von Bismarck]] — l'architecte de l'empire, l'homme qui avait construit ce qu'il considérait manifestement comme son jouet personnel.
 
 Guillaume II était un homme de contradictions déchirantes que son éducation et son infirmité n'avaient pas aidé à résoudre. Né avec un bras gauche atrophié à la suite d'un accouchement difficile, il avait passé son enfance à compenser cette imperfection physique par une démonstration permanente de virilité et de force — il chassait avec frénésie, paradait en uniforme, accumulait les tenues militaires de toutes les armées d'Europe, et parlait de guerre avec une légèreté qui glaçait régulièrement ses interlocuteurs les plus avertis.
 
@@ -29,7 +29,7 @@ Il était intelligent — ses lectures étaient vastes, ses intuitions parfois r
 
 Sa vision pour l'Allemagne tenait en un mot qu'il prononçait avec une emphase théâtrale : la _Weltpolitik_ — la politique mondiale. Bismarck avait construit un empire continental, satisfait de sa domination sur l'Europe centrale et soucieux avant tout d'éviter les coalitions hostiles. Guillaume voulait davantage : une marine capable de défier la Royal Navy, des colonies dans tous les continents, un "endroit au soleil" pour l'Allemagne parmi les grandes puissances impériales. La politique bismarckienne de prudence et de retenue lui semblait une humiliation déguisée en sagesse.
 
-> 🎨 **Prompt illustration :** _"Guillaume II debout sur le pont d'un cuirassé de la Hochseeflotte en mer du Nord vers 1910, jumelles à la main, regardant l'horizon avec une expression de défi mêlé d'envie, d'autres navires de guerre allemands visibles en formation derrière lui, ciel dramatique de mer du Nord entre nuages et trouées de lumière, style peinture maritime historique allemande grand format, sentiment d'ambition navale et de rivalité avec la puissance britannique"_
+![[L'Allemagne wilhelmienne à son apogée 2.jpg|60%]]
 
 ---
 
@@ -39,7 +39,7 @@ Derrière les ambitions personnelles du Kaiser se trouvait une réalité économ
 
 Les chiffres donnent le vertige. En 1900, l'Allemagne produisait environ 7,5 millions de tonnes d'acier par an — contre 5 millions pour la Grande-Bretagne, jadis reine incontestée de la production sidérurgique mondiale. En 1913, à la veille de la guerre, l'écart s'était encore creusé : 17 millions de tonnes allemandes contre 7,7 millions britanniques. La Ruhr — ce bassin industriel entre Dortmund, Essen et Duisbourg — était devenue le cœur industriel de l'Europe, un paysage de hauts fourneaux, de laminoirs et de chemin de fer que Jules Verne aurait hésité à imaginer.
 
-> 🎨 **Prompt illustration :** _"Les aciéries Krupp à Essen vers 1910, une vision impressionnante de hauts fourneaux crachant des flammes et de la fumée dans la nuit, ouvriers en silhouette manipulant des coulées d'acier incandescent, grues et structures métalliques à perte de vue, ciel rouge et noir, style affiche industrielle allemande belle époque avec une esthétique à mi-chemin entre la célébration et la mise en garde, puissance brute et beauté sombre de l'industrie lourde"_
+![[L'Allemagne wilhelmienne à son apogée 3.jpg|60%]]
 
 La chimie allemande était encore plus frappante dans sa domination mondiale. Les entreprises **BASF**, **Bayer** et **Hoechst** — les ancêtres de l'industrie chimique mondiale — contrôlaient en 1914 environ 90% du marché mondial des colorants synthétiques, et leurs laboratoires avaient accumulé une avance scientifique que nulle autre nation ne pouvait espérer combler rapidement. [[Fritz Haber]], qui allait en 1909 mettre au point la synthèse de l'ammoniac depuis l'azote atmosphérique, symbolisait cette Allemagne scientifique capable de transformer des équations de laboratoire en révolutions industrielles — et militaires.
 
@@ -51,11 +51,11 @@ Cette puissance économique était à la fois la force et le problème de l'Alle
 
 ## Acier contre acier : la course navale avec la Grande-Bretagne
 
-Si un homme incarne la transformation de l'ambition wilhelmienne en programme militaire concret, c'est l'amiral **[[Alfred von Tirpitz]]**. Grand, barbu, méthodique, convaincu que la puissance navale était la clé de la puissance mondiale — une thèse qu'il avait puisée dans les écrits de l'Américain [[Alfred Mahan]] sur l'influence de la mer sur l'histoire —, Tirpitz persuada Guillaume II de lancer en 1898 puis en 1900 deux lois navales prévoyant la construction d'une flotte de haute mer capable de défier la Royal Navy en mer du Nord.
+Si un homme incarne la transformation de l'ambition wilhelmienne en programme militaire concret, c'est l'amiral **[[Alfred von Tirpitz]]**. Grand, barbu, méthodique, convaincu que la puissance navale était la clé de la puissance mondiale — une thèse qu'il avait puisée dans les écrits de l'Américain [[Alfred Thayer Mahan]] sur l'influence de la mer sur l'histoire —, Tirpitz persuada Guillaume II de lancer en 1898 puis en 1900 deux lois navales prévoyant la construction d'une flotte de haute mer capable de défier la Royal Navy en mer du Nord.
 
 L'objectif déclaré de Tirpitz était ce qu'il appelait la "théorie du risque" : construire une flotte suffisamment puissante pour qu'une attaque britannique contre elle coûte à la Royal Navy des pertes telles que la Grande-Bretagne deviendrait vulnérable face à d'autres puissances navales. En clair : rendre le coût d'une guerre contre l'Allemagne prohibitif pour Londres.
 
-> 🎨 **Prompt illustration :** _"L'amiral Tirpitz en grand uniforme naval allemand bleu marine et or, imposant avec sa barbe bifide caractéristique, penché sur des plans de navires de guerre dans son bureau du ministère de la Marine à Berlin vers 1900, maquettes de cuirassés sur les étagères derrière lui, fenêtre donnant sur un port avec des coques en construction visibles, style portrait historique réaliste mêlant l'autorité du personnage et l'atmosphère d'une ambition navale méthodiquement planifiée"_
+![[L'Allemagne wilhelmienne à son apogée 4.jpg|60%]]
 
 La réponse britannique fut immédiate et décisive. En 1906, le Premier Lord de la Marine **[[Winston Churchill]]** — alors encore dans les premières phases d'une carrière qui allait durer un demi-siècle — et l'amiral **[[John Fisher]]** lancèrent la construction du HMS Dreadnought — un cuirassé révolutionnaire, plus rapide et plus puissant que tout ce qui existait, qui rendait instantanément obsolètes toutes les flottes de guerre existantes, y compris une partie de la flotte britannique elle-même.
 
@@ -79,7 +79,7 @@ La crise d'Agadir de 1911 fut une répétition aggravée du même scénario. Lor
 
 **[[David Lloyd George]]**, dans un discours resté célèbre, avertit explicitement que la Grande-Bretagne ne tolérerait pas qu'on traite les grandes nations "comme si elles ne comptaient pour rien dans le cabinet des nations". L'Allemagne recula encore, obtint un morceau de jungle congolaise sans valeur, et supporta l'humiliation supplémentaire de voir cette retraite célébrée en France et en Grande-Bretagne comme une victoire.
 
-> 🎨 **Prompt illustration :** _"La canonnière allemande SMS Panther ancrée dans la baie d'Agadir en juillet 1911, petit navire de guerre isolé face à la ville marocaine blanche sur sa colline, mer calme et ciel bleu méditerranéen contrastant avec la tension diplomatique de la scène, pas d'autres navires visibles symbolisant l'isolement diplomatique de l'Allemagne, style peinture maritime historique réaliste, atmosphère de défi solitaire et de calcul qui se retourne"_
+![[L'Allemagne wilhelmienne à son apogée 5.jpg|60%]]
 
 Ce qui est remarquable dans ces deux crises marocaines, c'est leur résultat systématiquement inverse aux intentions de leurs instigateurs. Chaque fois que l'Allemagne brandissait sa puissance pour desserrer les liens de l'Entente, elle les resserrait. Chaque fois qu'elle cherchait à démontrer que ses adversaires ne se soutiendraient pas, elle obtenait la démonstration du contraire. Et chaque humiliation diplomatique alimentait en Allemagne un sentiment de frustration et d'encerclement qui rendait la prochaine crise inévitable — et plus dangereuse.
 
@@ -91,7 +91,7 @@ Pour comprendre pourquoi une crise balkanique locale allait en 1914 embraser l'e
 
 D'un côté, la **Triplice** — ou Triple Alliance — liait depuis 1882 l'Allemagne, l'Autriche-Hongrie et l'Italie dans un pacte défensif. En théorie, c'était une alliance solide. En pratique, l'Italie, dont les aspirations territoriales se heurtaient à celles de l'Autriche-Hongrie sur les terres irrédentes de l'Adriatique, était un allié aussi peu fiable que prévisible dans son inconstance. La véritable ossature de la Triplice, c'était le duo austro-allemand — deux empires aux structures politiques différentes mais aux élites militaires partageant une même culture et une même crainte de l'encerclement.
 
-> 🎨 **Prompt illustration :** _"Une carte de l'Europe vers 1910 stylisée en illustration belle époque, les pays de la Triple Alliance colorés en rouge sombre, ceux de la Triple Entente en bleu profond, des flèches de tensions et de crises marocaines et balkaniques visibles, les mers entourées de symboles navals, des chaînes symbolisant les alliances reliant les capitales, style affiche politique illustrée grand format de la Belle Époque, graphisme clair et dramatique sur fond beige de parchemin"_
+![[L'Allemagne wilhelmienne à son apogée 6.png|60%]]
 
 De l'autre côté se construisait laborieusement ce qu'on allait appeler la **Triple Entente**. L'alliance franco-russe de 1894 en avait posé la première pierre — un rapprochement surprenant entre la République laïque et l'autocratie tsariste, mais que la logique de la puissance rendait inévitable face à l'Allemagne. L'Entente Cordiale franco-britannique de 1904 avait réglé les contentieux coloniaux franco-britanniques accumulés depuis des décennies et rapproché deux pays qui se méfiaient traditionnellement l'un de l'autre. Enfin, la convention anglo-russe de 1907 avait mis fin aux rivalités des deux empires en Asie centrale.
 
@@ -109,24 +109,24 @@ En Allemagne même, des organisations comme la **Ligue pangermaniste** diffusaie
 
 Dans les Balkans, l'effondrement progressif de l'Empire ottoman créait un vide que l'Autriche-Hongrie et la Russie se disputaient avec une intensité croissante, chacune soutenant ses nationalités clientes — les Serbes et les Bulgares pour Saint-Pétersbourg, les Croates et les Albanais pour Vienne. La Serbie, auréolée de ses victoires lors des guerres balkaniques de 1912–1913, était devenue le pôle d'attraction du nationalisme slave du Sud et la hantise des dirigeants austro-hongrois qui voyaient dans ses ambitions une menace directe à l'intégrité de leur empire multiethnique.
 
-> 🎨 **Prompt illustration :** _"Une rue de Belgrade vers 1912, manifestation nationaliste serbe enthousiaste, drapeaux serbes et slaves partout, jeunes hommes en vêtements civils brandissant des portraits du roi, affiches anti-autrichiennes sur les murs, atmosphère d'exaltation nationaliste et de détermination, style photographie colorisée belle époque ou illustration de presse réaliste, contraste entre l'enthousiasme populaire et l'inquiétude visible sur les visages des plus âgés"_
+![[L'Allemagne wilhelmienne à son apogée 7.png|60%]]
 
 En juin 1914, il ne manquait plus qu'une étincelle. Elle allait venir d'un jeune homme de dix-neuf ans sur un pont de Sarajevo.
 
 ---
 
-A suivre : La Première Guerre mondiale – L'offensive et l'enlisement (1914-1916)
+A suivre : [[La Première Guerre mondiale — L'offensive et l'enlisement (1914–1916)]]
 
 
 <hr>
 
 ## 🔗 Personnages évoqués
 
-- [[Alfred Mahan]]
+- [[Alfred Thayer Mahan]]
 - [[Alfred von Schlieffen]]
 - [[Alfred von Tirpitz]]
 - [[Bernhard von Bülow]]
-- [[Bismarck]]
+- [[Otto von Bismarck]]
 - [[David Lloyd George]]
 - [[Franz Conrad von Hötzendorf]]
 - [[Fritz Haber]]

@@ -1,7 +1,7 @@
-# La guerre de Genpei — Première phase (1180 - 1183)
+# La guerre de Genpei — Première phase
 
 
-![[La guerre de Genpei — Première phase.png|60%]]
+![[La guerre de Genpei — Première phase 1.jpg|60%]]
 
 
 <div class="meta">
@@ -27,8 +27,6 @@ Le **[[Prince Mochihito]]** était le deuxième fils de l'Empereur retiré [[Go-
 
 Il lança un _Rinjusen_, un édit impérial appelant tous les guerriers fidèles aux Minamoto et hostiles aux Taira à prendre les armes. Cet appel fut copié, distribué secrètement, transmis de main en main à travers les provinces comme une flamme que le vent emporte.
 
-![[La guerre de Genpei — Première phase 2.png|60%]]
-
 La réaction des Taira fut immédiate et brutale. Kiyomori lança ses troupes contre le prince avant même que la révolte ait pu s'organiser. Mochihito s'enfuit de Kyoto en catastrophe, cherchant refuge dans le monastère de Byōdō-in à Uji, au sud de la capitale. Minamoto no Yorimasa, comprenant que tout était perdu, se retira dans le jardin du temple et s'ouvrit le ventre — devenant ainsi l'un des premiers guerriers de l'histoire japonaise à pratiquer le _seppuku_ dans les circonstances codifiées qui allaient devenir légendaires. Le prince Mochihito fut rattrapé et tué peu après.
 
 L'opération militaire avait réussi. Mais Kiyomori avait fait une erreur fondamentale et irréparable : l'édit existait. Les copies circulaient déjà. Dans les provinces de l'Est, un homme lisait ces mots et sentait vingt ans d'exil se transformer en destin.
@@ -49,7 +47,7 @@ La réalité de la guerre rattrapa cependant Yoritomo très vite, et sans ménag
 
 La bataille fut un désastre. Les Minamoto furent écrasés dans la nuit et la confusion, dispersés dans les forêts de montagne. Yoritomo lui-même dut fuir à travers les bois, se cachant dans le creux d'un arbre selon les chroniques, avant de s'embarquer sur des bateaux de pêche pour traverser la baie de Tokyo et atteindre la province de Awa.
 
-![[La guerre de Genpei — Première phase 4.png|60%]]
+![[La guerre de Genpei — Première phase 2.jpg|60%]]
 
 Cette défaite aurait pu être fatale. Elle ne le fut pas — et c'est là que l'on mesure la trempe exceptionnelle de l'homme. Yoritomo rebondit avec une rapidité stupéfiante. Traversant vers l'est, il découvrit que sa réputation et le nom des Minamoto avaient fait leur travail en son absence : des clans guerriers du Kantō entier se levaient pour le rejoindre. En quelques semaines, la petite troupe dispersée d'Ishibashiyama s'était transformée en une armée de plusieurs dizaines de milliers d'hommes.
 
@@ -63,7 +61,7 @@ Enhardis par leur succès à Ishibashiyama, les Taira décidèrent d'étouffer l
 
 Les deux armées se firent face de part et d'autre de la rivière Fujigawa, aux pieds du mont Fuji, en octobre 1180. Ce qui se passa ensuite est entré dans la légende japonaise avec une touche d'humour cruel. Pendant la nuit, un vol de canards sauvages s'envola soudainement des marécages riverains avec un fracas d'ailes et de cris. Les soldats Taira, tendus et peu familiers de cette nature orientale hostile, crurent à une attaque nocturne des Minamoto. La panique se propagea dans les rangs comme une traînée de poudre. L'armée impériale se débanda et prit la fuite vers l'ouest sans qu'une seule flèche ait été échangée.
 
-![[La guerre de Genpei — Première phase 5.png|60%]]
+![[La guerre de Genpei — Première phase 3.jpg|60%]]
 
 La bataille qui n'eut pas lieu fut néanmoins une victoire éclatante pour Yoritomo. Elle révélait au grand jour le moral défaillant des troupes Taira hors de leurs bases occidentales, et elle consolidait la réputation des Minamoto comme une force irrésistible à l'est. Désormais, le Kantō était clairement territoire Minamoto. Yoritomo pouvait commencer à construire.
 
@@ -77,8 +75,6 @@ Ce que fit Yoritomo entre 1180 et 1183 est peut-être plus important que toutes 
 
 **Hōjō Tokimasa**, son beau-père et ancien geôlier devenu son plus proche allié, fut l'un des architectes de cette construction institutionnelle silencieuse qui allait durer sept siècles.
 
-![[La guerre de Genpei — Première phase 6.png|60%]]
-
 ---
 
 ## Le cousin foudroyant : Yoshinaka descend des montagnes (1183)
@@ -89,15 +85,13 @@ Pendant que Yoritomo construisait à l'est, un autre Minamoto faisait la guerre 
 
 En 1183, il infligea aux Taira une défaite catastrophique à la bataille d'Kurikara, dans les montagnes entre le Hokuriku et les plaines centrales. La stratégie fut d'une brutalité simple et efficace : ses hommes poussèrent un troupeau de bœufs portant des torches enflammées sur leurs cornes dans les rangs ennemis, provoquant une panique dévastatrice. L'armée Taira, prise en tenaille dans un défilé de montagne, fut précipitée dans les ravins par milliers. Ce fut l'une des défaites les plus écrasantes de la guerre de Genpei.
 
-![[La guerre de Genpei — Première phase 7.png|60%]]
+![[La guerre de Genpei — Première phase 4.jpg|60%]]
 
 La route de Kyoto était ouverte. Yoshinaka ne s'en priva pas.
 
 En août 1183, les troupes des Taira évacuèrent Kyoto dans une débâcle humiliante. Kiyomori était mort quelques mois plus tôt, en février 1181, emporté par une fièvre foudroyante après avoir gouverné le Japon d'une main de fer pendant vingt ans — certains chroniqueurs diront que même les flammes de son bûcher funèbre semblaient anormalement violentes, comme si la terre elle-même se débarrassait d'un poids trop lourd. En partant, les Taira emmenèrent avec eux le jeune Empereur [[Antoku Tennō]] et les insignes impériaux sacrés — le miroir, le sabre et le joyau — privant ainsi Kyoto du cœur symbolique de sa légitimité.
 
 Yoshinaka entra dans la capitale en vainqueur. Les habitants de Kyoto l'accueillirent avec soulagement — avant de déchanter rapidement face au comportement de ses soldats de montagne, peu habitués aux raffinements de la vie urbaine, qui pillèrent et terrifièrent la population avec une liberté déconcertante.
-
-![[La guerre de Genpei — Première phase 8.png|60%]]
 
 ---
 

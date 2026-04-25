@@ -1,6 +1,6 @@
 # Toba Tennō
-<span class="subtitle">L'empereur cocu</span>
-![[Toba Tennō.png|60%]]
+<span class="subtitle">L'empereur retiré tout-puissant</span>
+![[Toba Tennō.jpg|60%]]
 
 
 <div class="meta">
@@ -10,21 +10,7 @@
 
 ---
 
-Toba fut le 74e empereur du Japon, souverain dont le règne et la régence cloîtrée (1107-1156) furent marqués par l'humiliation conjugale, la manipulation politique et une haine pathologique envers son fils aîné Sutoku. Son règne de l'ombre depuis son "cloître" perpétua le système insei mais créa les conditions de la rébellion de Hōgen (1156) qui inaugura l'ère de domination militaire, faisant de lui le dernier grand empereur retiré de l'ancien ordre aristocratique.
-
-Intronisé à l'âge de 5 ans (1107), Toba régna sous la tutelle de son grand-père l'empereur retiré Shirakawa, figure dominante qui exerçait le pouvoir réel. Dès son adolescence (1117), Toba fut marié à Fujiwara no Shōshi (Taikenmon'in), épouse choisie par Shirakawa. Ce mariage scella son humiliation personnelle pour des décennies : Shōshi était ouvertement la maîtresse de Shirakawa lui-même, et le vieil empereur retiré continua cette relation adultère même après avoir marié sa maîtresse à son petit-fils.
-
-En 1119, Shōshi donna naissance à un fils, officiellement héritier de Toba mais vraisemblablement enfant de Shirakawa. Ce fils, le futur empereur Sutoku, fut cruellement surnommé "oji-jōkō" (oncle-empereur) - car il était probablement le fils (donc frère) plutôt que le petit-fils de Toba. Cette humiliation publique dissimulée sous euphémismes courtois empoisonna Toba, qui détesta Sutoku toute sa vie comme preuve vivante de son déshonneur conjugal.
-
-Durant son règne nominal (1107-1123), Toba fut impuissant sous la domination de Shirakawa. En 1123, il abdiqua en faveur de Sutoku (alors 5 ans), espérant exercer le pouvoir depuis son "cloître", mais Shirakawa vivait toujours et continua à dominer jusqu'à sa mort en 1129. Ce n'est qu'à 26 ans, après vingt-deux ans d'impuissance totale, que Toba put enfin exercer un pouvoir réel comme empereur retiré.
-
-Libéré de Shirakawa, Toba gouverna le Japon depuis son cloître pendant vingt-sept ans (1129-1156), période où il compensa ses humiliations passées par l'exercice obsessionnel du contrôle. Il marginalisa systématiquement Sutoku, refusant de lui accorder le moindre pouvoir réel même après son abdication (1141). Quand l'empereur Konoe (fils de Toba et d'une autre épouse, donc fils légitime aimé) mourut sans héritier (1155), Toba ignora délibérément le fils de Sutoku (héritier logique) et plaça sur le trône Go-Shirakawa, un autre de ses fils légitimes - ultime humiliation pour Sutoku.
-
-Cette décision, motivée par haine personnelle plutôt que logique dynastique, créa les conditions de la crise de succession. Toba régna en accumulant richesses, domaines et pouvoir, pratiquant le népotisme envers ses enfants légitimes tout en ostracisant Sutoku. Il patronna les arts, la construction de temples magnifiques, et mena une vie dissolue entretenant de nombreuses concubines. Son règne prolongé permit la stabilité superficielle mais masquait des ressentiments accumulés.
-
-Toba mourut en juillet 1156 à l'âge de 54 ans. Moins d'un mois après sa mort, la rébellion de Hōgen éclata (11 juillet 1156) - Sutoku tentant de renverser Go-Shirakawa dans un conflit qui mobilisa pour la première fois les clans guerriers Taira et Minamoto. La défaite de Sutoku marqua la fin de l'ordre aristocratique pur et le début de la domination militaire sur la politique japonaise. Ironiquement, la haine obsessionnelle de Toba envers Sutoku déclencha la chaîne d'événements qui détruisit le système même qu'il avait incarné.
-
-Toba représente le pouvoir décadent de l'aristocratie de Heian - cultivé, raffiné, mais politiquement dysfonctionnel, gouvernant par rancunes personnelles plutôt que raison d'État. Son incapacité à transcender son humiliation conjugale et à traiter Sutoku équitablement transforma un problème personnel en crise nationale. Il fut le dernier empereur retiré à exercer un pouvoir politique significatif avant que les guerriers ne s'emparent définitivement du contrôle.
+Toba est le soixante-quatorzième empereur du Japon, dont le règne officiel de 1107 à 1123 masque une réalité bien plus longue et bien plus substantielle : il exerça en effet le pouvoir de facto sur le Japon pendant plus de trente ans depuis sa retraite, sous le système du _insei_, gouvernement par empereurs retirés. Élève puis rival de son propre grand-père retiré Shirakawa — qui domina la cour jusqu'à sa mort en 1129 — il prit enfin les rênes du pouvoir réel à cette date et les conserva avec autorité jusqu'à sa propre mort en 1156, manœuvrant habilement entre les grandes familles aristocratiques et les clans guerriers pour maintenir la suprématie de la cour impériale. Sa haine viscérale pour l'empereur Sutoku — qu'il soupçonnait d'être le fils illégitime de Shirakawa et qu'il traita avec une cruauté froide tout au long de sa vie, allant jusqu'à l'exclure de son chevet à l'agonie — fut l'une des causes directes de la guerre de Hōgen en 1156, déclenchée quelques semaines seulement après sa mort par les partisans de Sutoku qui espéraient enfin renverser la situation. Figure centrale de la politique japonaise de la première moitié du XIIe siècle, Toba incarne le système du _insei_ à son apogée, moment charnière où la cour impériale exerçait encore une autorité réelle avant que les clans guerriers ne la réduisent progressivement à une fiction.
 
 
 ---

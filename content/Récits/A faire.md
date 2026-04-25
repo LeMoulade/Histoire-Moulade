@@ -1,34 +1,6 @@
 Époque de Kamakura (masamune)
 
-### **LEÇON 5 : Ascension des Hōjō - Les régents au pouvoir (1199-1221)**
 
-_De vassaux à maîtres réels du Japon_
-
-- Faiblesse des shoguns Yoriie et Sanetomo
-- Hōjō Tokimasa établit la régence shikken (1203)
-- Hōjō Masako, l'"Ama-shōgun" (1203-1225)
-- Assassinat de Sanetomo et fin de la lignée Minamoto (1219)
-- Shoguns fantoches de la famille Fujiwara puis impériale
-
-### **LEÇON 6 : La rébellion de Jōkyū (1221)**
-
-_Quand l'empereur tenta de reprendre le pouvoir_
-
-- L'empereur retraité Go-Toba défie le bakufu
-- Mobilisation rapide des forces de Kamakura
-- Victoire écrasante du bakufu
-- Exil de trois empereurs retraités
-- Consolidation définitive du pouvoir militaire
-
-### **LEÇON 7 : Apogée du bakufu Hōjō (1221-1268)**
-
-_Gouvernement efficace et stabilité relative_
-
-- Hōjō Yasutoki et le code Jōei Shikimoku (1232)
-- Administration provinciale renforcée
-- Système du double gouvernement : Kyoto et Kamakura
-- Régence collective et conseil des régents
-- Gestion des terres et arbitrage des disputes
 
 ### **LEÇON 8 : Première invasion mongole - La menace venue du continent (1266-1274)**
 
@@ -104,41 +76,6 @@ _Effondrement soudain d'un système centenaire_
 Moyen Age tardif Français (jean de gerson)
 
 
-### **LEÇON 2 : La crise dynastique capétienne (1314-1328)**
-
-_Trois rois en quatorze ans et la fin d'une lignée_
-
-- Mort de Philippe le Bel et malédiction des Templiers
-- Louis X, Philippe V, Charles IV : règnes brefs et sans héritiers mâles
-- L'affaire des brus : scandales et répudiations
-- Application de la loi salique et exclusion des femmes du trône
-- Extinction des Capétiens directs (1328)
-
----
-
-### **LEÇON 3 : L'avènement des Valois (1328-1337)**
-
-_Une nouvelle dynastie sur fond de rivalités_
-
-- Philippe VI, premier roi Valois
-- Revendication d'Édouard III d'Angleterre sur le trône de France
-- Bataille de Cassel et domination flamande (1328)
-- Tensions franco-anglaises en Guyenne et en Écosse
-- Vers l'inévitable confrontation
-
----
-
-### **LEÇON 4 : Les débuts de la Guerre de Cent Ans (1337-1360)**
-
-_Les premières catastrophes françaises_
-
-- Déclaration de guerre et offensive anglaise (1337)
-- Désastre naval de l'Écluse (1340)
-- Défaite terrestre de Crécy (1346) : l'arc long contre la chevalerie
-- Chute de Calais (1347)
-- La Peste Noire ravage le royaume (1347-1352)
-
----
 
 ### **LEÇON 5 : La Peste Noire et ses conséquences (1347-1360)**
 
@@ -283,143 +220,15 @@ _La France sort du Moyen-Âge par les armes_
 - Marignan (1515) : François Ier ouvre l'ère de la Renaissance française
 
 
+
+
+
+
 XXeme siècle Allemagne (Adolf Einchman)
 
 
 
-### **LEÇON 2 : La Première Guerre mondiale – L'offensive et l'enlisement (1914-1916)**
 
-_La guerre fraîche et joyeuse qui devint un enfer_
-
-- Assassinat de François-Ferdinand et engrenage des alliances (juillet 1914)
-- Plan Schlieffen : la guerre éclair qui échoue à la Marne (septembre 1914)
-- Guerre des tranchées : le front Ouest se fige
-- Verdun et la Somme (1916) : saignée des deux côtés
-- Guerre sous-marine à outrance et blocus britannique
-
----
-
-### **LEÇON 3 : La Première Guerre mondiale – Épuisement et défaite (1917-1918)**
-
-_Un empire à bout de souffle_
-
-- Révolution russe et paix à l'Est : traité de Brest-Litovsk (1917-1918)
-- Entrée en guerre des États-Unis (1917) : le rapport de forces bascule
-- Grandes offensives de printemps de Ludendorff (1918) : dernier souffle
-- Effondrement du front, mutineries et révolution en Allemagne (novembre 1918)
-- Armistice du 11 novembre : la "trahison" selon la légende du "coup de poignard dans le dos"
-
----
-
-### **LEÇON 4 : La République de Weimar – Naissance dans la tourmente (1918-1923)**
-
-_Une démocratie née vaincue_
-
-- Abdication de Guillaume II et proclamation de la République (novembre 1918)
-- Traité de Versailles : humiliation, réparations et "diktat" (1919)
-- Spartakisme et révolution communiste écrasée : Rosa Luxemburg assassinée (1919)
-- Putsch de Kapp (1920) et instabilité politique chronique
-- Hyperinflation catastrophique : la monnaie réduite à néant (1923)
-
----
-
-### **LEÇON 5 : La République de Weimar – Les années dorées (1924-1929)**
-
-_Une fragile stabilisation_
-
-- Plan Dawes : rééchelonnement des réparations et afflux de capitaux américains
-- Stresemann : réconciliation avec la France, entrée à la Société des Nations (1926)
-- Relative prospérité économique et effervescence culturelle
-- Berlin : capitale mondiale du jazz, du cinéma expressionniste et du cabaret
-- Bauhaus, Brecht, Fritz Lang : l'Allemagne au cœur de la modernité
-
----
-
-### **LEÇON 6 : La République de Weimar – L'agonie (1929-1933)**
-
-_La crise économique tue la démocratie_
-
-- Krach de 1929 : 6 millions de chômeurs en Allemagne
-- Montée fulgurante du NSDAP d'Adolf Hitler
-- Paralysie parlementaire et gouvernements par décret d'urgence
-- Intrigues des élites conservatrices pour utiliser Hitler
-- Hitler nommé chancelier par Hindenburg (30 janvier 1933)
-
----
-
-### **LEÇON 7 : La prise de pouvoir nazie et le IIIe Reich (1933-1935)**
-
-_La démocratie dévorée de l'intérieur_
-
-- Incendie du Reichstag et loi des pleins pouvoirs (février-mars 1933)
-- Gleichschaltung : mise au pas de toutes les institutions
-- Nuit des Longs Couteaux : Hitler élimine ses rivaux internes (juin 1934)
-- Mort de Hindenburg : Hitler cumule tous les pouvoirs (août 1934)
-- Lois de Nuremberg : persécution légalisée des Juifs (1935)
-
----
-
-### **LEÇON 8 : Le IIIe Reich – Réarmement et expansionnisme (1935-1939)**
-
-_Vers la guerre, étape par étape_
-
-- Réarmement massif et service militaire obligatoire rétabli (1935)
-- Remilitarisation de la Rhénanie sans réaction alliée (1936)
-- Axe Rome-Berlin et pacte Anti-Komintern avec le Japon
-- Anschluss : annexion de l'Autriche (mars 1938)
-- Munich : annexion des Sudètes avec l'aval franco-britannique (septembre 1938)
-- Invasion de la Tchécoslovaquie et pacte germano-soviétique (1939)
-
----
-
-### **LEÇON 9 : La Seconde Guerre mondiale – La domination européenne (1939-1941)**
-
-_La Wehrmacht au sommet_
-
-- Invasion de la Pologne et début de la guerre (septembre 1939)
-- Blitzkrieg à l'Ouest : défaite française en six semaines (mai-juin 1940)
-- Bataille d'Angleterre : premier échec de la Luftwaffe (1940)
-- Opération Barbarossa : invasion de l'URSS (juin 1941)
-- Progression foudroyante puis premières résistances soviétiques
-
----
-
-### **LEÇON 10 : La Shoah – Le génocide industriel (1941-1945)**
-
-_Le crime le plus systématique de l'histoire_
-
-- Einsatzgruppen : massacres de masse à l'Est dès 1941
-- Conférence de Wannsee : planification de la "Solution finale" (janvier 1942)
-- Réseau de camps d'extermination : Auschwitz, Treblinka, Sobibor…
-- Six millions de Juifs assassinés, ainsi que Roms, handicapés, opposants
-- Complicité des États collaborateurs et résistances internes limitées
-
----
-
-### **LEÇON 11 : La Seconde Guerre mondiale – La défaite (1942-1945)**
-
-_Le tournant et l'effondrement_
-
-- Stalingrad : capitulation de la 6e armée, tournant décisif (février 1943)
-- Débarquement allié en Normandie (juin 1944)
-- Attentat manqué contre Hitler : complot du 20 juillet 1944
-- Offensive soviétique à l'Est et percée alliée à l'Ouest (1944-1945)
-- Chute de Berlin, suicide de Hitler, capitulation sans condition (mai 1945)
-
----
-
-### **LEÇON 12 : L'Allemagne occupée et reconstruite (1945-1949)**
-
-_Année zéro : tout rebâtir sur les ruines_
-
-- Occupation quadripartite : Américains, Soviétiques, Britanniques, Français
-- Procès de Nuremberg : jugement des crimes de guerre (1945-1946)
-- Dénazification, démilitarisation, démembrement
-- Plan Marshall : aide américaine massive à l'Ouest (1947)
-- Blocus de Berlin et pont aérien (1948-1949)
-- Naissance de la RFA et de la RDA : l'Allemagne coupée en deux (1949)
-
----
 
 ### **LEÇON 13 : Le miracle économique ouest-allemand (1949-1963)**
 

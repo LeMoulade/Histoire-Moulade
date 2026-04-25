@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: ssnf5-eaydb
+created: 2025-09-15T20:04:26+02:00

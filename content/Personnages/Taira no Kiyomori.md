@@ -1,6 +1,6 @@
 # Taira no Kiyomori
 <span class="subtitle">Le premier dictateur militaire japonais</span>
-![[Taira no Kiyomori.png|60%]]
+![[Taira no Kiyomori.jpg|60%]]
 
 
 <div class="meta">
@@ -10,25 +10,7 @@
 
 ---
 
-Taira no Kiyomori fut le premier guerrier à dominer totalement la cour impériale japonaise, établissant une quasi-dictature militaire (1160-1181) qui préfigura le système des shoguns. Chef du clan Taira, il accumula un pouvoir sans précédent pour un non-aristocrate, plaçant son petit-fils sur le trône impérial, mais son arrogance et sa corruption provoquèrent la rébellion qui détruisit son clan et inaugura l'ère des gouvernements militaires.
-
-Fils de Taira no Tadamori, Kiyomori hérita du commandement du clan Taira basé dans les provinces occidentales, contrôlant des routes maritimes lucratives et le commerce avec la Chine des Song. Contrairement à l'aristocratie de Kyoto qui méprisait le commerce, Kiyomori comprit que la richesse économique générait le pouvoir politique. Il développa le port de Fukuhara (actuelle Kobe), accumulant des fortunes commerciales qui financèrent son ascension politique.
-
-Sa percée politique vint lors de la rébellion de Hōgen (1156), où il s'allia avec l'empereur Go-Shirakawa contre l'empereur retiré Sutoku. Commandant les forces loyalistes aux côtés de Minamoto no Yoshitomo, Kiyomori mena l'audacieuse attaque nocturne incendiant le palais Shirakawa, écrasant les rebelles. Contrairement à Yoshitomo mal récompensé, Kiyomori reçut honneurs et domaines généreux - début de sa fortune politique.
-
-Trois ans plus tard, lors de la rébellion de Heiji (1159-1160), Kiyomori démontra son génie stratégique. Absent de Kyoto lors du coup d'État de Fujiwara no Nobuyori et Yoshitomo, il revint précipitamment et, plutôt que d'attaquer frontalement, usa de ruse pour faire évader secrètement les empereurs captifs vers sa résidence fortifiée de Rokuhara. Privés de légitimité impériale, les rebelles furent facilement écrasés. Kiyomori fit exécuter tous les Minamoto adultes, épargnant seulement trois jeunes garçons - décision fatale motivée par clémence de sa belle-mère.
-
-Après Heiji, Kiyomori devint l'homme le plus puissant du Japon. Il accumula méthodiquement titres et influence : gouverneur de provinces stratégiques, contrôle des nominations bureaucratiques, monopole sur le commerce maritime. En 1167, il devint daijō-daijin (grand chancelier), premier guerrier à atteindre ce rang suprême de la bureaucratie civile. Son ascension scandalisait l'aristocratie qui le méprisait comme parvenu militaire souillant la cour raffinée.
-
-Kiyomori utilisa la stratégie matrimoniale des Fujiwara : il maria sa fille Tokuko à l'empereur Takakura. De cette union naquit en 1178 le prince qui devint l'empereur Antoku (1180), faisant de Kiyomori le grand-père maternel de l'empereur - position de pouvoir suprême. Il plaça des Taira à tous les postes clés : sur 60 gouverneurs provinciaux, plus de 30 étaient des Taira. La cour devint littéralement rouge (couleur du clan Taira), d'où l'expression "ceux qui ne sont pas Taira ne sont pas humains".
-
-Mais ce pouvoir absolu corrompit absolument. Kiyomori devint arrogant, brutal, népotiste. Il força l'abdication de Go-Shirakawa (1179), assignant l'empereur retiré à résidence et confisquant ses domaines - rupture spectaculaire qui aliéna même ses alliés. En 1180, dans un geste mégalomane, il tenta de déplacer la capitale de Kyoto vers Fukuhara, sa base commerciale, mais dut reculer après six mois face à l'opposition universelle.
-
-Son erreur fatale fut de sous-estimer les fils survivants de Yoshitomo. En 1180, le prince Mochihito lança un appel secret à la rébellion. Minamoto no Yoritomo, exilé depuis vingt ans, se souleva dans le Kantō. Kiyomori, vieillissant et malade, envoya armée après armée, mais ses généraux furent battus. La guerre de Genpei (1180-1185) commença, opposant Taira et Minamoto dans un conflit national qui embrasa le Japon.
-
-En février 1181, alors que la situation militaire se détériorait, Kiyomori mourut brutalement de fièvre (probablement dysenterie ou paludisme). Selon le Heike Monogatari, son corps brûlait tellement qu'on devait l'asperger d'eau constamment, et ses derniers mots furent : "Ne faites aucune offrande pour mon salut - placez simplement la tête de Yoritomo sur ma tombe." Il mourut à 64 ans, furieux et vaincu, sans voir l'anéantissement total de son clan quatre ans plus tard à Dan-no-ura (1185).
-
-Kiyomori fut un personnage transitoire crucial : trop militaire pour l'ancienne aristocratie, trop corrompu par la cour pour les nouveaux guerriers. Il démontra qu'un clan militaire pouvait dominer l'État, mais aussi que s'installer à Kyoto corrompait. Son successeur Minamoto no Yoritomo apprit de ses erreurs, établissant son bakufu loin de Kyoto à Kamakura. Kiyomori ouvrit la voie à sept siècles de gouvernement militaire, mais son clan paya le prix de cette transition.
+Taira no Kiyomori est l'homme d'État et chef de guerre le plus puissant du Japon de son époque, première figure dans l'histoire japonaise à avoir exercé un contrôle quasi absolu sur la cour impériale en tant que chef d'un clan militaire plutôt que comme aristocrate de sang impérial ou Fujiwara. Issu d'un clan guerrier longtemps au service de la cour, il gravit les échelons du pouvoir avec une habileté et une énergie remarquables, s'imposant comme l'arbitre indispensable des conflits politiques de son temps — notamment lors des guerres de Hōgen en 1156 et de Heiji en 1160, où sa victoire décisive sur les Minamoto lui laissa le champ libre. Parvenu au sommet, il accumula titres, richesses et influences avec une avidité qui choqua la sensibilité aristocratique de la cour de Heian, plaçant ses proches aux postes clés, mariant sa fille Tokuko à l'empereur pour engendrer le futur Antoku, et déplaçant brièvement la capitale à Fukuhara. Développant le commerce maritime avec la Chine et construisant le célèbre sanctuaire d'Itsukushima, il fut aussi un mécène de grande envergure. Mais son autoritarisme croissant et son mépris des conventions aristocratiques suscitèrent une opposition grandissante qui culmina dans le soulèvement Minamoto de 1180 — guerre de Genpei qu'il ne vécut pas assez longtemps pour voir se conclure, emporté par une fièvre foudroyante en 1181.
 
 
 ---

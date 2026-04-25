@@ -1,7 +1,7 @@
-# La guerre de Genpei — Phase finale (1184 - 1185)
+# La guerre de Genpei — Phase finale
 
 
-![[La guerre de Genpei — Phase finale.png|60%]]
+![[La guerre de Genpei — Phase finale 1.jpg|60%]]
 
 
 <div class="meta">
@@ -29,7 +29,7 @@ Yoshitsune. Le nom mérite qu'on s'y arrête un instant.
 
 Né en 1159, la même année que la défaite de Heiji qui avait dispersé son clan, il n'avait que quelques mois lorsque son père [[Minamoto no Yoshitomo]] avait été tué. Confié aux moines guerriers du mont Kurama, il avait grandi entre les cryptomères géants et les sentiers de montagne, apprenant secrètement le maniement du sabre, dit la légende, auprès des _tengu_ — ces esprits des forêts mi-hommes mi-oiseaux que la tradition japonaise associe à la maîtrise martiale absolue. Quand il rejoignit enfin Yoritomo en 1180, il était un inconnu de vingt et un ans. Il allait devenir en dix-huit mois le général le plus brillant que le Japon médiéval ait jamais vu.
 
-![[La guerre de Genpei — Phase finale 2.png|60%]]
+![[La guerre de Genpei — Phase finale 2.jpg|60%]]
 
 En février 1184, Yoshitsune marcha sur Kyoto avec une rapidité qui laissa Yoshinaka sans le temps de réagir. Celui-ci tenta une résistance désespérée, cherchant à fuir vers le nord après une dernière bataille à Kyoto même où ses fidèles tombèrent un à un. Il fut rattrapé près du lac Biwa, dans les champs enneigés d'Awazu. Son cheval s'embourba dans les rizières gelées. Cerné, sans espoir, Yoshinaka se trancha la gorge d'une flèche selon certaines versions, se suicida selon d'autres. Il mourut comme il avait vécu — dans la violence brute et sans cérémonie, loin des calculs politiques qui lui avaient toujours été étrangers.
 
@@ -47,7 +47,7 @@ Il divisa son armée. Noriyori attaquerait de front, par l'ouest, pour fixer l'a
 
 Ce qui suivit est l'une des scènes les plus célèbres de l'histoire militaire japonaise. Parvenu au sommet des falaises avec ses hommes, Yoshitsune regarda en bas la pente vertigineuse — presque verticale, couverte de ronces et de pierres — qui plongeait vers le camp Taira. Selon le _Heike Monogatari_, la chronique épique de la guerre de Genpei, il envoya d'abord un cerf s'élancer dans la pente pour voir si la descente était possible. L'animal dévala sans tomber. Yoshitsune sourit et ordonna la charge.
 
-![[La guerre de Genpei — Phase finale 3.png|60%]]
+![[La guerre de Genpei — Phase finale 3.jpg|60%]]
 
 Les cavaliers dévalèrent la falaise. L'impact sur le flanc et les arrières du camp Taira fut dévastateur. Pris entre l'attaque frontale de Noriyori et cette charge impossible venue des hauteurs, les défenseurs se débandèrent dans la panique. Nombre d'entre eux se précipitèrent vers leurs bateaux pour fuir par la mer. Le camp fut incendié.
 
@@ -89,7 +89,7 @@ Puis le courant tourna. Littéralement.
 
 À mesure que la marée changeait, les eaux du détroit inversèrent leur course. Ce qui avait propulsé les Taira vers l'avant devenait maintenant un frein, puis une force adverse. Et à ce moment précis, un événement décisif se produisit : des guerriers Taira commencèrent à passer du côté Minamoto. Des clans alliés des Taira, voyant le vent tourner — au sens propre comme au sens figuré — décidèrent de changer de camp. Parmi eux, **[[Taguchi Shigeyoshi]]**, commandant d'une partie de la flotte Taira, qui retourna ses navires contre ses propres alliés et, fait crucial, révéla aux Minamoto où se trouvait le navire impérial transportant le jeune Empereur [[Antoku Tennō]].
 
-![[La guerre de Genpei — Phase finale 5.png|60%]]
+![[La guerre de Genpei — Phase finale 5.jpg|60%]]
 
 Ce que les archers Minamoto firent ensuite fut d'une cruauté stratégique glaçante : sur ordre, ils dirigèrent leurs flèches non pas sur les guerriers ennemis, mais sur les rameurs et les timoniers des navires Taira. Sans pilotes, les navires devenaient incontrôlables dans les courants violents du détroit. La flotte Taira commença à se disloquer, les navires tournant sur eux-mêmes, se heurtant, perdant toute cohérence tactique.
 
@@ -107,7 +107,7 @@ La grand-mère de l'Empereur Antoku — **[[Taira no Tokiko]]**, épouse du déf
 
 Elle sauta. L'enfant dans ses bras. Ils disparurent ensemble dans les eaux tourbillonnantes du détroit.
 
-![[La guerre de Genpei — Phase finale 6.png|60%]]
+![[La guerre de Genpei — Phase finale 6.jpg|60%]]
 
 D'autres dames de cour suivirent, portant les insignes impériaux sacrés. Le miroir sacré fut récupéré. Le joyau sacré fut récupéré. Mais le sabre sacré — le Kusanagi, l'une des trois reliques divines fondatrices de la légitimité impériale japonaise — coula avec ceux qui le portaient dans les profondeurs de Dan-no-Ura, où il repose encore selon la tradition.
 
