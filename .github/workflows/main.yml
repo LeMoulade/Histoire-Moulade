@@ -21,17 +21,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node 22 (required by Quartz 4.5.x)
+      - name: Setup Node 22
         uses: actions/setup-node@v4
         with:
-          node-version: '22'   # <-- important
+          node-version: '22'
           cache: 'npm'
-
-      - name: Ensure npm ≥ 10.9.2
-        run: |
-          npm i -g npm@latest
-          npm -v
-          node -v
 
       - name: Install deps
         run: npm ci || npm install
