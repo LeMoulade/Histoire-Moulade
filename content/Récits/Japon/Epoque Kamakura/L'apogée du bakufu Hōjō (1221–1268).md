@@ -150,7 +150,7 @@ En 1268, des envoyés mongols arrivèrent au Japon portant une lettre de **Kubil
 
 ---
 
-A suivre : 
+A suivre : [[Première invasion mongole — La menace venue du continent (1266 - 1274)]]
 
 
 <hr>

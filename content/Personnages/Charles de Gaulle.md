@@ -18,4 +18,5 @@ Charles de Gaulle est l'homme d'État français le plus important du XXe siècle
 ## 🔗 Apparaît dans
 
 - [[La Seconde Guerre mondiale – La domination européenne (1939-1941)]]
+- [[Le miracle économique ouest-allemand (1949 - 1963)]]
 

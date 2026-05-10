@@ -18,4 +18,5 @@ Simone Veil est une femme d'État et magistrate française dont le destin except
 ## 🔗 Apparaît dans
 
 - [[La Shoah — Le génocide industriel (1941 - 1945)]]
+- [[Le miracle économique ouest-allemand (1949 - 1963)]]
 

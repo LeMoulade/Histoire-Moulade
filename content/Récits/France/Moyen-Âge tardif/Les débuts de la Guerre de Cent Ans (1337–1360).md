@@ -13,7 +13,7 @@
 
 ## Un royaume qui n'imaginait pas être vaincu
 
-La France de [[Philippe VI]] était, sur le papier, la première puissance de la chrétienté occidentale. Son royaume comptait seize millions d'âmes — trois fois la population anglaise. Sa chevalerie était la plus renommée d'Europe, forgée par des siècles de croisades et de tournois, équipée des meilleures armures que les artisans lombards et rhénans pouvaient produire. Ses ressources fiscales dépassaient celles de tous ses voisins. Et sa culture — cette civilisation gothique rayonnante dont les cathédrales perçaient les nuages et dont les universités attiraient des étudiants de tout le continent — conférait à ses élites une assurance qui frôlait l'arrogance.
+La France de [[Philippe VI de Valois]] était, sur le papier, la première puissance de la chrétienté occidentale. Son royaume comptait seize millions d'âmes — trois fois la population anglaise. Sa chevalerie était la plus renommée d'Europe, forgée par des siècles de croisades et de tournois, équipée des meilleures armures que les artisans lombards et rhénans pouvaient produire. Ses ressources fiscales dépassaient celles de tous ses voisins. Et sa culture — cette civilisation gothique rayonnante dont les cathédrales perçaient les nuages et dont les universités attiraient des étudiants de tout le continent — conférait à ses élites une assurance qui frôlait l'arrogance.
 
 Cette assurance allait se briser contre une réalité que personne dans les cours de France n'avait voulu voir venir : une révolution militaire silencieuse accomplie par un adversaire que l'on méprisait, avec une arme que l'on considérait comme vulgaire, et une doctrine tactique que personne n'avait pris la peine d'étudier.
 
@@ -113,7 +113,7 @@ La mortalité varia considérablement selon les régions, la densité de populat
 
 Les villages abandonnés se comptaient par centaines. Des terres agricoles retournèrent à la friche faute de bras pour les cultiver. Des monastères entiers furent décimés. Les livres de comptes et les registres paroissiaux s'arrêtèrent brutalement à mi-page, reprenant parfois des mois plus tard sous une main différente — celle du survivant qui avait pris la plume du mort.
 
-**[[Jean le Bon]]**, qui succéda à Philippe VI en 1350, hérita d'un royaume amputé d'un tiers de sa population, économiquement déstabilisé par la chute brutale de la main d'œuvre et la perturbation des échanges commerciaux, et socialement traumatisé par une mort de masse dont personne ne comprenait les causes et dont beaucoup cherchaient des coupables.
+**[[Jean II le Bon]]**, qui succéda à Philippe VI en 1350, hérita d'un royaume amputé d'un tiers de sa population, économiquement déstabilisé par la chute brutale de la main d'œuvre et la perturbation des échanges commerciaux, et socialement traumatisé par une mort de masse dont personne ne comprenait les causes et dont beaucoup cherchaient des coupables.
 
 Ces coupables, certains crurent les trouver dans les communautés juives — accusées d'avoir empoisonné les puits. Les pogroms se multiplièrent en France, en Allemagne et en Suisse, produisant des massacres que les autorités — quand elles ne les encourageaient pas — s'avérèrent incapables ou peu désireuses d'empêcher. **[[Clément VI]]** publia des bulles condamnant ces massacres et soulignant que la peste frappait aussi bien les communautés juives que chrétiennes. Peu l'écoutèrent.
 
@@ -155,7 +155,7 @@ Il mourut à Londres quelques mois plus tard, toujours prisonnier.
 
 ---
 
-A suivre : 
+A suivre : [[La Peste Noire et ses conséquences (1347–1360)]]
 
 
 <hr>
@@ -171,11 +171,11 @@ A suivre :
 - [[Guy de Chauliac]]
 - [[Hugues Quiéret]]
 - [[Jean l'Aveugle]]
-- [[Jean le Bon]]
+- [[Jean II le Bon]]
 - [[Jean Froissart]]
 - [[Jean de Vienne]]
 - [[Nicolas Béhuchet]]
 - [[Philippa de Hainaut]]
 - [[Philippe II de Bourgogne]]
-- [[Philippe VI]]
+- [[Philippe VI de Valois]]
 

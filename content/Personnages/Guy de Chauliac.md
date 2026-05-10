@@ -18,4 +18,5 @@ Guy de Chauliac est un médecin et chirurgien français considéré comme le plu
 ## 🔗 Apparaît dans
 
 - [[Les débuts de la Guerre de Cent Ans (1337–1360)]]
+- [[La Peste Noire et ses conséquences (1347–1360)]]
 

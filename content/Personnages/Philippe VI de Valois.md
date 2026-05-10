@@ -19,4 +19,5 @@ Philippe VI est le premier roi de France de la dynastie des Valois, dont l'avèn
 
 - [[La crise dynastique capétienne (1314–1328)]]
 - [[L'avènement des Valois (1328–1337)]]
+- [[La Peste Noire et ses conséquences (1347–1360)]]
 

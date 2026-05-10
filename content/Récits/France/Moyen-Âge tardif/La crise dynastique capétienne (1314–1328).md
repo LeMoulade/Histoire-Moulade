@@ -25,7 +25,7 @@ La vitesse de cet effondrement dynastique, dans une famille qui avait semblé b�
 
 ## Louis X le Hutin : le premier roi maudit (1314–1316)
 
-**[[Louis X]]** avait vingt-cinq ans à la mort de son père. Le surnom que l'histoire lui avait attribué de son vivant — "le Hutin", le querelleur, l'irascible — ne suggérait pas un tempérament propice à l'exercice du pouvoir dans les circonstances difficiles qu'il allait affronter.
+**[[Louis X de France]]** avait vingt-cinq ans à la mort de son père. Le surnom que l'histoire lui avait attribué de son vivant — "le Hutin", le querelleur, l'irascible — ne suggérait pas un tempérament propice à l'exercice du pouvoir dans les circonstances difficiles qu'il allait affronter.
 
 Il héritait d'un trône solide mais d'une situation personnelle désastreuse. Car Philippe le Bel était mort en laissant derrière lui une affaire de famille dont le scandale avait éclaboussé la couronne quelques mois plus tôt — l'affaire des brus, qui allait empoisonner la succession capétienne bien au-delà de ce que quiconque avait prévu.
 
@@ -150,7 +150,7 @@ A suivre : [[L'avènement des Valois (1328–1337)]]
 - [[Jeanne (capetiens)]]
 - [[Jeanne de Bourgogne]]
 - [[Jeanne d'Évreux]]
-- [[Louis X]]
+- [[Louis X de France]]
 - [[Mahaut d'Artois]]
 - [[Marguerite de Bourgogne]]
 - [[Marie de Luxembourg]]

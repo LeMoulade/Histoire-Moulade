@@ -18,4 +18,5 @@ Theodor Wiesengrund Adorno est un philosophe, sociologue et musicologue allemand
 ## 🔗 Apparaît dans
 
 - [[L'Allemagne occupée et reconstruite (1945 - 1949)]]
+- [[Le miracle économique ouest-allemand (1949 - 1963)]]
 

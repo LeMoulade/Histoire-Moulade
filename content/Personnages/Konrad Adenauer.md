@@ -18,4 +18,6 @@ Konrad Adenauer est l'homme d'État allemand le plus important de l'après-guerr
 ## 🔗 Apparaît dans
 
 - [[L'Allemagne occupée et reconstruite (1945 - 1949)]]
+- [[Le miracle économique ouest-allemand (1949 - 1963)]]
+- [[De la grande coalition à l'Ostpolitik (1963 - 1982)]]
 
