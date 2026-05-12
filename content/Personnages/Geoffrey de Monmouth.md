@@ -19,4 +19,5 @@ Geoffrey de Monmouth est un clerc et chroniqueur gallois dont l'œuvre fondatric
 
 - [[Les racines celtiques — Avant Arthur]]
 - [[Uther Pendragon et la conception d'Arthur]]
+- [[L'épée dans le rocher et le sacre d'Arthur]]
 

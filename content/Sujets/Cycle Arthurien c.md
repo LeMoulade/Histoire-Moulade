@@ -6,17 +6,6 @@ Arthur
 
 
 
-#### **LEÇON 3 : L'épée dans le rocher et le sacre d'Arthur**
-
-_Le roi légitime se révèle_
-
-- L'épée Excalibur fichée dans l'enclume de pierre à Londres
-- Tous les chevaliers du royaume échouent à la tirer
-- Arthur, jeune écuyer inconnu, la tire sans effort
-- Résistance des rois vassaux refusant de reconnaître sa légitimité
-- Guerres de consolidation : Arthur s'impose par les armes
-
----
 
 #### **LEÇON 4 : Merlin, le conseiller et l'architecte du royaume**
 

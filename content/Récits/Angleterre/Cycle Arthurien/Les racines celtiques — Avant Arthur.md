@@ -135,7 +135,7 @@ Cette figure du _vates_ — du prophète inspiré par la folie divine — est pr
 
 ---
 
-A suivre : 
+A suivre : [[Uther Pendragon et la conception d'Arthur]]
 
 
 <hr>
