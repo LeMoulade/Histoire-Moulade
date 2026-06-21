@@ -1,0 +1,53 @@
+# Bartholomew Roberts (Black Bart)
+
+*vers 1682 – 10 février 1722*
+
+![[Bartholomew Roberts.png|60%]]
+
+## En bref
+
+Bartholomew Roberts est, en nombre de navires pris, le pirate le plus prolifique de toute l'histoire : plus de quatre cents prises en à peine trois ans d'activité, de 1719 à 1722. Gallois, élégant jusqu'à l'extravagance, abstinent là où ses semblables se noyaient dans le rhum, il a dominé l'Atlantique des côtes du Brésil à celles de l'Afrique de l'Ouest, en passant par les Caraïbes et Terre-Neuve. Sa mort au combat contre la marine britannique est souvent retenue comme le moment où s'achève l'âge d'or de la piraterie. Le paradoxe de Roberts, c'est qu'il est à la fois l'un des pirates les mieux documentés et l'un des plus difficiles à connaître, parce que l'essentiel de sa légende repose sur un seul livre, écrit deux ans après sa mort par un auteur dont on ignore jusqu'au vrai nom.
+
+## Un marin tardif
+
+Il naît vers 1682 dans un village du Pembrokeshire, au sud-ouest du pays de Galles, et reçoit le prénom de John. Bartholomew est un nom qu'il adoptera plus tard, peut-être en hommage au flibustier Bartholomew Sharp, peut-être pour brouiller son identité. Fils d'un homme du pays sans grande fortune, il prend la mer très jeune, vers treize ans, et passe ensuite plus de vingt années dans l'ombre la plus complète. On perd sa trace pendant tout ce temps, et il ne resurgit qu'en 1718, déjà âgé d'environ trente-six ans, comme second d'un petit navire.
+
+Ce détail compte, car il dément l'image du pirate qui choisit très jeune une vie d'aventure. Roberts a été un marin ordinaire, probablement honnête, pendant la plus grande partie de son existence. En 1719, on le retrouve troisième officier de la *Princess*, un navire négrier londonien qui transporte des esclaves depuis la côte africaine. C'est ce métier-là, le commerce de la traite, qu'il exerçait au moment où sa vie a basculé.
+
+## Le basculement
+
+En 1719, au large de l'Afrique de l'Ouest, la *Princess* est capturée par un autre Gallois, le pirate **Howell Davis**. Roberts est fait prisonnier et contraint de rejoindre l'équipage, ce qui était une pratique courante : les pirates enrôlaient de force les marins compétents, et plus encore les navigateurs. Selon les récits postérieurs, il aurait d'abord résisté à cette vie imposée. La suite est rapide. Quelques semaines plus tard seulement, Davis tombe dans une embuscade et est tué sur l'île de Príncipe. L'équipage doit se choisir un nouveau chef, et il élit Roberts, ce nouveau venu réticent, sans doute pour ses talents de navigateur et son tempérament posé.
+
+Cette élection éclaire un trait fondamental de la piraterie de cette époque, qu'on retrouvera dans toutes les fiches du sujet : sur un navire pirate, le capitaine était élu par l'équipage et pouvait être destitué. Le pouvoir reposait sur le consentement des hommes, à rebours total de la discipline brutale et hiérarchique de la marine marchande ou de la Royal Navy. C'est ce contraste qui a nourri, chez certains historiens, l'idée que ces équipages formaient des sortes de petites républiques flottantes. Roberts, l'homme contraint d'embrasser la piraterie, en devient l'un des chefs les plus accomplis. Une formule qu'on lui prête résume sa lucidité : dans le service honnête, il y a maigre pitance, bas salaire et dur labeur ; dans celui-ci, l'abondance, le plaisir, la liberté et le pouvoir, au prix d'une vie sans doute courte.
+
+## Trois ans à travers l'Atlantique
+
+Ce qui suit tient en moins de trois années d'une intensité difficile à imaginer. Roberts ne se contente pas de raids isolés ; il pratique des attaques massives et préfère l'audace à la prudence. Surtout, il use d'une tactique de dispersion géographique : frapper sur une côte, puis traverser l'océan pour frapper sur une autre, de façon à toujours échapper aux navires lancés à sa poursuite.
+
+Très tôt, sur les côtes du Brésil, il réussit son coup le plus spectaculaire. Une flotte marchande portugaise d'une quarantaine de voiles attend, dans une baie, l'escorte des vaisseaux de guerre qui doit la convoyer jusqu'à Lisbonne. Roberts se glisse au milieu d'elle, force le capitaine d'un navire capturé à lui désigner la prise la plus riche, et s'empare du *Sagrada Família*, un bâtiment lourdement armé chargé d'or. Le butin se compte en dizaines de milliers de pièces d'or. C'est l'exploit qui fait sa réputation, et il illustre sa méthode, faite de ruse plus que de force brute.
+
+La suite n'est pas une ascension régulière. Peu après, un de ses lieutenants, **Walter Kennedy**, profite d'une absence de Roberts parti en chasse pour s'enfuir avec le navire et l'essentiel du trésor brésilien. Trahi, Roberts réagit en faisant rédiger des articles stricts que ses hommes jurent de respecter, geste fondateur dont on reparlera plus bas.
+
+Il porte ensuite ses coups dans les Caraïbes, puis remonte vers le nord. À l'été 1720, il fond sur le port de Trepassey, à Terre-Neuve, grand centre de pêche et de salaison de la morue, où il s'empare sans presque rencontrer de résistance d'une vingtaine de navires marchands et de plus d'une centaine de barques de pêche. C'est ici qu'il faut être prudent, car les versions divergent. Le grand récit de l'époque affirme qu'il ravagea tout et brûla la flotte entière ; mais un pêcheur témoin de la scène a raconté qu'il n'avait incendié qu'un seul navire et qu'il avait payé ses provisions plutôt que de les voler. L'écart entre ces deux versions est exactement le genre de chose qui sépare la légende du fait.
+
+Il développe une véritable mise en scène de la terreur. Il navigue sous le pavillon d'une nation amie pour approcher ses proies, puis hisse au dernier moment ses propres drapeaux quand il est trop tard pour fuir. Ses pavillons noirs sont des œuvres de propagande : l'un le représente debout, un sabre flamboyant à la main, posant chaque pied sur un crâne marqué des initiales de la Barbade et de la Martinique, deux colonies dont les autorités l'avaient pourchassé et qu'il haïssait. Le navire amiral, plusieurs fois renouvelé et toujours rebaptisé *Royal Fortune*, finit par porter une quarantaine de canons, une puissance de feu de vaisseau de guerre.
+
+## L'homme et le code
+
+Roberts détonne dans le monde des pirates. Les sources le décrivent grand, hâlé par les années de mer, vêtu avec recherche : habit de damas cramoisi, plume au chapeau, chaîne d'or et croix de diamant en sautoir au moment de sa dernière bataille. Il buvait du thé plutôt que de l'alcool et imposait à son bord une discipline qui tranchait avec le désordre attendu. Il pouvait être impitoyable : on lui attribue, lors d'une prise au large de la Martinique, la pendaison du gouverneur de l'île au bout d'une vergue, et l'incendie d'un navire négrier avec à son bord les esclaves enchaînés, parce qu'on lui refusait une rançon. La cruauté envers les captifs cohabitait chez lui avec une exigence d'équité envers les siens.
+
+C'est à son équipage qu'est associé le plus célèbre des codes pirates, ces « articles » que les hommes juraient sur une Bible. Ils prévoyaient le droit de vote de chacun sur les décisions importantes, un partage réglé du butin légèrement avantageux pour le capitaine et les officiers, l'interdiction du jeu d'argent, l'extinction des lumières à une heure fixe, l'interdiction de faire monter une femme à bord, et même une forme d'indemnisation des blessés, une somme fixée selon le membre perdu, que l'on a pu décrire comme un ancêtre de l'assurance. Il faut toutefois manier ces articles avec précaution. Nous ne les connaissons qu'à travers le livre de 1724, qui en donne ce qu'il appelle la substance, et Roberts les a vraisemblablement repris en grande partie de son prédécesseur Howell Davis. Ils sont moins une invention personnelle qu'une mise par écrit des usages égalitaires déjà répandus chez les pirates de son temps.
+
+## La fin à Cape Lopez
+
+La pendaison du gouverneur français fut sans doute l'affront de trop. La France et l'Angleterre lancent leurs marines à ses trousses. Le capitaine **Chaloner Ogle**, commandant le navire de guerre **HMS *Swallow***, le piste jusqu'aux côtes africaines. Le 10 février 1722, au large de Cape Lopez, sur l'actuel Gabon, le *Swallow* approche en se faisant passer pour un navire marchand. Une partie de l'équipage de Roberts avait bu la veille et se trouvait peu en état de combattre. Dans l'échange de tirs, Roberts est frappé à la gorge par une décharge de mitraille et meurt presque sur le coup.
+
+Ses hommes, fidèles à un souhait qu'il aurait exprimé, jettent son corps à la mer dans toute sa parure de pirate, avant qu'il ne tombe aux mains de l'ennemi. La marine ne récupéra donc jamais sa dépouille. Les survivants furent capturés. Au château de Cape Coast, sur la côte de l'actuel Ghana, cinquante-deux d'entre eux furent pendus, l'une des plus grandes exécutions collectives de pirates de la période. Avec la disparition de Roberts, aucun autre pirate de cette envergure n'émergea, et les historiens font souvent de ce 10 février 1722 la date symbolique où s'achève l'âge d'or de la piraterie.
+
+## Ce que sa vie révèle
+
+Roberts est précieux parce qu'il concentre, en une trajectoire unique, tout ce qui rend cette époque fascinante et trouble. Il montre que le pirate type n'était pas un jeune aventurier mais souvent un marin expérimenté, broyé par les conditions épouvantables de la marine marchande et de la traite, et basculant presque par accident de l'autre côté de la loi. Il incarne aussi la dimension politique de la piraterie, ces équipages qui élisaient leurs chefs et se donnaient des règles écrites à une époque où la plupart des hommes vivaient sous l'autorité absolue d'un roi ou d'un capitaine. Et il rappelle, par le contraste entre sa fortune en navires et sa fin misérable, que ces carrières flamboyantes se terminaient presque toutes par la corde ou la mitraille, en quelques années à peine.
+
+Il oblige enfin à une prudence d'historien. Presque tout ce que nous croyons savoir de lui, des dialogues aux articles en passant par ses traits de caractère, vient d'un seul ouvrage paru en 1724, *Une histoire générale des plus fameux pirates*, signé d'un certain capitaine Charles Johnson dont l'identité réelle reste inconnue, et qu'on a longtemps attribué, sans preuve solide, à Daniel Defoe. Ce livre a forgé l'image populaire du pirate, mais il mêle faits attestés et embellissements littéraires, au point que les spécialistes le rangent plutôt parmi les sources littéraires que parmi les documents fiables. Chaque fois qu'on raconte Black Bart, on raconte donc en partie ce livre, et c'est en gardant cette distance qu'on parle juste de lui.
+
+

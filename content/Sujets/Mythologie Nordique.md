@@ -1,7 +1,0 @@
-- **Cosmogonie** (Yggdrasil, les neuf mondes, création de l'homme)
-- **Âge des dieux** (Ases, Vanes, géants primordiaux)
-- **Cycle d'Odin** (quête de sagesse, ravens, guerre Ases-Vanes)
-- **Cycle de Thor** (combats contre les géants, Jörmungandr)
-- **Cycle de Loki** (malice, métamorphoses, trahison)
-- **Cycle des héros** (Sigurd/Siegfried, Nibelungen, Völsunga) Siegfried
-- **Ragnarök** (fin des dieux & renouveau du monde)
